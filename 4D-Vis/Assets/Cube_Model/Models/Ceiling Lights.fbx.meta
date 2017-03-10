@@ -1,0 +1,234 @@
+fileFormatVersion: 2
+guid: ad9adf5280e0732479ac79895e0fee69
+timeCreated: 1474434057
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Ceiling_Light
+    100004: Ceiling_Light 1
+    100006: Ceiling_Light 2
+    100008: Ceiling_Light 3
+    100010: Ceiling_Light 4
+    100012: Ceiling_Light1
+    100014: Ceiling_Light1 1
+    100016: Ceiling_Light1 2
+    100018: Ceiling_Light1 3
+    100020: Ceiling_Light1 4
+    100022: Ceiling_Light2
+    100024: Ceiling_Light2 1
+    100026: Ceiling_Light2 2
+    100028: Ceiling_Light2 3
+    100030: Ceiling_Light2 4
+    100032: Ceiling_Light4
+    100034: Ceiling_Light4 1
+    100036: Ceiling_Light4 2
+    100038: Ceiling_Light4 3
+    100040: Ceiling_Light4 4
+    100042: Ceiling_Light5
+    100044: Ceiling_Light5 1
+    100046: Ceiling_Light5 2
+    100048: Ceiling_Light5 3
+    100050: Ceiling_Light5 4
+    100052: Ceiling_Light6
+    100054: Ceiling_Light6 1
+    100056: Ceiling_Light6 2
+    100058: Ceiling_Light6 3
+    100060: Ceiling_Light6 4
+    100062: Ceiling_Light_Row
+    100064: Ceiling_Light_Row1
+    100066: Ceiling_Light_Row2
+    100068: Ceiling_Light_Row3
+    100070: Ceiling_Light_Row4
+    400000: //RootNode
+    400002: Ceiling_Light
+    400004: Ceiling_Light 1
+    400006: Ceiling_Light 2
+    400008: Ceiling_Light 3
+    400010: Ceiling_Light 4
+    400012: Ceiling_Light1
+    400014: Ceiling_Light1 1
+    400016: Ceiling_Light1 2
+    400018: Ceiling_Light1 3
+    400020: Ceiling_Light1 4
+    400022: Ceiling_Light2
+    400024: Ceiling_Light2 1
+    400026: Ceiling_Light2 2
+    400028: Ceiling_Light2 3
+    400030: Ceiling_Light2 4
+    400032: Ceiling_Light4
+    400034: Ceiling_Light4 1
+    400036: Ceiling_Light4 2
+    400038: Ceiling_Light4 3
+    400040: Ceiling_Light4 4
+    400042: Ceiling_Light5
+    400044: Ceiling_Light5 1
+    400046: Ceiling_Light5 2
+    400048: Ceiling_Light5 3
+    400050: Ceiling_Light5 4
+    400052: Ceiling_Light6
+    400054: Ceiling_Light6 1
+    400056: Ceiling_Light6 2
+    400058: Ceiling_Light6 3
+    400060: Ceiling_Light6 4
+    400062: Ceiling_Light_Row
+    400064: Ceiling_Light_Row1
+    400066: Ceiling_Light_Row2
+    400068: Ceiling_Light_Row3
+    400070: Ceiling_Light_Row4
+    2300000: Ceiling_Light
+    2300002: Ceiling_Light 1
+    2300004: Ceiling_Light 2
+    2300006: Ceiling_Light 3
+    2300008: Ceiling_Light 4
+    2300010: Ceiling_Light1
+    2300012: Ceiling_Light1 1
+    2300014: Ceiling_Light1 2
+    2300016: Ceiling_Light1 3
+    2300018: Ceiling_Light1 4
+    2300020: Ceiling_Light2
+    2300022: Ceiling_Light2 1
+    2300024: Ceiling_Light2 2
+    2300026: Ceiling_Light2 3
+    2300028: Ceiling_Light2 4
+    2300030: Ceiling_Light4
+    2300032: Ceiling_Light4 1
+    2300034: Ceiling_Light4 2
+    2300036: Ceiling_Light4 3
+    2300038: Ceiling_Light4 4
+    2300040: Ceiling_Light5
+    2300042: Ceiling_Light5 1
+    2300044: Ceiling_Light5 2
+    2300046: Ceiling_Light5 3
+    2300048: Ceiling_Light5 4
+    2300050: Ceiling_Light6
+    2300052: Ceiling_Light6 1
+    2300054: Ceiling_Light6 2
+    2300056: Ceiling_Light6 3
+    2300058: Ceiling_Light6 4
+    3300000: Ceiling_Light
+    3300002: Ceiling_Light 1
+    3300004: Ceiling_Light 2
+    3300006: Ceiling_Light 3
+    3300008: Ceiling_Light 4
+    3300010: Ceiling_Light1
+    3300012: Ceiling_Light1 1
+    3300014: Ceiling_Light1 2
+    3300016: Ceiling_Light1 3
+    3300018: Ceiling_Light1 4
+    3300020: Ceiling_Light2
+    3300022: Ceiling_Light2 1
+    3300024: Ceiling_Light2 2
+    3300026: Ceiling_Light2 3
+    3300028: Ceiling_Light2 4
+    3300030: Ceiling_Light4
+    3300032: Ceiling_Light4 1
+    3300034: Ceiling_Light4 2
+    3300036: Ceiling_Light4 3
+    3300038: Ceiling_Light4 4
+    3300040: Ceiling_Light5
+    3300042: Ceiling_Light5 1
+    3300044: Ceiling_Light5 2
+    3300046: Ceiling_Light5 3
+    3300048: Ceiling_Light5 4
+    3300050: Ceiling_Light6
+    3300052: Ceiling_Light6 1
+    3300054: Ceiling_Light6 2
+    3300056: Ceiling_Light6 3
+    3300058: Ceiling_Light6 4
+    4300000: Ceiling_Light2
+    4300002: Ceiling_Light1
+    4300004: Ceiling_Light
+    4300006: Ceiling_Light4
+    4300008: Ceiling_Light5
+    4300010: Ceiling_Light6
+    4300012: Ceiling_Light2
+    4300014: Ceiling_Light1
+    4300016: Ceiling_Light
+    4300018: Ceiling_Light4
+    4300020: Ceiling_Light5
+    4300022: Ceiling_Light6
+    4300024: Ceiling_Light2
+    4300026: Ceiling_Light1
+    4300028: Ceiling_Light
+    4300030: Ceiling_Light4
+    4300032: Ceiling_Light5
+    4300034: Ceiling_Light6
+    4300036: Ceiling_Light2
+    4300038: Ceiling_Light1
+    4300040: Ceiling_Light
+    4300042: Ceiling_Light4
+    4300044: Ceiling_Light5
+    4300046: Ceiling_Light6
+    4300048: Ceiling_Light2
+    4300050: Ceiling_Light1
+    4300052: Ceiling_Light
+    4300054: Ceiling_Light4
+    4300056: Ceiling_Light5
+    4300058: Ceiling_Light6
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

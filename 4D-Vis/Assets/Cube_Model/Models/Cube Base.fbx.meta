@@ -1,0 +1,219 @@
+fileFormatVersion: 2
+guid: e9e1afd79b0edf440a6c4730cddea570
+timeCreated: 1469681488
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: CeilingTiles
+    100002: controlRoom_Walls
+    100004: controlWalls
+    100006: cornerWalls
+    100008: //RootNode
+    100010: Door10_Obj
+    100012: Door11_Obj
+    100014: Door12_Obj
+    100016: Door14_Obj
+    100018: Door15_Obj
+    100020: Door16_Obj
+    100022: Door18_Obj
+    100024: Door19_Obj
+    100026: Door20_Obj
+    100028: Door22_Obj
+    100030: Door23_Obj
+    100032: Doors_Grp
+    100034: fifthFloorDoors_Grp
+    100036: firstFloorDoors_Grp
+    100038: forthFloorDoors_Grp
+    100040: gridFloors
+    100042: Ground_Obj
+    100044: level1_walkwayTrim
+    100046: level_walls
+    100048: level_walls1
+    100050: 'railing '
+    100052: secondFloorDoors_Grp
+    100054: secondFloorWindow_Obj
+    100056: 'smallerBeam_underWalkWay '
+    100058: thickerBeam_underWalkWay
+    100060: thirdFloorDoors_Grp
+    100062: thirdFloorWindow_Obj
+    100064: upperBeams
+    100066: windows_Grp
+    400000: CeilingTiles
+    400002: controlRoom_Walls
+    400004: controlWalls
+    400006: cornerWalls
+    400008: //RootNode
+    400010: Door10_Obj
+    400012: Door11_Obj
+    400014: Door12_Obj
+    400016: Door14_Obj
+    400018: Door15_Obj
+    400020: Door16_Obj
+    400022: Door18_Obj
+    400024: Door19_Obj
+    400026: Door20_Obj
+    400028: Door22_Obj
+    400030: Door23_Obj
+    400032: Doors_Grp
+    400034: fifthFloorDoors_Grp
+    400036: firstFloorDoors_Grp
+    400038: forthFloorDoors_Grp
+    400040: gridFloors
+    400042: Ground_Obj
+    400044: level1_walkwayTrim
+    400046: level_walls
+    400048: level_walls1
+    400050: 'railing '
+    400052: secondFloorDoors_Grp
+    400054: secondFloorWindow_Obj
+    400056: 'smallerBeam_underWalkWay '
+    400058: thickerBeam_underWalkWay
+    400060: thirdFloorDoors_Grp
+    400062: thirdFloorWindow_Obj
+    400064: upperBeams
+    400066: windows_Grp
+    2300000: CeilingTiles
+    2300002: controlRoom_Walls
+    2300004: controlWalls
+    2300006: cornerWalls
+    2300008: Door10_Obj
+    2300010: Door11_Obj
+    2300012: Door12_Obj
+    2300014: Door14_Obj
+    2300016: Door15_Obj
+    2300018: Door16_Obj
+    2300020: Door18_Obj
+    2300022: Door19_Obj
+    2300024: Door20_Obj
+    2300026: Door22_Obj
+    2300028: Door23_Obj
+    2300030: gridFloors
+    2300032: Ground_Obj
+    2300034: level1_walkwayTrim
+    2300036: level_walls
+    2300038: level_walls1
+    2300040: 'railing '
+    2300042: secondFloorWindow_Obj
+    2300044: 'smallerBeam_underWalkWay '
+    2300046: thickerBeam_underWalkWay
+    2300048: thirdFloorWindow_Obj
+    2300050: upperBeams
+    3300000: CeilingTiles
+    3300002: controlRoom_Walls
+    3300004: controlWalls
+    3300006: cornerWalls
+    3300008: Door10_Obj
+    3300010: Door11_Obj
+    3300012: Door12_Obj
+    3300014: Door14_Obj
+    3300016: Door15_Obj
+    3300018: Door16_Obj
+    3300020: Door18_Obj
+    3300022: Door19_Obj
+    3300024: Door20_Obj
+    3300026: Door22_Obj
+    3300028: Door23_Obj
+    3300030: gridFloors
+    3300032: Ground_Obj
+    3300034: level1_walkwayTrim
+    3300036: level_walls
+    3300038: level_walls1
+    3300040: 'railing '
+    3300042: secondFloorWindow_Obj
+    3300044: 'smallerBeam_underWalkWay '
+    3300046: thickerBeam_underWalkWay
+    3300048: thirdFloorWindow_Obj
+    3300050: upperBeams
+    4300000: CeilingTiles
+    4300002: thirdFloorWindow_Obj
+    4300004: secondFloorWindow_Obj
+    4300006: Door10_Obj
+    4300008: Door11_Obj
+    4300010: Door12_Obj
+    4300012: Door14_Obj
+    4300014: Door15_Obj
+    4300016: Door16_Obj
+    4300018: Door18_Obj
+    4300020: Door19_Obj
+    4300022: Door20_Obj
+    4300024: Door22_Obj
+    4300026: Door23_Obj
+    4300028: Ground_Obj
+    4300030: controlRoom_Walls
+    4300032: upperBeams
+    4300034: cornerWalls
+    4300036: controlWalls
+    4300038: level_walls
+    4300040: gridFloors
+    4300042: 'railing '
+    4300044: thickerBeam_underWalkWay
+    4300046: 'smallerBeam_underWalkWay '
+    4300048: level1_walkwayTrim
+    4300050: level_walls1
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

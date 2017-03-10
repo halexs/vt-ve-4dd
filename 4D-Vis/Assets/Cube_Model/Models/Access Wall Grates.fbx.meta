@@ -1,0 +1,1346 @@
+fileFormatVersion: 2
+guid: b7ff81b3f39183a4aa7a8e225e76ff57
+timeCreated: 1470238088
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Grate_Bottom_Row
+    100004: Grate_Bottom_Row 1
+    100006: Grate_Bottom_Row 2
+    100008: Grate_Bottom_Row 3
+    100010: Grate_Bottom_Row 4
+    100012: Grate_Bottom_Row 5
+    100014: Grate_Column
+    100016: Grate_Column 1
+    100018: Grate_Column 2
+    100020: Grate_Column 3
+    100022: Grate_Column 4
+    100024: Grate_Column 5
+    100026: Grate_Column1
+    100028: Grate_Column1 1
+    100030: Grate_Column1 2
+    100032: Grate_Column1 3
+    100034: Grate_Column1 4
+    100036: Grate_Column1 5
+    100038: Grate_Column10
+    100040: Grate_Column10 1
+    100042: Grate_Column10 2
+    100044: Grate_Column10 3
+    100046: Grate_Column10 4
+    100048: Grate_Column10 5
+    100050: Grate_Column11
+    100052: Grate_Column11 1
+    100054: Grate_Column11 2
+    100056: Grate_Column11 3
+    100058: Grate_Column11 4
+    100060: Grate_Column11 5
+    100062: Grate_Column12
+    100064: Grate_Column12 1
+    100066: Grate_Column12 2
+    100068: Grate_Column12 3
+    100070: Grate_Column12 4
+    100072: Grate_Column12 5
+    100074: Grate_Column13
+    100076: Grate_Column13 1
+    100078: Grate_Column13 2
+    100080: Grate_Column13 3
+    100082: Grate_Column13 4
+    100084: Grate_Column13 5
+    100086: Grate_Column14
+    100088: Grate_Column14 1
+    100090: Grate_Column14 2
+    100092: Grate_Column14 3
+    100094: Grate_Column14 4
+    100096: Grate_Column14 5
+    100098: Grate_Column15
+    100100: Grate_Column15 1
+    100102: Grate_Column15 2
+    100104: Grate_Column15 3
+    100106: Grate_Column15 4
+    100108: Grate_Column15 5
+    100110: Grate_Column16
+    100112: Grate_Column16 1
+    100114: Grate_Column16 2
+    100116: Grate_Column16 3
+    100118: Grate_Column16 4
+    100120: Grate_Column16 5
+    100122: Grate_Column17
+    100124: Grate_Column17 1
+    100126: Grate_Column17 2
+    100128: Grate_Column17 3
+    100130: Grate_Column17 4
+    100132: Grate_Column17 5
+    100134: Grate_Column18
+    100136: Grate_Column18 1
+    100138: Grate_Column18 2
+    100140: Grate_Column18 3
+    100142: Grate_Column18 4
+    100144: Grate_Column18 5
+    100146: Grate_Column19
+    100148: Grate_Column19 1
+    100150: Grate_Column19 2
+    100152: Grate_Column19 3
+    100154: Grate_Column19 4
+    100156: Grate_Column19 5
+    100158: Grate_Column2
+    100160: Grate_Column2 1
+    100162: Grate_Column2 2
+    100164: Grate_Column2 3
+    100166: Grate_Column2 4
+    100168: Grate_Column2 5
+    100170: Grate_Column20
+    100172: Grate_Column20 1
+    100174: Grate_Column20 2
+    100176: Grate_Column20 3
+    100178: Grate_Column20 4
+    100180: Grate_Column20 5
+    100182: Grate_Column21
+    100184: Grate_Column21 1
+    100186: Grate_Column21 2
+    100188: Grate_Column21 3
+    100190: Grate_Column21 4
+    100192: Grate_Column21 5
+    100194: Grate_Column22
+    100196: Grate_Column22 1
+    100198: Grate_Column22 2
+    100200: Grate_Column22 3
+    100202: Grate_Column22 4
+    100204: Grate_Column22 5
+    100206: Grate_Column3
+    100208: Grate_Column3 1
+    100210: Grate_Column3 2
+    100212: Grate_Column3 3
+    100214: Grate_Column3 4
+    100216: Grate_Column3 5
+    100218: Grate_Column4
+    100220: Grate_Column4 1
+    100222: Grate_Column4 2
+    100224: Grate_Column4 3
+    100226: Grate_Column4 4
+    100228: Grate_Column4 5
+    100230: Grate_Column5
+    100232: Grate_Column5 1
+    100234: Grate_Column5 2
+    100236: Grate_Column5 3
+    100238: Grate_Column5 4
+    100240: Grate_Column5 5
+    100242: Grate_Column6
+    100244: Grate_Column6 1
+    100246: Grate_Column6 2
+    100248: Grate_Column6 3
+    100250: Grate_Column6 4
+    100252: Grate_Column6 5
+    100254: Grate_Column7
+    100256: Grate_Column7 1
+    100258: Grate_Column7 2
+    100260: Grate_Column7 3
+    100262: Grate_Column7 4
+    100264: Grate_Column7 5
+    100266: Grate_Column8
+    100268: Grate_Column8 1
+    100270: Grate_Column8 2
+    100272: Grate_Column8 3
+    100274: Grate_Column8 4
+    100276: Grate_Column8 5
+    100278: Grate_Column9
+    100280: Grate_Column9 1
+    100282: Grate_Column9 2
+    100284: Grate_Column9 3
+    100286: Grate_Column9 4
+    100288: Grate_Column9 5
+    100290: Grate_Middle_Row
+    100292: Grate_Middle_Row 1
+    100294: Grate_Middle_Row 2
+    100296: Grate_Middle_Row 3
+    100298: Grate_Middle_Row 4
+    100300: Grate_Middle_Row 5
+    100302: Grate_Outline
+    100304: Grate_Outline 1
+    100306: Grate_Outline 2
+    100308: Grate_Outline 3
+    100310: Grate_Outline 4
+    100312: Grate_Outline 5
+    100314: Grate_Top_Row
+    100316: Grate_Top_Row 1
+    100318: Grate_Top_Row 2
+    100320: Grate_Top_Row 3
+    100322: Grate_Top_Row 4
+    100324: Grate_Top_Row 5
+    100326: Screw_1
+    100328: Screw_1 1
+    100330: Screw_1 2
+    100332: Screw_1 3
+    100334: Screw_1 4
+    100336: Screw_1 5
+    100338: Screw_10
+    100340: Screw_10 1
+    100342: Screw_10 2
+    100344: Screw_10 3
+    100346: Screw_10 4
+    100348: Screw_10 5
+    100350: Screw_11
+    100352: Screw_11 1
+    100354: Screw_11 2
+    100356: Screw_11 3
+    100358: Screw_11 4
+    100360: Screw_11 5
+    100362: Screw_12
+    100364: Screw_12 1
+    100366: Screw_12 2
+    100368: Screw_12 3
+    100370: Screw_12 4
+    100372: Screw_12 5
+    100374: Screw_13
+    100376: Screw_13 1
+    100378: Screw_13 2
+    100380: Screw_13 3
+    100382: Screw_13 4
+    100384: Screw_13 5
+    100386: Screw_14
+    100388: Screw_14 1
+    100390: Screw_14 2
+    100392: Screw_14 3
+    100394: Screw_14 4
+    100396: Screw_14 5
+    100398: Screw_15
+    100400: Screw_15 1
+    100402: Screw_15 2
+    100404: Screw_15 3
+    100406: Screw_15 4
+    100408: Screw_15 5
+    100410: Screw_2
+    100412: Screw_2 1
+    100414: Screw_2 2
+    100416: Screw_2 3
+    100418: Screw_2 4
+    100420: Screw_2 5
+    100422: Screw_3
+    100424: Screw_3 1
+    100426: Screw_3 2
+    100428: Screw_3 3
+    100430: Screw_3 4
+    100432: Screw_3 5
+    100434: Screw_4
+    100436: Screw_4 1
+    100438: Screw_4 2
+    100440: Screw_4 3
+    100442: Screw_4 4
+    100444: Screw_4 5
+    100446: Screw_5
+    100448: Screw_5 1
+    100450: Screw_5 2
+    100452: Screw_5 3
+    100454: Screw_5 4
+    100456: Screw_5 5
+    100458: Screw_6
+    100460: Screw_6 1
+    100462: Screw_6 2
+    100464: Screw_6 3
+    100466: Screw_6 4
+    100468: Screw_6 5
+    100470: Screw_7
+    100472: Screw_7 1
+    100474: Screw_7 2
+    100476: Screw_7 3
+    100478: Screw_7 4
+    100480: Screw_7 5
+    100482: Screw_8
+    100484: Screw_8 1
+    100486: Screw_8 2
+    100488: Screw_8 3
+    100490: Screw_8 4
+    100492: Screw_8 5
+    100494: Screw_9
+    100496: Screw_9 1
+    100498: Screw_9 2
+    100500: Screw_9 3
+    100502: Screw_9 4
+    100504: Screw_9 5
+    100506: Wall_Grate
+    100508: Wall_Grate1
+    100510: Wall_Grate2
+    100512: Wall_Grate3
+    100514: Wall_Grate4
+    100516: Wall_Grate5
+    400000: //RootNode
+    400002: Grate_Bottom_Row
+    400004: Grate_Bottom_Row 1
+    400006: Grate_Bottom_Row 2
+    400008: Grate_Bottom_Row 3
+    400010: Grate_Bottom_Row 4
+    400012: Grate_Bottom_Row 5
+    400014: Grate_Column
+    400016: Grate_Column 1
+    400018: Grate_Column 2
+    400020: Grate_Column 3
+    400022: Grate_Column 4
+    400024: Grate_Column 5
+    400026: Grate_Column1
+    400028: Grate_Column1 1
+    400030: Grate_Column1 2
+    400032: Grate_Column1 3
+    400034: Grate_Column1 4
+    400036: Grate_Column1 5
+    400038: Grate_Column10
+    400040: Grate_Column10 1
+    400042: Grate_Column10 2
+    400044: Grate_Column10 3
+    400046: Grate_Column10 4
+    400048: Grate_Column10 5
+    400050: Grate_Column11
+    400052: Grate_Column11 1
+    400054: Grate_Column11 2
+    400056: Grate_Column11 3
+    400058: Grate_Column11 4
+    400060: Grate_Column11 5
+    400062: Grate_Column12
+    400064: Grate_Column12 1
+    400066: Grate_Column12 2
+    400068: Grate_Column12 3
+    400070: Grate_Column12 4
+    400072: Grate_Column12 5
+    400074: Grate_Column13
+    400076: Grate_Column13 1
+    400078: Grate_Column13 2
+    400080: Grate_Column13 3
+    400082: Grate_Column13 4
+    400084: Grate_Column13 5
+    400086: Grate_Column14
+    400088: Grate_Column14 1
+    400090: Grate_Column14 2
+    400092: Grate_Column14 3
+    400094: Grate_Column14 4
+    400096: Grate_Column14 5
+    400098: Grate_Column15
+    400100: Grate_Column15 1
+    400102: Grate_Column15 2
+    400104: Grate_Column15 3
+    400106: Grate_Column15 4
+    400108: Grate_Column15 5
+    400110: Grate_Column16
+    400112: Grate_Column16 1
+    400114: Grate_Column16 2
+    400116: Grate_Column16 3
+    400118: Grate_Column16 4
+    400120: Grate_Column16 5
+    400122: Grate_Column17
+    400124: Grate_Column17 1
+    400126: Grate_Column17 2
+    400128: Grate_Column17 3
+    400130: Grate_Column17 4
+    400132: Grate_Column17 5
+    400134: Grate_Column18
+    400136: Grate_Column18 1
+    400138: Grate_Column18 2
+    400140: Grate_Column18 3
+    400142: Grate_Column18 4
+    400144: Grate_Column18 5
+    400146: Grate_Column19
+    400148: Grate_Column19 1
+    400150: Grate_Column19 2
+    400152: Grate_Column19 3
+    400154: Grate_Column19 4
+    400156: Grate_Column19 5
+    400158: Grate_Column2
+    400160: Grate_Column2 1
+    400162: Grate_Column2 2
+    400164: Grate_Column2 3
+    400166: Grate_Column2 4
+    400168: Grate_Column2 5
+    400170: Grate_Column20
+    400172: Grate_Column20 1
+    400174: Grate_Column20 2
+    400176: Grate_Column20 3
+    400178: Grate_Column20 4
+    400180: Grate_Column20 5
+    400182: Grate_Column21
+    400184: Grate_Column21 1
+    400186: Grate_Column21 2
+    400188: Grate_Column21 3
+    400190: Grate_Column21 4
+    400192: Grate_Column21 5
+    400194: Grate_Column22
+    400196: Grate_Column22 1
+    400198: Grate_Column22 2
+    400200: Grate_Column22 3
+    400202: Grate_Column22 4
+    400204: Grate_Column22 5
+    400206: Grate_Column3
+    400208: Grate_Column3 1
+    400210: Grate_Column3 2
+    400212: Grate_Column3 3
+    400214: Grate_Column3 4
+    400216: Grate_Column3 5
+    400218: Grate_Column4
+    400220: Grate_Column4 1
+    400222: Grate_Column4 2
+    400224: Grate_Column4 3
+    400226: Grate_Column4 4
+    400228: Grate_Column4 5
+    400230: Grate_Column5
+    400232: Grate_Column5 1
+    400234: Grate_Column5 2
+    400236: Grate_Column5 3
+    400238: Grate_Column5 4
+    400240: Grate_Column5 5
+    400242: Grate_Column6
+    400244: Grate_Column6 1
+    400246: Grate_Column6 2
+    400248: Grate_Column6 3
+    400250: Grate_Column6 4
+    400252: Grate_Column6 5
+    400254: Grate_Column7
+    400256: Grate_Column7 1
+    400258: Grate_Column7 2
+    400260: Grate_Column7 3
+    400262: Grate_Column7 4
+    400264: Grate_Column7 5
+    400266: Grate_Column8
+    400268: Grate_Column8 1
+    400270: Grate_Column8 2
+    400272: Grate_Column8 3
+    400274: Grate_Column8 4
+    400276: Grate_Column8 5
+    400278: Grate_Column9
+    400280: Grate_Column9 1
+    400282: Grate_Column9 2
+    400284: Grate_Column9 3
+    400286: Grate_Column9 4
+    400288: Grate_Column9 5
+    400290: Grate_Middle_Row
+    400292: Grate_Middle_Row 1
+    400294: Grate_Middle_Row 2
+    400296: Grate_Middle_Row 3
+    400298: Grate_Middle_Row 4
+    400300: Grate_Middle_Row 5
+    400302: Grate_Outline
+    400304: Grate_Outline 1
+    400306: Grate_Outline 2
+    400308: Grate_Outline 3
+    400310: Grate_Outline 4
+    400312: Grate_Outline 5
+    400314: Grate_Top_Row
+    400316: Grate_Top_Row 1
+    400318: Grate_Top_Row 2
+    400320: Grate_Top_Row 3
+    400322: Grate_Top_Row 4
+    400324: Grate_Top_Row 5
+    400326: Screw_1
+    400328: Screw_1 1
+    400330: Screw_1 2
+    400332: Screw_1 3
+    400334: Screw_1 4
+    400336: Screw_1 5
+    400338: Screw_10
+    400340: Screw_10 1
+    400342: Screw_10 2
+    400344: Screw_10 3
+    400346: Screw_10 4
+    400348: Screw_10 5
+    400350: Screw_11
+    400352: Screw_11 1
+    400354: Screw_11 2
+    400356: Screw_11 3
+    400358: Screw_11 4
+    400360: Screw_11 5
+    400362: Screw_12
+    400364: Screw_12 1
+    400366: Screw_12 2
+    400368: Screw_12 3
+    400370: Screw_12 4
+    400372: Screw_12 5
+    400374: Screw_13
+    400376: Screw_13 1
+    400378: Screw_13 2
+    400380: Screw_13 3
+    400382: Screw_13 4
+    400384: Screw_13 5
+    400386: Screw_14
+    400388: Screw_14 1
+    400390: Screw_14 2
+    400392: Screw_14 3
+    400394: Screw_14 4
+    400396: Screw_14 5
+    400398: Screw_15
+    400400: Screw_15 1
+    400402: Screw_15 2
+    400404: Screw_15 3
+    400406: Screw_15 4
+    400408: Screw_15 5
+    400410: Screw_2
+    400412: Screw_2 1
+    400414: Screw_2 2
+    400416: Screw_2 3
+    400418: Screw_2 4
+    400420: Screw_2 5
+    400422: Screw_3
+    400424: Screw_3 1
+    400426: Screw_3 2
+    400428: Screw_3 3
+    400430: Screw_3 4
+    400432: Screw_3 5
+    400434: Screw_4
+    400436: Screw_4 1
+    400438: Screw_4 2
+    400440: Screw_4 3
+    400442: Screw_4 4
+    400444: Screw_4 5
+    400446: Screw_5
+    400448: Screw_5 1
+    400450: Screw_5 2
+    400452: Screw_5 3
+    400454: Screw_5 4
+    400456: Screw_5 5
+    400458: Screw_6
+    400460: Screw_6 1
+    400462: Screw_6 2
+    400464: Screw_6 3
+    400466: Screw_6 4
+    400468: Screw_6 5
+    400470: Screw_7
+    400472: Screw_7 1
+    400474: Screw_7 2
+    400476: Screw_7 3
+    400478: Screw_7 4
+    400480: Screw_7 5
+    400482: Screw_8
+    400484: Screw_8 1
+    400486: Screw_8 2
+    400488: Screw_8 3
+    400490: Screw_8 4
+    400492: Screw_8 5
+    400494: Screw_9
+    400496: Screw_9 1
+    400498: Screw_9 2
+    400500: Screw_9 3
+    400502: Screw_9 4
+    400504: Screw_9 5
+    400506: Wall_Grate
+    400508: Wall_Grate1
+    400510: Wall_Grate2
+    400512: Wall_Grate3
+    400514: Wall_Grate4
+    400516: Wall_Grate5
+    2300000: Grate_Bottom_Row
+    2300002: Grate_Bottom_Row 1
+    2300004: Grate_Bottom_Row 2
+    2300006: Grate_Bottom_Row 3
+    2300008: Grate_Bottom_Row 4
+    2300010: Grate_Bottom_Row 5
+    2300012: Grate_Column
+    2300014: Grate_Column 1
+    2300016: Grate_Column 2
+    2300018: Grate_Column 3
+    2300020: Grate_Column 4
+    2300022: Grate_Column 5
+    2300024: Grate_Column1
+    2300026: Grate_Column1 1
+    2300028: Grate_Column1 2
+    2300030: Grate_Column1 3
+    2300032: Grate_Column1 4
+    2300034: Grate_Column1 5
+    2300036: Grate_Column10
+    2300038: Grate_Column10 1
+    2300040: Grate_Column10 2
+    2300042: Grate_Column10 3
+    2300044: Grate_Column10 4
+    2300046: Grate_Column10 5
+    2300048: Grate_Column11
+    2300050: Grate_Column11 1
+    2300052: Grate_Column11 2
+    2300054: Grate_Column11 3
+    2300056: Grate_Column11 4
+    2300058: Grate_Column11 5
+    2300060: Grate_Column12
+    2300062: Grate_Column12 1
+    2300064: Grate_Column12 2
+    2300066: Grate_Column12 3
+    2300068: Grate_Column12 4
+    2300070: Grate_Column12 5
+    2300072: Grate_Column13
+    2300074: Grate_Column13 1
+    2300076: Grate_Column13 2
+    2300078: Grate_Column13 3
+    2300080: Grate_Column13 4
+    2300082: Grate_Column13 5
+    2300084: Grate_Column14
+    2300086: Grate_Column14 1
+    2300088: Grate_Column14 2
+    2300090: Grate_Column14 3
+    2300092: Grate_Column14 4
+    2300094: Grate_Column14 5
+    2300096: Grate_Column15
+    2300098: Grate_Column15 1
+    2300100: Grate_Column15 2
+    2300102: Grate_Column15 3
+    2300104: Grate_Column15 4
+    2300106: Grate_Column15 5
+    2300108: Grate_Column16
+    2300110: Grate_Column16 1
+    2300112: Grate_Column16 2
+    2300114: Grate_Column16 3
+    2300116: Grate_Column16 4
+    2300118: Grate_Column16 5
+    2300120: Grate_Column17
+    2300122: Grate_Column17 1
+    2300124: Grate_Column17 2
+    2300126: Grate_Column17 3
+    2300128: Grate_Column17 4
+    2300130: Grate_Column17 5
+    2300132: Grate_Column18
+    2300134: Grate_Column18 1
+    2300136: Grate_Column18 2
+    2300138: Grate_Column18 3
+    2300140: Grate_Column18 4
+    2300142: Grate_Column18 5
+    2300144: Grate_Column19
+    2300146: Grate_Column19 1
+    2300148: Grate_Column19 2
+    2300150: Grate_Column19 3
+    2300152: Grate_Column19 4
+    2300154: Grate_Column19 5
+    2300156: Grate_Column2
+    2300158: Grate_Column2 1
+    2300160: Grate_Column2 2
+    2300162: Grate_Column2 3
+    2300164: Grate_Column2 4
+    2300166: Grate_Column2 5
+    2300168: Grate_Column20
+    2300170: Grate_Column20 1
+    2300172: Grate_Column20 2
+    2300174: Grate_Column20 3
+    2300176: Grate_Column20 4
+    2300178: Grate_Column20 5
+    2300180: Grate_Column21
+    2300182: Grate_Column21 1
+    2300184: Grate_Column21 2
+    2300186: Grate_Column21 3
+    2300188: Grate_Column21 4
+    2300190: Grate_Column21 5
+    2300192: Grate_Column22
+    2300194: Grate_Column22 1
+    2300196: Grate_Column22 2
+    2300198: Grate_Column22 3
+    2300200: Grate_Column22 4
+    2300202: Grate_Column22 5
+    2300204: Grate_Column3
+    2300206: Grate_Column3 1
+    2300208: Grate_Column3 2
+    2300210: Grate_Column3 3
+    2300212: Grate_Column3 4
+    2300214: Grate_Column3 5
+    2300216: Grate_Column4
+    2300218: Grate_Column4 1
+    2300220: Grate_Column4 2
+    2300222: Grate_Column4 3
+    2300224: Grate_Column4 4
+    2300226: Grate_Column4 5
+    2300228: Grate_Column5
+    2300230: Grate_Column5 1
+    2300232: Grate_Column5 2
+    2300234: Grate_Column5 3
+    2300236: Grate_Column5 4
+    2300238: Grate_Column5 5
+    2300240: Grate_Column6
+    2300242: Grate_Column6 1
+    2300244: Grate_Column6 2
+    2300246: Grate_Column6 3
+    2300248: Grate_Column6 4
+    2300250: Grate_Column6 5
+    2300252: Grate_Column7
+    2300254: Grate_Column7 1
+    2300256: Grate_Column7 2
+    2300258: Grate_Column7 3
+    2300260: Grate_Column7 4
+    2300262: Grate_Column7 5
+    2300264: Grate_Column8
+    2300266: Grate_Column8 1
+    2300268: Grate_Column8 2
+    2300270: Grate_Column8 3
+    2300272: Grate_Column8 4
+    2300274: Grate_Column8 5
+    2300276: Grate_Column9
+    2300278: Grate_Column9 1
+    2300280: Grate_Column9 2
+    2300282: Grate_Column9 3
+    2300284: Grate_Column9 4
+    2300286: Grate_Column9 5
+    2300288: Grate_Middle_Row
+    2300290: Grate_Middle_Row 1
+    2300292: Grate_Middle_Row 2
+    2300294: Grate_Middle_Row 3
+    2300296: Grate_Middle_Row 4
+    2300298: Grate_Middle_Row 5
+    2300300: Grate_Outline
+    2300302: Grate_Outline 1
+    2300304: Grate_Outline 2
+    2300306: Grate_Outline 3
+    2300308: Grate_Outline 4
+    2300310: Grate_Outline 5
+    2300312: Grate_Top_Row
+    2300314: Grate_Top_Row 1
+    2300316: Grate_Top_Row 2
+    2300318: Grate_Top_Row 3
+    2300320: Grate_Top_Row 4
+    2300322: Grate_Top_Row 5
+    2300324: Screw_1
+    2300326: Screw_1 1
+    2300328: Screw_1 2
+    2300330: Screw_1 3
+    2300332: Screw_1 4
+    2300334: Screw_1 5
+    2300336: Screw_10
+    2300338: Screw_10 1
+    2300340: Screw_10 2
+    2300342: Screw_10 3
+    2300344: Screw_10 4
+    2300346: Screw_10 5
+    2300348: Screw_11
+    2300350: Screw_11 1
+    2300352: Screw_11 2
+    2300354: Screw_11 3
+    2300356: Screw_11 4
+    2300358: Screw_11 5
+    2300360: Screw_12
+    2300362: Screw_12 1
+    2300364: Screw_12 2
+    2300366: Screw_12 3
+    2300368: Screw_12 4
+    2300370: Screw_12 5
+    2300372: Screw_13
+    2300374: Screw_13 1
+    2300376: Screw_13 2
+    2300378: Screw_13 3
+    2300380: Screw_13 4
+    2300382: Screw_13 5
+    2300384: Screw_14
+    2300386: Screw_14 1
+    2300388: Screw_14 2
+    2300390: Screw_14 3
+    2300392: Screw_14 4
+    2300394: Screw_14 5
+    2300396: Screw_15
+    2300398: Screw_15 1
+    2300400: Screw_15 2
+    2300402: Screw_15 3
+    2300404: Screw_15 4
+    2300406: Screw_15 5
+    2300408: Screw_2
+    2300410: Screw_2 1
+    2300412: Screw_2 2
+    2300414: Screw_2 3
+    2300416: Screw_2 4
+    2300418: Screw_2 5
+    2300420: Screw_3
+    2300422: Screw_3 1
+    2300424: Screw_3 2
+    2300426: Screw_3 3
+    2300428: Screw_3 4
+    2300430: Screw_3 5
+    2300432: Screw_4
+    2300434: Screw_4 1
+    2300436: Screw_4 2
+    2300438: Screw_4 3
+    2300440: Screw_4 4
+    2300442: Screw_4 5
+    2300444: Screw_5
+    2300446: Screw_5 1
+    2300448: Screw_5 2
+    2300450: Screw_5 3
+    2300452: Screw_5 4
+    2300454: Screw_5 5
+    2300456: Screw_6
+    2300458: Screw_6 1
+    2300460: Screw_6 2
+    2300462: Screw_6 3
+    2300464: Screw_6 4
+    2300466: Screw_6 5
+    2300468: Screw_7
+    2300470: Screw_7 1
+    2300472: Screw_7 2
+    2300474: Screw_7 3
+    2300476: Screw_7 4
+    2300478: Screw_7 5
+    2300480: Screw_8
+    2300482: Screw_8 1
+    2300484: Screw_8 2
+    2300486: Screw_8 3
+    2300488: Screw_8 4
+    2300490: Screw_8 5
+    2300492: Screw_9
+    2300494: Screw_9 1
+    2300496: Screw_9 2
+    2300498: Screw_9 3
+    2300500: Screw_9 4
+    2300502: Screw_9 5
+    3300000: Grate_Bottom_Row
+    3300002: Grate_Bottom_Row 1
+    3300004: Grate_Bottom_Row 2
+    3300006: Grate_Bottom_Row 3
+    3300008: Grate_Bottom_Row 4
+    3300010: Grate_Bottom_Row 5
+    3300012: Grate_Column
+    3300014: Grate_Column 1
+    3300016: Grate_Column 2
+    3300018: Grate_Column 3
+    3300020: Grate_Column 4
+    3300022: Grate_Column 5
+    3300024: Grate_Column1
+    3300026: Grate_Column1 1
+    3300028: Grate_Column1 2
+    3300030: Grate_Column1 3
+    3300032: Grate_Column1 4
+    3300034: Grate_Column1 5
+    3300036: Grate_Column10
+    3300038: Grate_Column10 1
+    3300040: Grate_Column10 2
+    3300042: Grate_Column10 3
+    3300044: Grate_Column10 4
+    3300046: Grate_Column10 5
+    3300048: Grate_Column11
+    3300050: Grate_Column11 1
+    3300052: Grate_Column11 2
+    3300054: Grate_Column11 3
+    3300056: Grate_Column11 4
+    3300058: Grate_Column11 5
+    3300060: Grate_Column12
+    3300062: Grate_Column12 1
+    3300064: Grate_Column12 2
+    3300066: Grate_Column12 3
+    3300068: Grate_Column12 4
+    3300070: Grate_Column12 5
+    3300072: Grate_Column13
+    3300074: Grate_Column13 1
+    3300076: Grate_Column13 2
+    3300078: Grate_Column13 3
+    3300080: Grate_Column13 4
+    3300082: Grate_Column13 5
+    3300084: Grate_Column14
+    3300086: Grate_Column14 1
+    3300088: Grate_Column14 2
+    3300090: Grate_Column14 3
+    3300092: Grate_Column14 4
+    3300094: Grate_Column14 5
+    3300096: Grate_Column15
+    3300098: Grate_Column15 1
+    3300100: Grate_Column15 2
+    3300102: Grate_Column15 3
+    3300104: Grate_Column15 4
+    3300106: Grate_Column15 5
+    3300108: Grate_Column16
+    3300110: Grate_Column16 1
+    3300112: Grate_Column16 2
+    3300114: Grate_Column16 3
+    3300116: Grate_Column16 4
+    3300118: Grate_Column16 5
+    3300120: Grate_Column17
+    3300122: Grate_Column17 1
+    3300124: Grate_Column17 2
+    3300126: Grate_Column17 3
+    3300128: Grate_Column17 4
+    3300130: Grate_Column17 5
+    3300132: Grate_Column18
+    3300134: Grate_Column18 1
+    3300136: Grate_Column18 2
+    3300138: Grate_Column18 3
+    3300140: Grate_Column18 4
+    3300142: Grate_Column18 5
+    3300144: Grate_Column19
+    3300146: Grate_Column19 1
+    3300148: Grate_Column19 2
+    3300150: Grate_Column19 3
+    3300152: Grate_Column19 4
+    3300154: Grate_Column19 5
+    3300156: Grate_Column2
+    3300158: Grate_Column2 1
+    3300160: Grate_Column2 2
+    3300162: Grate_Column2 3
+    3300164: Grate_Column2 4
+    3300166: Grate_Column2 5
+    3300168: Grate_Column20
+    3300170: Grate_Column20 1
+    3300172: Grate_Column20 2
+    3300174: Grate_Column20 3
+    3300176: Grate_Column20 4
+    3300178: Grate_Column20 5
+    3300180: Grate_Column21
+    3300182: Grate_Column21 1
+    3300184: Grate_Column21 2
+    3300186: Grate_Column21 3
+    3300188: Grate_Column21 4
+    3300190: Grate_Column21 5
+    3300192: Grate_Column22
+    3300194: Grate_Column22 1
+    3300196: Grate_Column22 2
+    3300198: Grate_Column22 3
+    3300200: Grate_Column22 4
+    3300202: Grate_Column22 5
+    3300204: Grate_Column3
+    3300206: Grate_Column3 1
+    3300208: Grate_Column3 2
+    3300210: Grate_Column3 3
+    3300212: Grate_Column3 4
+    3300214: Grate_Column3 5
+    3300216: Grate_Column4
+    3300218: Grate_Column4 1
+    3300220: Grate_Column4 2
+    3300222: Grate_Column4 3
+    3300224: Grate_Column4 4
+    3300226: Grate_Column4 5
+    3300228: Grate_Column5
+    3300230: Grate_Column5 1
+    3300232: Grate_Column5 2
+    3300234: Grate_Column5 3
+    3300236: Grate_Column5 4
+    3300238: Grate_Column5 5
+    3300240: Grate_Column6
+    3300242: Grate_Column6 1
+    3300244: Grate_Column6 2
+    3300246: Grate_Column6 3
+    3300248: Grate_Column6 4
+    3300250: Grate_Column6 5
+    3300252: Grate_Column7
+    3300254: Grate_Column7 1
+    3300256: Grate_Column7 2
+    3300258: Grate_Column7 3
+    3300260: Grate_Column7 4
+    3300262: Grate_Column7 5
+    3300264: Grate_Column8
+    3300266: Grate_Column8 1
+    3300268: Grate_Column8 2
+    3300270: Grate_Column8 3
+    3300272: Grate_Column8 4
+    3300274: Grate_Column8 5
+    3300276: Grate_Column9
+    3300278: Grate_Column9 1
+    3300280: Grate_Column9 2
+    3300282: Grate_Column9 3
+    3300284: Grate_Column9 4
+    3300286: Grate_Column9 5
+    3300288: Grate_Middle_Row
+    3300290: Grate_Middle_Row 1
+    3300292: Grate_Middle_Row 2
+    3300294: Grate_Middle_Row 3
+    3300296: Grate_Middle_Row 4
+    3300298: Grate_Middle_Row 5
+    3300300: Grate_Outline
+    3300302: Grate_Outline 1
+    3300304: Grate_Outline 2
+    3300306: Grate_Outline 3
+    3300308: Grate_Outline 4
+    3300310: Grate_Outline 5
+    3300312: Grate_Top_Row
+    3300314: Grate_Top_Row 1
+    3300316: Grate_Top_Row 2
+    3300318: Grate_Top_Row 3
+    3300320: Grate_Top_Row 4
+    3300322: Grate_Top_Row 5
+    3300324: Screw_1
+    3300326: Screw_1 1
+    3300328: Screw_1 2
+    3300330: Screw_1 3
+    3300332: Screw_1 4
+    3300334: Screw_1 5
+    3300336: Screw_10
+    3300338: Screw_10 1
+    3300340: Screw_10 2
+    3300342: Screw_10 3
+    3300344: Screw_10 4
+    3300346: Screw_10 5
+    3300348: Screw_11
+    3300350: Screw_11 1
+    3300352: Screw_11 2
+    3300354: Screw_11 3
+    3300356: Screw_11 4
+    3300358: Screw_11 5
+    3300360: Screw_12
+    3300362: Screw_12 1
+    3300364: Screw_12 2
+    3300366: Screw_12 3
+    3300368: Screw_12 4
+    3300370: Screw_12 5
+    3300372: Screw_13
+    3300374: Screw_13 1
+    3300376: Screw_13 2
+    3300378: Screw_13 3
+    3300380: Screw_13 4
+    3300382: Screw_13 5
+    3300384: Screw_14
+    3300386: Screw_14 1
+    3300388: Screw_14 2
+    3300390: Screw_14 3
+    3300392: Screw_14 4
+    3300394: Screw_14 5
+    3300396: Screw_15
+    3300398: Screw_15 1
+    3300400: Screw_15 2
+    3300402: Screw_15 3
+    3300404: Screw_15 4
+    3300406: Screw_15 5
+    3300408: Screw_2
+    3300410: Screw_2 1
+    3300412: Screw_2 2
+    3300414: Screw_2 3
+    3300416: Screw_2 4
+    3300418: Screw_2 5
+    3300420: Screw_3
+    3300422: Screw_3 1
+    3300424: Screw_3 2
+    3300426: Screw_3 3
+    3300428: Screw_3 4
+    3300430: Screw_3 5
+    3300432: Screw_4
+    3300434: Screw_4 1
+    3300436: Screw_4 2
+    3300438: Screw_4 3
+    3300440: Screw_4 4
+    3300442: Screw_4 5
+    3300444: Screw_5
+    3300446: Screw_5 1
+    3300448: Screw_5 2
+    3300450: Screw_5 3
+    3300452: Screw_5 4
+    3300454: Screw_5 5
+    3300456: Screw_6
+    3300458: Screw_6 1
+    3300460: Screw_6 2
+    3300462: Screw_6 3
+    3300464: Screw_6 4
+    3300466: Screw_6 5
+    3300468: Screw_7
+    3300470: Screw_7 1
+    3300472: Screw_7 2
+    3300474: Screw_7 3
+    3300476: Screw_7 4
+    3300478: Screw_7 5
+    3300480: Screw_8
+    3300482: Screw_8 1
+    3300484: Screw_8 2
+    3300486: Screw_8 3
+    3300488: Screw_8 4
+    3300490: Screw_8 5
+    3300492: Screw_9
+    3300494: Screw_9 1
+    3300496: Screw_9 2
+    3300498: Screw_9 3
+    3300500: Screw_9 4
+    3300502: Screw_9 5
+    4300000: Grate_Outline
+    4300002: Grate_Bottom_Row
+    4300004: Grate_Top_Row
+    4300006: Grate_Middle_Row
+    4300008: Grate_Column
+    4300010: Grate_Column1
+    4300012: Grate_Column2
+    4300014: Grate_Column3
+    4300016: Grate_Column4
+    4300018: Grate_Column5
+    4300020: Grate_Column6
+    4300022: Grate_Column7
+    4300024: Grate_Column8
+    4300026: Grate_Column9
+    4300028: Grate_Column10
+    4300030: Grate_Column11
+    4300032: Grate_Column12
+    4300034: Grate_Column13
+    4300036: Grate_Column14
+    4300038: Grate_Column15
+    4300040: Grate_Column16
+    4300042: Grate_Column17
+    4300044: Grate_Column18
+    4300046: Grate_Column19
+    4300048: Grate_Column20
+    4300050: Grate_Column21
+    4300052: Grate_Column22
+    4300054: Screw_3
+    4300056: Screw_2
+    4300058: Screw_1
+    4300060: Screw_14
+    4300062: Screw_13
+    4300064: Screw_12
+    4300066: Screw_11
+    4300068: Screw_10
+    4300070: Screw_9
+    4300072: Screw_6
+    4300074: Screw_5
+    4300076: Screw_4
+    4300078: Screw_7
+    4300080: Screw_8
+    4300082: Screw_15
+    4300084: Grate_Outline
+    4300086: Grate_Bottom_Row
+    4300088: Grate_Top_Row
+    4300090: Grate_Middle_Row
+    4300092: Grate_Column
+    4300094: Grate_Column1
+    4300096: Grate_Column2
+    4300098: Grate_Column3
+    4300100: Grate_Column4
+    4300102: Grate_Column5
+    4300104: Grate_Column6
+    4300106: Grate_Column7
+    4300108: Grate_Column8
+    4300110: Grate_Column9
+    4300112: Grate_Column10
+    4300114: Grate_Column11
+    4300116: Grate_Column12
+    4300118: Grate_Column13
+    4300120: Grate_Column14
+    4300122: Grate_Column15
+    4300124: Grate_Column16
+    4300126: Grate_Column17
+    4300128: Grate_Column18
+    4300130: Grate_Column19
+    4300132: Grate_Column20
+    4300134: Grate_Column21
+    4300136: Grate_Column22
+    4300138: Screw_3
+    4300140: Screw_2
+    4300142: Screw_1
+    4300144: Screw_14
+    4300146: Screw_13
+    4300148: Screw_12
+    4300150: Screw_11
+    4300152: Screw_10
+    4300154: Screw_9
+    4300156: Screw_6
+    4300158: Screw_5
+    4300160: Screw_4
+    4300162: Screw_7
+    4300164: Screw_8
+    4300166: Screw_15
+    4300168: Grate_Outline
+    4300170: Grate_Bottom_Row
+    4300172: Grate_Top_Row
+    4300174: Grate_Middle_Row
+    4300176: Grate_Column
+    4300178: Grate_Column1
+    4300180: Grate_Column2
+    4300182: Grate_Column3
+    4300184: Grate_Column4
+    4300186: Grate_Column5
+    4300188: Grate_Column6
+    4300190: Grate_Column7
+    4300192: Grate_Column8
+    4300194: Grate_Column9
+    4300196: Grate_Column10
+    4300198: Grate_Column11
+    4300200: Grate_Column12
+    4300202: Grate_Column13
+    4300204: Grate_Column14
+    4300206: Grate_Column15
+    4300208: Grate_Column16
+    4300210: Grate_Column17
+    4300212: Grate_Column18
+    4300214: Grate_Column19
+    4300216: Grate_Column20
+    4300218: Grate_Column21
+    4300220: Grate_Column22
+    4300222: Screw_3
+    4300224: Screw_2
+    4300226: Screw_1
+    4300228: Screw_14
+    4300230: Screw_13
+    4300232: Screw_12
+    4300234: Screw_11
+    4300236: Screw_10
+    4300238: Screw_9
+    4300240: Screw_6
+    4300242: Screw_5
+    4300244: Screw_4
+    4300246: Screw_7
+    4300248: Screw_8
+    4300250: Screw_15
+    4300252: Grate_Outline
+    4300254: Grate_Bottom_Row
+    4300256: Grate_Top_Row
+    4300258: Grate_Middle_Row
+    4300260: Grate_Column
+    4300262: Grate_Column1
+    4300264: Grate_Column2
+    4300266: Grate_Column3
+    4300268: Grate_Column4
+    4300270: Grate_Column5
+    4300272: Grate_Column6
+    4300274: Grate_Column7
+    4300276: Grate_Column8
+    4300278: Grate_Column9
+    4300280: Grate_Column10
+    4300282: Grate_Column11
+    4300284: Grate_Column12
+    4300286: Grate_Column13
+    4300288: Grate_Column14
+    4300290: Grate_Column15
+    4300292: Grate_Column16
+    4300294: Grate_Column17
+    4300296: Grate_Column18
+    4300298: Grate_Column19
+    4300300: Grate_Column20
+    4300302: Grate_Column21
+    4300304: Grate_Column22
+    4300306: Screw_3
+    4300308: Screw_2
+    4300310: Screw_1
+    4300312: Screw_14
+    4300314: Screw_13
+    4300316: Screw_12
+    4300318: Screw_11
+    4300320: Screw_10
+    4300322: Screw_9
+    4300324: Screw_6
+    4300326: Screw_5
+    4300328: Screw_4
+    4300330: Screw_7
+    4300332: Screw_8
+    4300334: Screw_15
+    4300336: Grate_Outline
+    4300338: Grate_Bottom_Row
+    4300340: Grate_Top_Row
+    4300342: Grate_Middle_Row
+    4300344: Grate_Column
+    4300346: Grate_Column1
+    4300348: Grate_Column2
+    4300350: Grate_Column3
+    4300352: Grate_Column4
+    4300354: Grate_Column5
+    4300356: Grate_Column6
+    4300358: Grate_Column7
+    4300360: Grate_Column8
+    4300362: Grate_Column9
+    4300364: Grate_Column10
+    4300366: Grate_Column11
+    4300368: Grate_Column12
+    4300370: Grate_Column13
+    4300372: Grate_Column14
+    4300374: Grate_Column15
+    4300376: Grate_Column16
+    4300378: Grate_Column17
+    4300380: Grate_Column18
+    4300382: Grate_Column19
+    4300384: Grate_Column20
+    4300386: Grate_Column21
+    4300388: Grate_Column22
+    4300390: Screw_3
+    4300392: Screw_2
+    4300394: Screw_1
+    4300396: Screw_14
+    4300398: Screw_13
+    4300400: Screw_12
+    4300402: Screw_11
+    4300404: Screw_10
+    4300406: Screw_9
+    4300408: Screw_6
+    4300410: Screw_5
+    4300412: Screw_4
+    4300414: Screw_7
+    4300416: Screw_8
+    4300418: Screw_15
+    4300420: Grate_Outline
+    4300422: Grate_Bottom_Row
+    4300424: Grate_Top_Row
+    4300426: Grate_Middle_Row
+    4300428: Grate_Column
+    4300430: Grate_Column1
+    4300432: Grate_Column2
+    4300434: Grate_Column3
+    4300436: Grate_Column4
+    4300438: Grate_Column5
+    4300440: Grate_Column6
+    4300442: Grate_Column7
+    4300444: Grate_Column8
+    4300446: Grate_Column9
+    4300448: Grate_Column10
+    4300450: Grate_Column11
+    4300452: Grate_Column12
+    4300454: Grate_Column13
+    4300456: Grate_Column14
+    4300458: Grate_Column15
+    4300460: Grate_Column16
+    4300462: Grate_Column17
+    4300464: Grate_Column18
+    4300466: Grate_Column19
+    4300468: Grate_Column20
+    4300470: Grate_Column21
+    4300472: Grate_Column22
+    4300474: Screw_3
+    4300476: Screw_2
+    4300478: Screw_1
+    4300480: Screw_14
+    4300482: Screw_13
+    4300484: Screw_12
+    4300486: Screw_11
+    4300488: Screw_10
+    4300490: Screw_9
+    4300492: Screw_6
+    4300494: Screw_5
+    4300496: Screw_4
+    4300498: Screw_7
+    4300500: Screw_8
+    4300502: Screw_15
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

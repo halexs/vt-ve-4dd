@@ -1,0 +1,2234 @@
+fileFormatVersion: 2
+guid: 0ead4df316c4c3148a26c47ef671f7a6
+timeCreated: 1470238083
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: IR_Camera_Base
+    100004: IR_Camera_Base 1
+    100006: IR_Camera_Base 10
+    100008: IR_Camera_Base 11
+    100010: IR_Camera_Base 12
+    100012: IR_Camera_Base 13
+    100014: IR_Camera_Base 14
+    100016: IR_Camera_Base 15
+    100018: IR_Camera_Base 16
+    100020: IR_Camera_Base 17
+    100022: IR_Camera_Base 18
+    100024: IR_Camera_Base 19
+    100026: IR_Camera_Base 2
+    100028: IR_Camera_Base 20
+    100030: IR_Camera_Base 21
+    100032: IR_Camera_Base 22
+    100034: IR_Camera_Base 23
+    100036: IR_Camera_Base 3
+    100038: IR_Camera_Base 4
+    100040: IR_Camera_Base 5
+    100042: IR_Camera_Base 6
+    100044: IR_Camera_Base 7
+    100046: IR_Camera_Base 8
+    100048: IR_Camera_Base 9
+    100050: IR_Camera_Lens
+    100052: IR_Camera_Lens 1
+    100054: IR_Camera_Lens 10
+    100056: IR_Camera_Lens 11
+    100058: IR_Camera_Lens 12
+    100060: IR_Camera_Lens 13
+    100062: IR_Camera_Lens 14
+    100064: IR_Camera_Lens 15
+    100066: IR_Camera_Lens 16
+    100068: IR_Camera_Lens 17
+    100070: IR_Camera_Lens 18
+    100072: IR_Camera_Lens 19
+    100074: IR_Camera_Lens 2
+    100076: IR_Camera_Lens 20
+    100078: IR_Camera_Lens 21
+    100080: IR_Camera_Lens 22
+    100082: IR_Camera_Lens 23
+    100084: IR_Camera_Lens 3
+    100086: IR_Camera_Lens 4
+    100088: IR_Camera_Lens 5
+    100090: IR_Camera_Lens 6
+    100092: IR_Camera_Lens 7
+    100094: IR_Camera_Lens 8
+    100096: IR_Camera_Lens 9
+    100098: IR_Camera_Lens_Base
+    100100: IR_Camera_Lens_Base 1
+    100102: IR_Camera_Lens_Base 10
+    100104: IR_Camera_Lens_Base 11
+    100106: IR_Camera_Lens_Base 12
+    100108: IR_Camera_Lens_Base 13
+    100110: IR_Camera_Lens_Base 14
+    100112: IR_Camera_Lens_Base 15
+    100114: IR_Camera_Lens_Base 16
+    100116: IR_Camera_Lens_Base 17
+    100118: IR_Camera_Lens_Base 18
+    100120: IR_Camera_Lens_Base 19
+    100122: IR_Camera_Lens_Base 2
+    100124: IR_Camera_Lens_Base 20
+    100126: IR_Camera_Lens_Base 21
+    100128: IR_Camera_Lens_Base 22
+    100130: IR_Camera_Lens_Base 23
+    100132: IR_Camera_Lens_Base 3
+    100134: IR_Camera_Lens_Base 4
+    100136: IR_Camera_Lens_Base 5
+    100138: IR_Camera_Lens_Base 6
+    100140: IR_Camera_Lens_Base 7
+    100142: IR_Camera_Lens_Base 8
+    100144: IR_Camera_Lens_Base 9
+    100146: IR_Camera_Mount_Camera_Base
+    100148: IR_Camera_Mount_Camera_Base 1
+    100150: IR_Camera_Mount_Camera_Base 10
+    100152: IR_Camera_Mount_Camera_Base 11
+    100154: IR_Camera_Mount_Camera_Base 12
+    100156: IR_Camera_Mount_Camera_Base 13
+    100158: IR_Camera_Mount_Camera_Base 14
+    100160: IR_Camera_Mount_Camera_Base 15
+    100162: IR_Camera_Mount_Camera_Base 16
+    100164: IR_Camera_Mount_Camera_Base 17
+    100166: IR_Camera_Mount_Camera_Base 18
+    100168: IR_Camera_Mount_Camera_Base 19
+    100170: IR_Camera_Mount_Camera_Base 2
+    100172: IR_Camera_Mount_Camera_Base 20
+    100174: IR_Camera_Mount_Camera_Base 21
+    100176: IR_Camera_Mount_Camera_Base 22
+    100178: IR_Camera_Mount_Camera_Base 23
+    100180: IR_Camera_Mount_Camera_Base 3
+    100182: IR_Camera_Mount_Camera_Base 4
+    100184: IR_Camera_Mount_Camera_Base 5
+    100186: IR_Camera_Mount_Camera_Base 6
+    100188: IR_Camera_Mount_Camera_Base 7
+    100190: IR_Camera_Mount_Camera_Base 8
+    100192: IR_Camera_Mount_Camera_Base 9
+    100194: IR_Camera_Mount_Camera_Base_Cylinder
+    100196: IR_Camera_Mount_Camera_Base_Cylinder 1
+    100198: IR_Camera_Mount_Camera_Base_Cylinder 10
+    100200: IR_Camera_Mount_Camera_Base_Cylinder 11
+    100202: IR_Camera_Mount_Camera_Base_Cylinder 12
+    100204: IR_Camera_Mount_Camera_Base_Cylinder 13
+    100206: IR_Camera_Mount_Camera_Base_Cylinder 14
+    100208: IR_Camera_Mount_Camera_Base_Cylinder 15
+    100210: IR_Camera_Mount_Camera_Base_Cylinder 16
+    100212: IR_Camera_Mount_Camera_Base_Cylinder 17
+    100214: IR_Camera_Mount_Camera_Base_Cylinder 18
+    100216: IR_Camera_Mount_Camera_Base_Cylinder 19
+    100218: IR_Camera_Mount_Camera_Base_Cylinder 2
+    100220: IR_Camera_Mount_Camera_Base_Cylinder 20
+    100222: IR_Camera_Mount_Camera_Base_Cylinder 21
+    100224: IR_Camera_Mount_Camera_Base_Cylinder 22
+    100226: IR_Camera_Mount_Camera_Base_Cylinder 23
+    100228: IR_Camera_Mount_Camera_Base_Cylinder 3
+    100230: IR_Camera_Mount_Camera_Base_Cylinder 4
+    100232: IR_Camera_Mount_Camera_Base_Cylinder 5
+    100234: IR_Camera_Mount_Camera_Base_Cylinder 6
+    100236: IR_Camera_Mount_Camera_Base_Cylinder 7
+    100238: IR_Camera_Mount_Camera_Base_Cylinder 8
+    100240: IR_Camera_Mount_Camera_Base_Cylinder 9
+    100242: IR_Camera_Mount_Camera_Base_Socket1
+    100244: IR_Camera_Mount_Camera_Base_Socket1 1
+    100246: IR_Camera_Mount_Camera_Base_Socket1 10
+    100248: IR_Camera_Mount_Camera_Base_Socket1 11
+    100250: IR_Camera_Mount_Camera_Base_Socket1 12
+    100252: IR_Camera_Mount_Camera_Base_Socket1 13
+    100254: IR_Camera_Mount_Camera_Base_Socket1 14
+    100256: IR_Camera_Mount_Camera_Base_Socket1 15
+    100258: IR_Camera_Mount_Camera_Base_Socket1 16
+    100260: IR_Camera_Mount_Camera_Base_Socket1 17
+    100262: IR_Camera_Mount_Camera_Base_Socket1 18
+    100264: IR_Camera_Mount_Camera_Base_Socket1 19
+    100266: IR_Camera_Mount_Camera_Base_Socket1 2
+    100268: IR_Camera_Mount_Camera_Base_Socket1 20
+    100270: IR_Camera_Mount_Camera_Base_Socket1 21
+    100272: IR_Camera_Mount_Camera_Base_Socket1 22
+    100274: IR_Camera_Mount_Camera_Base_Socket1 23
+    100276: IR_Camera_Mount_Camera_Base_Socket1 3
+    100278: IR_Camera_Mount_Camera_Base_Socket1 4
+    100280: IR_Camera_Mount_Camera_Base_Socket1 5
+    100282: IR_Camera_Mount_Camera_Base_Socket1 6
+    100284: IR_Camera_Mount_Camera_Base_Socket1 7
+    100286: IR_Camera_Mount_Camera_Base_Socket1 8
+    100288: IR_Camera_Mount_Camera_Base_Socket1 9
+    100290: IR_Camera_Mount_Camera_Base_Socket2
+    100292: IR_Camera_Mount_Camera_Base_Socket2 1
+    100294: IR_Camera_Mount_Camera_Base_Socket2 10
+    100296: IR_Camera_Mount_Camera_Base_Socket2 11
+    100298: IR_Camera_Mount_Camera_Base_Socket2 12
+    100300: IR_Camera_Mount_Camera_Base_Socket2 13
+    100302: IR_Camera_Mount_Camera_Base_Socket2 14
+    100304: IR_Camera_Mount_Camera_Base_Socket2 15
+    100306: IR_Camera_Mount_Camera_Base_Socket2 16
+    100308: IR_Camera_Mount_Camera_Base_Socket2 17
+    100310: IR_Camera_Mount_Camera_Base_Socket2 18
+    100312: IR_Camera_Mount_Camera_Base_Socket2 19
+    100314: IR_Camera_Mount_Camera_Base_Socket2 2
+    100316: IR_Camera_Mount_Camera_Base_Socket2 20
+    100318: IR_Camera_Mount_Camera_Base_Socket2 21
+    100320: IR_Camera_Mount_Camera_Base_Socket2 22
+    100322: IR_Camera_Mount_Camera_Base_Socket2 23
+    100324: IR_Camera_Mount_Camera_Base_Socket2 3
+    100326: IR_Camera_Mount_Camera_Base_Socket2 4
+    100328: IR_Camera_Mount_Camera_Base_Socket2 5
+    100330: IR_Camera_Mount_Camera_Base_Socket2 6
+    100332: IR_Camera_Mount_Camera_Base_Socket2 7
+    100334: IR_Camera_Mount_Camera_Base_Socket2 8
+    100336: IR_Camera_Mount_Camera_Base_Socket2 9
+    100338: IR_Camera_Mount_Camera_Base_Socket_Hinge
+    100340: IR_Camera_Mount_Camera_Base_Socket_Hinge 1
+    100342: IR_Camera_Mount_Camera_Base_Socket_Hinge 10
+    100344: IR_Camera_Mount_Camera_Base_Socket_Hinge 11
+    100346: IR_Camera_Mount_Camera_Base_Socket_Hinge 12
+    100348: IR_Camera_Mount_Camera_Base_Socket_Hinge 13
+    100350: IR_Camera_Mount_Camera_Base_Socket_Hinge 14
+    100352: IR_Camera_Mount_Camera_Base_Socket_Hinge 15
+    100354: IR_Camera_Mount_Camera_Base_Socket_Hinge 16
+    100356: IR_Camera_Mount_Camera_Base_Socket_Hinge 17
+    100358: IR_Camera_Mount_Camera_Base_Socket_Hinge 18
+    100360: IR_Camera_Mount_Camera_Base_Socket_Hinge 19
+    100362: IR_Camera_Mount_Camera_Base_Socket_Hinge 2
+    100364: IR_Camera_Mount_Camera_Base_Socket_Hinge 20
+    100366: IR_Camera_Mount_Camera_Base_Socket_Hinge 21
+    100368: IR_Camera_Mount_Camera_Base_Socket_Hinge 22
+    100370: IR_Camera_Mount_Camera_Base_Socket_Hinge 23
+    100372: IR_Camera_Mount_Camera_Base_Socket_Hinge 3
+    100374: IR_Camera_Mount_Camera_Base_Socket_Hinge 4
+    100376: IR_Camera_Mount_Camera_Base_Socket_Hinge 5
+    100378: IR_Camera_Mount_Camera_Base_Socket_Hinge 6
+    100380: IR_Camera_Mount_Camera_Base_Socket_Hinge 7
+    100382: IR_Camera_Mount_Camera_Base_Socket_Hinge 8
+    100384: IR_Camera_Mount_Camera_Base_Socket_Hinge 9
+    100386: IR_Camera_Mount_Camera_Base_Tightness_Handle
+    100388: IR_Camera_Mount_Camera_Base_Tightness_Handle 1
+    100390: IR_Camera_Mount_Camera_Base_Tightness_Handle 10
+    100392: IR_Camera_Mount_Camera_Base_Tightness_Handle 11
+    100394: IR_Camera_Mount_Camera_Base_Tightness_Handle 12
+    100396: IR_Camera_Mount_Camera_Base_Tightness_Handle 13
+    100398: IR_Camera_Mount_Camera_Base_Tightness_Handle 14
+    100400: IR_Camera_Mount_Camera_Base_Tightness_Handle 15
+    100402: IR_Camera_Mount_Camera_Base_Tightness_Handle 16
+    100404: IR_Camera_Mount_Camera_Base_Tightness_Handle 17
+    100406: IR_Camera_Mount_Camera_Base_Tightness_Handle 18
+    100408: IR_Camera_Mount_Camera_Base_Tightness_Handle 19
+    100410: IR_Camera_Mount_Camera_Base_Tightness_Handle 2
+    100412: IR_Camera_Mount_Camera_Base_Tightness_Handle 20
+    100414: IR_Camera_Mount_Camera_Base_Tightness_Handle 21
+    100416: IR_Camera_Mount_Camera_Base_Tightness_Handle 22
+    100418: IR_Camera_Mount_Camera_Base_Tightness_Handle 23
+    100420: IR_Camera_Mount_Camera_Base_Tightness_Handle 3
+    100422: IR_Camera_Mount_Camera_Base_Tightness_Handle 4
+    100424: IR_Camera_Mount_Camera_Base_Tightness_Handle 5
+    100426: IR_Camera_Mount_Camera_Base_Tightness_Handle 6
+    100428: IR_Camera_Mount_Camera_Base_Tightness_Handle 7
+    100430: IR_Camera_Mount_Camera_Base_Tightness_Handle 8
+    100432: IR_Camera_Mount_Camera_Base_Tightness_Handle 9
+    100434: IR_Camera_Mount_Camera_Clamp_Base
+    100436: IR_Camera_Mount_Camera_Clamp_Base 1
+    100438: IR_Camera_Mount_Camera_Clamp_Base 10
+    100440: IR_Camera_Mount_Camera_Clamp_Base 11
+    100442: IR_Camera_Mount_Camera_Clamp_Base 12
+    100444: IR_Camera_Mount_Camera_Clamp_Base 13
+    100446: IR_Camera_Mount_Camera_Clamp_Base 14
+    100448: IR_Camera_Mount_Camera_Clamp_Base 15
+    100450: IR_Camera_Mount_Camera_Clamp_Base 16
+    100452: IR_Camera_Mount_Camera_Clamp_Base 17
+    100454: IR_Camera_Mount_Camera_Clamp_Base 18
+    100456: IR_Camera_Mount_Camera_Clamp_Base 19
+    100458: IR_Camera_Mount_Camera_Clamp_Base 2
+    100460: IR_Camera_Mount_Camera_Clamp_Base 20
+    100462: IR_Camera_Mount_Camera_Clamp_Base 21
+    100464: IR_Camera_Mount_Camera_Clamp_Base 22
+    100466: IR_Camera_Mount_Camera_Clamp_Base 23
+    100468: IR_Camera_Mount_Camera_Clamp_Base 3
+    100470: IR_Camera_Mount_Camera_Clamp_Base 4
+    100472: IR_Camera_Mount_Camera_Clamp_Base 5
+    100474: IR_Camera_Mount_Camera_Clamp_Base 6
+    100476: IR_Camera_Mount_Camera_Clamp_Base 7
+    100478: IR_Camera_Mount_Camera_Clamp_Base 8
+    100480: IR_Camera_Mount_Camera_Clamp_Base 9
+    100482: IR_Camera_Mount_Camera_Clamp_Bottom
+    100484: IR_Camera_Mount_Camera_Clamp_Bottom 1
+    100486: IR_Camera_Mount_Camera_Clamp_Bottom 10
+    100488: IR_Camera_Mount_Camera_Clamp_Bottom 11
+    100490: IR_Camera_Mount_Camera_Clamp_Bottom 12
+    100492: IR_Camera_Mount_Camera_Clamp_Bottom 13
+    100494: IR_Camera_Mount_Camera_Clamp_Bottom 14
+    100496: IR_Camera_Mount_Camera_Clamp_Bottom 15
+    100498: IR_Camera_Mount_Camera_Clamp_Bottom 16
+    100500: IR_Camera_Mount_Camera_Clamp_Bottom 17
+    100502: IR_Camera_Mount_Camera_Clamp_Bottom 18
+    100504: IR_Camera_Mount_Camera_Clamp_Bottom 19
+    100506: IR_Camera_Mount_Camera_Clamp_Bottom 2
+    100508: IR_Camera_Mount_Camera_Clamp_Bottom 20
+    100510: IR_Camera_Mount_Camera_Clamp_Bottom 21
+    100512: IR_Camera_Mount_Camera_Clamp_Bottom 22
+    100514: IR_Camera_Mount_Camera_Clamp_Bottom 23
+    100516: IR_Camera_Mount_Camera_Clamp_Bottom 3
+    100518: IR_Camera_Mount_Camera_Clamp_Bottom 4
+    100520: IR_Camera_Mount_Camera_Clamp_Bottom 5
+    100522: IR_Camera_Mount_Camera_Clamp_Bottom 6
+    100524: IR_Camera_Mount_Camera_Clamp_Bottom 7
+    100526: IR_Camera_Mount_Camera_Clamp_Bottom 8
+    100528: IR_Camera_Mount_Camera_Clamp_Bottom 9
+    100530: IR_Camera_Mount_Camera_Clamp_Handle
+    100532: IR_Camera_Mount_Camera_Clamp_Handle 1
+    100534: IR_Camera_Mount_Camera_Clamp_Handle 10
+    100536: IR_Camera_Mount_Camera_Clamp_Handle 11
+    100538: IR_Camera_Mount_Camera_Clamp_Handle 12
+    100540: IR_Camera_Mount_Camera_Clamp_Handle 13
+    100542: IR_Camera_Mount_Camera_Clamp_Handle 14
+    100544: IR_Camera_Mount_Camera_Clamp_Handle 15
+    100546: IR_Camera_Mount_Camera_Clamp_Handle 16
+    100548: IR_Camera_Mount_Camera_Clamp_Handle 17
+    100550: IR_Camera_Mount_Camera_Clamp_Handle 18
+    100552: IR_Camera_Mount_Camera_Clamp_Handle 19
+    100554: IR_Camera_Mount_Camera_Clamp_Handle 2
+    100556: IR_Camera_Mount_Camera_Clamp_Handle 20
+    100558: IR_Camera_Mount_Camera_Clamp_Handle 21
+    100560: IR_Camera_Mount_Camera_Clamp_Handle 22
+    100562: IR_Camera_Mount_Camera_Clamp_Handle 23
+    100564: IR_Camera_Mount_Camera_Clamp_Handle 3
+    100566: IR_Camera_Mount_Camera_Clamp_Handle 4
+    100568: IR_Camera_Mount_Camera_Clamp_Handle 5
+    100570: IR_Camera_Mount_Camera_Clamp_Handle 6
+    100572: IR_Camera_Mount_Camera_Clamp_Handle 7
+    100574: IR_Camera_Mount_Camera_Clamp_Handle 8
+    100576: IR_Camera_Mount_Camera_Clamp_Handle 9
+    100578: IR_Camera_Mount_Camera_Clamp_Pole
+    100580: IR_Camera_Mount_Camera_Clamp_Pole1
+    100582: IR_Camera_Mount_Camera_Clamp_Pole10
+    100584: IR_Camera_Mount_Camera_Clamp_Pole11
+    100586: IR_Camera_Mount_Camera_Clamp_Pole12
+    100588: IR_Camera_Mount_Camera_Clamp_Pole13
+    100590: IR_Camera_Mount_Camera_Clamp_Pole14
+    100592: IR_Camera_Mount_Camera_Clamp_Pole15
+    100594: IR_Camera_Mount_Camera_Clamp_Pole16
+    100596: IR_Camera_Mount_Camera_Clamp_Pole17
+    100598: IR_Camera_Mount_Camera_Clamp_Pole18
+    100600: IR_Camera_Mount_Camera_Clamp_Pole19
+    100602: IR_Camera_Mount_Camera_Clamp_Pole2
+    100604: IR_Camera_Mount_Camera_Clamp_Pole20
+    100606: IR_Camera_Mount_Camera_Clamp_Pole21
+    100608: IR_Camera_Mount_Camera_Clamp_Pole22
+    100610: IR_Camera_Mount_Camera_Clamp_Pole23
+    100612: IR_Camera_Mount_Camera_Clamp_Pole3
+    100614: IR_Camera_Mount_Camera_Clamp_Pole4
+    100616: IR_Camera_Mount_Camera_Clamp_Pole5
+    100618: IR_Camera_Mount_Camera_Clamp_Pole6
+    100620: IR_Camera_Mount_Camera_Clamp_Pole7
+    100622: IR_Camera_Mount_Camera_Clamp_Pole8
+    100624: IR_Camera_Mount_Camera_Clamp_Pole9
+    100626: IR_Camera_Mount_Camera_Clamp_Top
+    100628: IR_Camera_Mount_Camera_Clamp_Top 1
+    100630: IR_Camera_Mount_Camera_Clamp_Top 10
+    100632: IR_Camera_Mount_Camera_Clamp_Top 11
+    100634: IR_Camera_Mount_Camera_Clamp_Top 12
+    100636: IR_Camera_Mount_Camera_Clamp_Top 13
+    100638: IR_Camera_Mount_Camera_Clamp_Top 14
+    100640: IR_Camera_Mount_Camera_Clamp_Top 15
+    100642: IR_Camera_Mount_Camera_Clamp_Top 16
+    100644: IR_Camera_Mount_Camera_Clamp_Top 17
+    100646: IR_Camera_Mount_Camera_Clamp_Top 18
+    100648: IR_Camera_Mount_Camera_Clamp_Top 19
+    100650: IR_Camera_Mount_Camera_Clamp_Top 2
+    100652: IR_Camera_Mount_Camera_Clamp_Top 20
+    100654: IR_Camera_Mount_Camera_Clamp_Top 21
+    100656: IR_Camera_Mount_Camera_Clamp_Top 22
+    100658: IR_Camera_Mount_Camera_Clamp_Top 23
+    100660: IR_Camera_Mount_Camera_Clamp_Top 3
+    100662: IR_Camera_Mount_Camera_Clamp_Top 4
+    100664: IR_Camera_Mount_Camera_Clamp_Top 5
+    100666: IR_Camera_Mount_Camera_Clamp_Top 6
+    100668: IR_Camera_Mount_Camera_Clamp_Top 7
+    100670: IR_Camera_Mount_Camera_Clamp_Top 8
+    100672: IR_Camera_Mount_Camera_Clamp_Top 9
+    100674: IR_Camera_Mount_Camera_Mid_Arm
+    100676: IR_Camera_Mount_Camera_Mid_Arm 1
+    100678: IR_Camera_Mount_Camera_Mid_Arm 10
+    100680: IR_Camera_Mount_Camera_Mid_Arm 11
+    100682: IR_Camera_Mount_Camera_Mid_Arm 12
+    100684: IR_Camera_Mount_Camera_Mid_Arm 13
+    100686: IR_Camera_Mount_Camera_Mid_Arm 14
+    100688: IR_Camera_Mount_Camera_Mid_Arm 15
+    100690: IR_Camera_Mount_Camera_Mid_Arm 16
+    100692: IR_Camera_Mount_Camera_Mid_Arm 17
+    100694: IR_Camera_Mount_Camera_Mid_Arm 18
+    100696: IR_Camera_Mount_Camera_Mid_Arm 19
+    100698: IR_Camera_Mount_Camera_Mid_Arm 2
+    100700: IR_Camera_Mount_Camera_Mid_Arm 20
+    100702: IR_Camera_Mount_Camera_Mid_Arm 21
+    100704: IR_Camera_Mount_Camera_Mid_Arm 22
+    100706: IR_Camera_Mount_Camera_Mid_Arm 23
+    100708: IR_Camera_Mount_Camera_Mid_Arm 3
+    100710: IR_Camera_Mount_Camera_Mid_Arm 4
+    100712: IR_Camera_Mount_Camera_Mid_Arm 5
+    100714: IR_Camera_Mount_Camera_Mid_Arm 6
+    100716: IR_Camera_Mount_Camera_Mid_Arm 7
+    100718: IR_Camera_Mount_Camera_Mid_Arm 8
+    100720: IR_Camera_Mount_Camera_Mid_Arm 9
+    100722: IR_Camera_Mount_Camera_Mid_Hinge
+    100724: IR_Camera_Mount_Camera_Mid_Hinge 1
+    100726: IR_Camera_Mount_Camera_Mid_Hinge 10
+    100728: IR_Camera_Mount_Camera_Mid_Hinge 11
+    100730: IR_Camera_Mount_Camera_Mid_Hinge 12
+    100732: IR_Camera_Mount_Camera_Mid_Hinge 13
+    100734: IR_Camera_Mount_Camera_Mid_Hinge 14
+    100736: IR_Camera_Mount_Camera_Mid_Hinge 15
+    100738: IR_Camera_Mount_Camera_Mid_Hinge 16
+    100740: IR_Camera_Mount_Camera_Mid_Hinge 17
+    100742: IR_Camera_Mount_Camera_Mid_Hinge 18
+    100744: IR_Camera_Mount_Camera_Mid_Hinge 19
+    100746: IR_Camera_Mount_Camera_Mid_Hinge 2
+    100748: IR_Camera_Mount_Camera_Mid_Hinge 20
+    100750: IR_Camera_Mount_Camera_Mid_Hinge 21
+    100752: IR_Camera_Mount_Camera_Mid_Hinge 22
+    100754: IR_Camera_Mount_Camera_Mid_Hinge 23
+    100756: IR_Camera_Mount_Camera_Mid_Hinge 3
+    100758: IR_Camera_Mount_Camera_Mid_Hinge 4
+    100760: IR_Camera_Mount_Camera_Mid_Hinge 5
+    100762: IR_Camera_Mount_Camera_Mid_Hinge 6
+    100764: IR_Camera_Mount_Camera_Mid_Hinge 7
+    100766: IR_Camera_Mount_Camera_Mid_Hinge 8
+    100768: IR_Camera_Mount_Camera_Mid_Hinge 9
+    100770: IR_Camera_Mount_Camera_Mid_Tightness_Handle
+    100772: IR_Camera_Mount_Camera_Mid_Tightness_Handle 1
+    100774: IR_Camera_Mount_Camera_Mid_Tightness_Handle 10
+    100776: IR_Camera_Mount_Camera_Mid_Tightness_Handle 11
+    100778: IR_Camera_Mount_Camera_Mid_Tightness_Handle 12
+    100780: IR_Camera_Mount_Camera_Mid_Tightness_Handle 13
+    100782: IR_Camera_Mount_Camera_Mid_Tightness_Handle 14
+    100784: IR_Camera_Mount_Camera_Mid_Tightness_Handle 15
+    100786: IR_Camera_Mount_Camera_Mid_Tightness_Handle 16
+    100788: IR_Camera_Mount_Camera_Mid_Tightness_Handle 17
+    100790: IR_Camera_Mount_Camera_Mid_Tightness_Handle 18
+    100792: IR_Camera_Mount_Camera_Mid_Tightness_Handle 19
+    100794: IR_Camera_Mount_Camera_Mid_Tightness_Handle 2
+    100796: IR_Camera_Mount_Camera_Mid_Tightness_Handle 20
+    100798: IR_Camera_Mount_Camera_Mid_Tightness_Handle 21
+    100800: IR_Camera_Mount_Camera_Mid_Tightness_Handle 22
+    100802: IR_Camera_Mount_Camera_Mid_Tightness_Handle 23
+    100804: IR_Camera_Mount_Camera_Mid_Tightness_Handle 3
+    100806: IR_Camera_Mount_Camera_Mid_Tightness_Handle 4
+    100808: IR_Camera_Mount_Camera_Mid_Tightness_Handle 5
+    100810: IR_Camera_Mount_Camera_Mid_Tightness_Handle 6
+    100812: IR_Camera_Mount_Camera_Mid_Tightness_Handle 7
+    100814: IR_Camera_Mount_Camera_Mid_Tightness_Handle 8
+    100816: IR_Camera_Mount_Camera_Mid_Tightness_Handle 9
+    100818: IR_Camera_Mount_Camera_Mid_Tightness_Handle1
+    100820: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 1
+    100822: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 10
+    100824: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 11
+    100826: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 12
+    100828: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 13
+    100830: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 14
+    100832: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 15
+    100834: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 16
+    100836: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 17
+    100838: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 18
+    100840: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 19
+    100842: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 2
+    100844: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 20
+    100846: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 21
+    100848: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 22
+    100850: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 23
+    100852: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 3
+    100854: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 4
+    100856: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 5
+    100858: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 6
+    100860: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 7
+    100862: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 8
+    100864: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 9
+    400000: //RootNode
+    400002: IR_Camera_Base
+    400004: IR_Camera_Base 1
+    400006: IR_Camera_Base 10
+    400008: IR_Camera_Base 11
+    400010: IR_Camera_Base 12
+    400012: IR_Camera_Base 13
+    400014: IR_Camera_Base 14
+    400016: IR_Camera_Base 15
+    400018: IR_Camera_Base 16
+    400020: IR_Camera_Base 17
+    400022: IR_Camera_Base 18
+    400024: IR_Camera_Base 19
+    400026: IR_Camera_Base 2
+    400028: IR_Camera_Base 20
+    400030: IR_Camera_Base 21
+    400032: IR_Camera_Base 22
+    400034: IR_Camera_Base 23
+    400036: IR_Camera_Base 3
+    400038: IR_Camera_Base 4
+    400040: IR_Camera_Base 5
+    400042: IR_Camera_Base 6
+    400044: IR_Camera_Base 7
+    400046: IR_Camera_Base 8
+    400048: IR_Camera_Base 9
+    400050: IR_Camera_Lens
+    400052: IR_Camera_Lens 1
+    400054: IR_Camera_Lens 10
+    400056: IR_Camera_Lens 11
+    400058: IR_Camera_Lens 12
+    400060: IR_Camera_Lens 13
+    400062: IR_Camera_Lens 14
+    400064: IR_Camera_Lens 15
+    400066: IR_Camera_Lens 16
+    400068: IR_Camera_Lens 17
+    400070: IR_Camera_Lens 18
+    400072: IR_Camera_Lens 19
+    400074: IR_Camera_Lens 2
+    400076: IR_Camera_Lens 20
+    400078: IR_Camera_Lens 21
+    400080: IR_Camera_Lens 22
+    400082: IR_Camera_Lens 23
+    400084: IR_Camera_Lens 3
+    400086: IR_Camera_Lens 4
+    400088: IR_Camera_Lens 5
+    400090: IR_Camera_Lens 6
+    400092: IR_Camera_Lens 7
+    400094: IR_Camera_Lens 8
+    400096: IR_Camera_Lens 9
+    400098: IR_Camera_Lens_Base
+    400100: IR_Camera_Lens_Base 1
+    400102: IR_Camera_Lens_Base 10
+    400104: IR_Camera_Lens_Base 11
+    400106: IR_Camera_Lens_Base 12
+    400108: IR_Camera_Lens_Base 13
+    400110: IR_Camera_Lens_Base 14
+    400112: IR_Camera_Lens_Base 15
+    400114: IR_Camera_Lens_Base 16
+    400116: IR_Camera_Lens_Base 17
+    400118: IR_Camera_Lens_Base 18
+    400120: IR_Camera_Lens_Base 19
+    400122: IR_Camera_Lens_Base 2
+    400124: IR_Camera_Lens_Base 20
+    400126: IR_Camera_Lens_Base 21
+    400128: IR_Camera_Lens_Base 22
+    400130: IR_Camera_Lens_Base 23
+    400132: IR_Camera_Lens_Base 3
+    400134: IR_Camera_Lens_Base 4
+    400136: IR_Camera_Lens_Base 5
+    400138: IR_Camera_Lens_Base 6
+    400140: IR_Camera_Lens_Base 7
+    400142: IR_Camera_Lens_Base 8
+    400144: IR_Camera_Lens_Base 9
+    400146: IR_Camera_Mount_Camera_Base
+    400148: IR_Camera_Mount_Camera_Base 1
+    400150: IR_Camera_Mount_Camera_Base 10
+    400152: IR_Camera_Mount_Camera_Base 11
+    400154: IR_Camera_Mount_Camera_Base 12
+    400156: IR_Camera_Mount_Camera_Base 13
+    400158: IR_Camera_Mount_Camera_Base 14
+    400160: IR_Camera_Mount_Camera_Base 15
+    400162: IR_Camera_Mount_Camera_Base 16
+    400164: IR_Camera_Mount_Camera_Base 17
+    400166: IR_Camera_Mount_Camera_Base 18
+    400168: IR_Camera_Mount_Camera_Base 19
+    400170: IR_Camera_Mount_Camera_Base 2
+    400172: IR_Camera_Mount_Camera_Base 20
+    400174: IR_Camera_Mount_Camera_Base 21
+    400176: IR_Camera_Mount_Camera_Base 22
+    400178: IR_Camera_Mount_Camera_Base 23
+    400180: IR_Camera_Mount_Camera_Base 3
+    400182: IR_Camera_Mount_Camera_Base 4
+    400184: IR_Camera_Mount_Camera_Base 5
+    400186: IR_Camera_Mount_Camera_Base 6
+    400188: IR_Camera_Mount_Camera_Base 7
+    400190: IR_Camera_Mount_Camera_Base 8
+    400192: IR_Camera_Mount_Camera_Base 9
+    400194: IR_Camera_Mount_Camera_Base_Cylinder
+    400196: IR_Camera_Mount_Camera_Base_Cylinder 1
+    400198: IR_Camera_Mount_Camera_Base_Cylinder 10
+    400200: IR_Camera_Mount_Camera_Base_Cylinder 11
+    400202: IR_Camera_Mount_Camera_Base_Cylinder 12
+    400204: IR_Camera_Mount_Camera_Base_Cylinder 13
+    400206: IR_Camera_Mount_Camera_Base_Cylinder 14
+    400208: IR_Camera_Mount_Camera_Base_Cylinder 15
+    400210: IR_Camera_Mount_Camera_Base_Cylinder 16
+    400212: IR_Camera_Mount_Camera_Base_Cylinder 17
+    400214: IR_Camera_Mount_Camera_Base_Cylinder 18
+    400216: IR_Camera_Mount_Camera_Base_Cylinder 19
+    400218: IR_Camera_Mount_Camera_Base_Cylinder 2
+    400220: IR_Camera_Mount_Camera_Base_Cylinder 20
+    400222: IR_Camera_Mount_Camera_Base_Cylinder 21
+    400224: IR_Camera_Mount_Camera_Base_Cylinder 22
+    400226: IR_Camera_Mount_Camera_Base_Cylinder 23
+    400228: IR_Camera_Mount_Camera_Base_Cylinder 3
+    400230: IR_Camera_Mount_Camera_Base_Cylinder 4
+    400232: IR_Camera_Mount_Camera_Base_Cylinder 5
+    400234: IR_Camera_Mount_Camera_Base_Cylinder 6
+    400236: IR_Camera_Mount_Camera_Base_Cylinder 7
+    400238: IR_Camera_Mount_Camera_Base_Cylinder 8
+    400240: IR_Camera_Mount_Camera_Base_Cylinder 9
+    400242: IR_Camera_Mount_Camera_Base_Socket1
+    400244: IR_Camera_Mount_Camera_Base_Socket1 1
+    400246: IR_Camera_Mount_Camera_Base_Socket1 10
+    400248: IR_Camera_Mount_Camera_Base_Socket1 11
+    400250: IR_Camera_Mount_Camera_Base_Socket1 12
+    400252: IR_Camera_Mount_Camera_Base_Socket1 13
+    400254: IR_Camera_Mount_Camera_Base_Socket1 14
+    400256: IR_Camera_Mount_Camera_Base_Socket1 15
+    400258: IR_Camera_Mount_Camera_Base_Socket1 16
+    400260: IR_Camera_Mount_Camera_Base_Socket1 17
+    400262: IR_Camera_Mount_Camera_Base_Socket1 18
+    400264: IR_Camera_Mount_Camera_Base_Socket1 19
+    400266: IR_Camera_Mount_Camera_Base_Socket1 2
+    400268: IR_Camera_Mount_Camera_Base_Socket1 20
+    400270: IR_Camera_Mount_Camera_Base_Socket1 21
+    400272: IR_Camera_Mount_Camera_Base_Socket1 22
+    400274: IR_Camera_Mount_Camera_Base_Socket1 23
+    400276: IR_Camera_Mount_Camera_Base_Socket1 3
+    400278: IR_Camera_Mount_Camera_Base_Socket1 4
+    400280: IR_Camera_Mount_Camera_Base_Socket1 5
+    400282: IR_Camera_Mount_Camera_Base_Socket1 6
+    400284: IR_Camera_Mount_Camera_Base_Socket1 7
+    400286: IR_Camera_Mount_Camera_Base_Socket1 8
+    400288: IR_Camera_Mount_Camera_Base_Socket1 9
+    400290: IR_Camera_Mount_Camera_Base_Socket2
+    400292: IR_Camera_Mount_Camera_Base_Socket2 1
+    400294: IR_Camera_Mount_Camera_Base_Socket2 10
+    400296: IR_Camera_Mount_Camera_Base_Socket2 11
+    400298: IR_Camera_Mount_Camera_Base_Socket2 12
+    400300: IR_Camera_Mount_Camera_Base_Socket2 13
+    400302: IR_Camera_Mount_Camera_Base_Socket2 14
+    400304: IR_Camera_Mount_Camera_Base_Socket2 15
+    400306: IR_Camera_Mount_Camera_Base_Socket2 16
+    400308: IR_Camera_Mount_Camera_Base_Socket2 17
+    400310: IR_Camera_Mount_Camera_Base_Socket2 18
+    400312: IR_Camera_Mount_Camera_Base_Socket2 19
+    400314: IR_Camera_Mount_Camera_Base_Socket2 2
+    400316: IR_Camera_Mount_Camera_Base_Socket2 20
+    400318: IR_Camera_Mount_Camera_Base_Socket2 21
+    400320: IR_Camera_Mount_Camera_Base_Socket2 22
+    400322: IR_Camera_Mount_Camera_Base_Socket2 23
+    400324: IR_Camera_Mount_Camera_Base_Socket2 3
+    400326: IR_Camera_Mount_Camera_Base_Socket2 4
+    400328: IR_Camera_Mount_Camera_Base_Socket2 5
+    400330: IR_Camera_Mount_Camera_Base_Socket2 6
+    400332: IR_Camera_Mount_Camera_Base_Socket2 7
+    400334: IR_Camera_Mount_Camera_Base_Socket2 8
+    400336: IR_Camera_Mount_Camera_Base_Socket2 9
+    400338: IR_Camera_Mount_Camera_Base_Socket_Hinge
+    400340: IR_Camera_Mount_Camera_Base_Socket_Hinge 1
+    400342: IR_Camera_Mount_Camera_Base_Socket_Hinge 10
+    400344: IR_Camera_Mount_Camera_Base_Socket_Hinge 11
+    400346: IR_Camera_Mount_Camera_Base_Socket_Hinge 12
+    400348: IR_Camera_Mount_Camera_Base_Socket_Hinge 13
+    400350: IR_Camera_Mount_Camera_Base_Socket_Hinge 14
+    400352: IR_Camera_Mount_Camera_Base_Socket_Hinge 15
+    400354: IR_Camera_Mount_Camera_Base_Socket_Hinge 16
+    400356: IR_Camera_Mount_Camera_Base_Socket_Hinge 17
+    400358: IR_Camera_Mount_Camera_Base_Socket_Hinge 18
+    400360: IR_Camera_Mount_Camera_Base_Socket_Hinge 19
+    400362: IR_Camera_Mount_Camera_Base_Socket_Hinge 2
+    400364: IR_Camera_Mount_Camera_Base_Socket_Hinge 20
+    400366: IR_Camera_Mount_Camera_Base_Socket_Hinge 21
+    400368: IR_Camera_Mount_Camera_Base_Socket_Hinge 22
+    400370: IR_Camera_Mount_Camera_Base_Socket_Hinge 23
+    400372: IR_Camera_Mount_Camera_Base_Socket_Hinge 3
+    400374: IR_Camera_Mount_Camera_Base_Socket_Hinge 4
+    400376: IR_Camera_Mount_Camera_Base_Socket_Hinge 5
+    400378: IR_Camera_Mount_Camera_Base_Socket_Hinge 6
+    400380: IR_Camera_Mount_Camera_Base_Socket_Hinge 7
+    400382: IR_Camera_Mount_Camera_Base_Socket_Hinge 8
+    400384: IR_Camera_Mount_Camera_Base_Socket_Hinge 9
+    400386: IR_Camera_Mount_Camera_Base_Tightness_Handle
+    400388: IR_Camera_Mount_Camera_Base_Tightness_Handle 1
+    400390: IR_Camera_Mount_Camera_Base_Tightness_Handle 10
+    400392: IR_Camera_Mount_Camera_Base_Tightness_Handle 11
+    400394: IR_Camera_Mount_Camera_Base_Tightness_Handle 12
+    400396: IR_Camera_Mount_Camera_Base_Tightness_Handle 13
+    400398: IR_Camera_Mount_Camera_Base_Tightness_Handle 14
+    400400: IR_Camera_Mount_Camera_Base_Tightness_Handle 15
+    400402: IR_Camera_Mount_Camera_Base_Tightness_Handle 16
+    400404: IR_Camera_Mount_Camera_Base_Tightness_Handle 17
+    400406: IR_Camera_Mount_Camera_Base_Tightness_Handle 18
+    400408: IR_Camera_Mount_Camera_Base_Tightness_Handle 19
+    400410: IR_Camera_Mount_Camera_Base_Tightness_Handle 2
+    400412: IR_Camera_Mount_Camera_Base_Tightness_Handle 20
+    400414: IR_Camera_Mount_Camera_Base_Tightness_Handle 21
+    400416: IR_Camera_Mount_Camera_Base_Tightness_Handle 22
+    400418: IR_Camera_Mount_Camera_Base_Tightness_Handle 23
+    400420: IR_Camera_Mount_Camera_Base_Tightness_Handle 3
+    400422: IR_Camera_Mount_Camera_Base_Tightness_Handle 4
+    400424: IR_Camera_Mount_Camera_Base_Tightness_Handle 5
+    400426: IR_Camera_Mount_Camera_Base_Tightness_Handle 6
+    400428: IR_Camera_Mount_Camera_Base_Tightness_Handle 7
+    400430: IR_Camera_Mount_Camera_Base_Tightness_Handle 8
+    400432: IR_Camera_Mount_Camera_Base_Tightness_Handle 9
+    400434: IR_Camera_Mount_Camera_Clamp_Base
+    400436: IR_Camera_Mount_Camera_Clamp_Base 1
+    400438: IR_Camera_Mount_Camera_Clamp_Base 10
+    400440: IR_Camera_Mount_Camera_Clamp_Base 11
+    400442: IR_Camera_Mount_Camera_Clamp_Base 12
+    400444: IR_Camera_Mount_Camera_Clamp_Base 13
+    400446: IR_Camera_Mount_Camera_Clamp_Base 14
+    400448: IR_Camera_Mount_Camera_Clamp_Base 15
+    400450: IR_Camera_Mount_Camera_Clamp_Base 16
+    400452: IR_Camera_Mount_Camera_Clamp_Base 17
+    400454: IR_Camera_Mount_Camera_Clamp_Base 18
+    400456: IR_Camera_Mount_Camera_Clamp_Base 19
+    400458: IR_Camera_Mount_Camera_Clamp_Base 2
+    400460: IR_Camera_Mount_Camera_Clamp_Base 20
+    400462: IR_Camera_Mount_Camera_Clamp_Base 21
+    400464: IR_Camera_Mount_Camera_Clamp_Base 22
+    400466: IR_Camera_Mount_Camera_Clamp_Base 23
+    400468: IR_Camera_Mount_Camera_Clamp_Base 3
+    400470: IR_Camera_Mount_Camera_Clamp_Base 4
+    400472: IR_Camera_Mount_Camera_Clamp_Base 5
+    400474: IR_Camera_Mount_Camera_Clamp_Base 6
+    400476: IR_Camera_Mount_Camera_Clamp_Base 7
+    400478: IR_Camera_Mount_Camera_Clamp_Base 8
+    400480: IR_Camera_Mount_Camera_Clamp_Base 9
+    400482: IR_Camera_Mount_Camera_Clamp_Bottom
+    400484: IR_Camera_Mount_Camera_Clamp_Bottom 1
+    400486: IR_Camera_Mount_Camera_Clamp_Bottom 10
+    400488: IR_Camera_Mount_Camera_Clamp_Bottom 11
+    400490: IR_Camera_Mount_Camera_Clamp_Bottom 12
+    400492: IR_Camera_Mount_Camera_Clamp_Bottom 13
+    400494: IR_Camera_Mount_Camera_Clamp_Bottom 14
+    400496: IR_Camera_Mount_Camera_Clamp_Bottom 15
+    400498: IR_Camera_Mount_Camera_Clamp_Bottom 16
+    400500: IR_Camera_Mount_Camera_Clamp_Bottom 17
+    400502: IR_Camera_Mount_Camera_Clamp_Bottom 18
+    400504: IR_Camera_Mount_Camera_Clamp_Bottom 19
+    400506: IR_Camera_Mount_Camera_Clamp_Bottom 2
+    400508: IR_Camera_Mount_Camera_Clamp_Bottom 20
+    400510: IR_Camera_Mount_Camera_Clamp_Bottom 21
+    400512: IR_Camera_Mount_Camera_Clamp_Bottom 22
+    400514: IR_Camera_Mount_Camera_Clamp_Bottom 23
+    400516: IR_Camera_Mount_Camera_Clamp_Bottom 3
+    400518: IR_Camera_Mount_Camera_Clamp_Bottom 4
+    400520: IR_Camera_Mount_Camera_Clamp_Bottom 5
+    400522: IR_Camera_Mount_Camera_Clamp_Bottom 6
+    400524: IR_Camera_Mount_Camera_Clamp_Bottom 7
+    400526: IR_Camera_Mount_Camera_Clamp_Bottom 8
+    400528: IR_Camera_Mount_Camera_Clamp_Bottom 9
+    400530: IR_Camera_Mount_Camera_Clamp_Handle
+    400532: IR_Camera_Mount_Camera_Clamp_Handle 1
+    400534: IR_Camera_Mount_Camera_Clamp_Handle 10
+    400536: IR_Camera_Mount_Camera_Clamp_Handle 11
+    400538: IR_Camera_Mount_Camera_Clamp_Handle 12
+    400540: IR_Camera_Mount_Camera_Clamp_Handle 13
+    400542: IR_Camera_Mount_Camera_Clamp_Handle 14
+    400544: IR_Camera_Mount_Camera_Clamp_Handle 15
+    400546: IR_Camera_Mount_Camera_Clamp_Handle 16
+    400548: IR_Camera_Mount_Camera_Clamp_Handle 17
+    400550: IR_Camera_Mount_Camera_Clamp_Handle 18
+    400552: IR_Camera_Mount_Camera_Clamp_Handle 19
+    400554: IR_Camera_Mount_Camera_Clamp_Handle 2
+    400556: IR_Camera_Mount_Camera_Clamp_Handle 20
+    400558: IR_Camera_Mount_Camera_Clamp_Handle 21
+    400560: IR_Camera_Mount_Camera_Clamp_Handle 22
+    400562: IR_Camera_Mount_Camera_Clamp_Handle 23
+    400564: IR_Camera_Mount_Camera_Clamp_Handle 3
+    400566: IR_Camera_Mount_Camera_Clamp_Handle 4
+    400568: IR_Camera_Mount_Camera_Clamp_Handle 5
+    400570: IR_Camera_Mount_Camera_Clamp_Handle 6
+    400572: IR_Camera_Mount_Camera_Clamp_Handle 7
+    400574: IR_Camera_Mount_Camera_Clamp_Handle 8
+    400576: IR_Camera_Mount_Camera_Clamp_Handle 9
+    400578: IR_Camera_Mount_Camera_Clamp_Pole
+    400580: IR_Camera_Mount_Camera_Clamp_Pole1
+    400582: IR_Camera_Mount_Camera_Clamp_Pole10
+    400584: IR_Camera_Mount_Camera_Clamp_Pole11
+    400586: IR_Camera_Mount_Camera_Clamp_Pole12
+    400588: IR_Camera_Mount_Camera_Clamp_Pole13
+    400590: IR_Camera_Mount_Camera_Clamp_Pole14
+    400592: IR_Camera_Mount_Camera_Clamp_Pole15
+    400594: IR_Camera_Mount_Camera_Clamp_Pole16
+    400596: IR_Camera_Mount_Camera_Clamp_Pole17
+    400598: IR_Camera_Mount_Camera_Clamp_Pole18
+    400600: IR_Camera_Mount_Camera_Clamp_Pole19
+    400602: IR_Camera_Mount_Camera_Clamp_Pole2
+    400604: IR_Camera_Mount_Camera_Clamp_Pole20
+    400606: IR_Camera_Mount_Camera_Clamp_Pole21
+    400608: IR_Camera_Mount_Camera_Clamp_Pole22
+    400610: IR_Camera_Mount_Camera_Clamp_Pole23
+    400612: IR_Camera_Mount_Camera_Clamp_Pole3
+    400614: IR_Camera_Mount_Camera_Clamp_Pole4
+    400616: IR_Camera_Mount_Camera_Clamp_Pole5
+    400618: IR_Camera_Mount_Camera_Clamp_Pole6
+    400620: IR_Camera_Mount_Camera_Clamp_Pole7
+    400622: IR_Camera_Mount_Camera_Clamp_Pole8
+    400624: IR_Camera_Mount_Camera_Clamp_Pole9
+    400626: IR_Camera_Mount_Camera_Clamp_Top
+    400628: IR_Camera_Mount_Camera_Clamp_Top 1
+    400630: IR_Camera_Mount_Camera_Clamp_Top 10
+    400632: IR_Camera_Mount_Camera_Clamp_Top 11
+    400634: IR_Camera_Mount_Camera_Clamp_Top 12
+    400636: IR_Camera_Mount_Camera_Clamp_Top 13
+    400638: IR_Camera_Mount_Camera_Clamp_Top 14
+    400640: IR_Camera_Mount_Camera_Clamp_Top 15
+    400642: IR_Camera_Mount_Camera_Clamp_Top 16
+    400644: IR_Camera_Mount_Camera_Clamp_Top 17
+    400646: IR_Camera_Mount_Camera_Clamp_Top 18
+    400648: IR_Camera_Mount_Camera_Clamp_Top 19
+    400650: IR_Camera_Mount_Camera_Clamp_Top 2
+    400652: IR_Camera_Mount_Camera_Clamp_Top 20
+    400654: IR_Camera_Mount_Camera_Clamp_Top 21
+    400656: IR_Camera_Mount_Camera_Clamp_Top 22
+    400658: IR_Camera_Mount_Camera_Clamp_Top 23
+    400660: IR_Camera_Mount_Camera_Clamp_Top 3
+    400662: IR_Camera_Mount_Camera_Clamp_Top 4
+    400664: IR_Camera_Mount_Camera_Clamp_Top 5
+    400666: IR_Camera_Mount_Camera_Clamp_Top 6
+    400668: IR_Camera_Mount_Camera_Clamp_Top 7
+    400670: IR_Camera_Mount_Camera_Clamp_Top 8
+    400672: IR_Camera_Mount_Camera_Clamp_Top 9
+    400674: IR_Camera_Mount_Camera_Mid_Arm
+    400676: IR_Camera_Mount_Camera_Mid_Arm 1
+    400678: IR_Camera_Mount_Camera_Mid_Arm 10
+    400680: IR_Camera_Mount_Camera_Mid_Arm 11
+    400682: IR_Camera_Mount_Camera_Mid_Arm 12
+    400684: IR_Camera_Mount_Camera_Mid_Arm 13
+    400686: IR_Camera_Mount_Camera_Mid_Arm 14
+    400688: IR_Camera_Mount_Camera_Mid_Arm 15
+    400690: IR_Camera_Mount_Camera_Mid_Arm 16
+    400692: IR_Camera_Mount_Camera_Mid_Arm 17
+    400694: IR_Camera_Mount_Camera_Mid_Arm 18
+    400696: IR_Camera_Mount_Camera_Mid_Arm 19
+    400698: IR_Camera_Mount_Camera_Mid_Arm 2
+    400700: IR_Camera_Mount_Camera_Mid_Arm 20
+    400702: IR_Camera_Mount_Camera_Mid_Arm 21
+    400704: IR_Camera_Mount_Camera_Mid_Arm 22
+    400706: IR_Camera_Mount_Camera_Mid_Arm 23
+    400708: IR_Camera_Mount_Camera_Mid_Arm 3
+    400710: IR_Camera_Mount_Camera_Mid_Arm 4
+    400712: IR_Camera_Mount_Camera_Mid_Arm 5
+    400714: IR_Camera_Mount_Camera_Mid_Arm 6
+    400716: IR_Camera_Mount_Camera_Mid_Arm 7
+    400718: IR_Camera_Mount_Camera_Mid_Arm 8
+    400720: IR_Camera_Mount_Camera_Mid_Arm 9
+    400722: IR_Camera_Mount_Camera_Mid_Hinge
+    400724: IR_Camera_Mount_Camera_Mid_Hinge 1
+    400726: IR_Camera_Mount_Camera_Mid_Hinge 10
+    400728: IR_Camera_Mount_Camera_Mid_Hinge 11
+    400730: IR_Camera_Mount_Camera_Mid_Hinge 12
+    400732: IR_Camera_Mount_Camera_Mid_Hinge 13
+    400734: IR_Camera_Mount_Camera_Mid_Hinge 14
+    400736: IR_Camera_Mount_Camera_Mid_Hinge 15
+    400738: IR_Camera_Mount_Camera_Mid_Hinge 16
+    400740: IR_Camera_Mount_Camera_Mid_Hinge 17
+    400742: IR_Camera_Mount_Camera_Mid_Hinge 18
+    400744: IR_Camera_Mount_Camera_Mid_Hinge 19
+    400746: IR_Camera_Mount_Camera_Mid_Hinge 2
+    400748: IR_Camera_Mount_Camera_Mid_Hinge 20
+    400750: IR_Camera_Mount_Camera_Mid_Hinge 21
+    400752: IR_Camera_Mount_Camera_Mid_Hinge 22
+    400754: IR_Camera_Mount_Camera_Mid_Hinge 23
+    400756: IR_Camera_Mount_Camera_Mid_Hinge 3
+    400758: IR_Camera_Mount_Camera_Mid_Hinge 4
+    400760: IR_Camera_Mount_Camera_Mid_Hinge 5
+    400762: IR_Camera_Mount_Camera_Mid_Hinge 6
+    400764: IR_Camera_Mount_Camera_Mid_Hinge 7
+    400766: IR_Camera_Mount_Camera_Mid_Hinge 8
+    400768: IR_Camera_Mount_Camera_Mid_Hinge 9
+    400770: IR_Camera_Mount_Camera_Mid_Tightness_Handle
+    400772: IR_Camera_Mount_Camera_Mid_Tightness_Handle 1
+    400774: IR_Camera_Mount_Camera_Mid_Tightness_Handle 10
+    400776: IR_Camera_Mount_Camera_Mid_Tightness_Handle 11
+    400778: IR_Camera_Mount_Camera_Mid_Tightness_Handle 12
+    400780: IR_Camera_Mount_Camera_Mid_Tightness_Handle 13
+    400782: IR_Camera_Mount_Camera_Mid_Tightness_Handle 14
+    400784: IR_Camera_Mount_Camera_Mid_Tightness_Handle 15
+    400786: IR_Camera_Mount_Camera_Mid_Tightness_Handle 16
+    400788: IR_Camera_Mount_Camera_Mid_Tightness_Handle 17
+    400790: IR_Camera_Mount_Camera_Mid_Tightness_Handle 18
+    400792: IR_Camera_Mount_Camera_Mid_Tightness_Handle 19
+    400794: IR_Camera_Mount_Camera_Mid_Tightness_Handle 2
+    400796: IR_Camera_Mount_Camera_Mid_Tightness_Handle 20
+    400798: IR_Camera_Mount_Camera_Mid_Tightness_Handle 21
+    400800: IR_Camera_Mount_Camera_Mid_Tightness_Handle 22
+    400802: IR_Camera_Mount_Camera_Mid_Tightness_Handle 23
+    400804: IR_Camera_Mount_Camera_Mid_Tightness_Handle 3
+    400806: IR_Camera_Mount_Camera_Mid_Tightness_Handle 4
+    400808: IR_Camera_Mount_Camera_Mid_Tightness_Handle 5
+    400810: IR_Camera_Mount_Camera_Mid_Tightness_Handle 6
+    400812: IR_Camera_Mount_Camera_Mid_Tightness_Handle 7
+    400814: IR_Camera_Mount_Camera_Mid_Tightness_Handle 8
+    400816: IR_Camera_Mount_Camera_Mid_Tightness_Handle 9
+    400818: IR_Camera_Mount_Camera_Mid_Tightness_Handle1
+    400820: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 1
+    400822: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 10
+    400824: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 11
+    400826: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 12
+    400828: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 13
+    400830: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 14
+    400832: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 15
+    400834: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 16
+    400836: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 17
+    400838: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 18
+    400840: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 19
+    400842: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 2
+    400844: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 20
+    400846: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 21
+    400848: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 22
+    400850: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 23
+    400852: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 3
+    400854: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 4
+    400856: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 5
+    400858: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 6
+    400860: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 7
+    400862: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 8
+    400864: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 9
+    2300000: IR_Camera_Base
+    2300002: IR_Camera_Base 1
+    2300004: IR_Camera_Base 10
+    2300006: IR_Camera_Base 11
+    2300008: IR_Camera_Base 12
+    2300010: IR_Camera_Base 13
+    2300012: IR_Camera_Base 14
+    2300014: IR_Camera_Base 15
+    2300016: IR_Camera_Base 16
+    2300018: IR_Camera_Base 17
+    2300020: IR_Camera_Base 18
+    2300022: IR_Camera_Base 19
+    2300024: IR_Camera_Base 2
+    2300026: IR_Camera_Base 20
+    2300028: IR_Camera_Base 21
+    2300030: IR_Camera_Base 22
+    2300032: IR_Camera_Base 23
+    2300034: IR_Camera_Base 3
+    2300036: IR_Camera_Base 4
+    2300038: IR_Camera_Base 5
+    2300040: IR_Camera_Base 6
+    2300042: IR_Camera_Base 7
+    2300044: IR_Camera_Base 8
+    2300046: IR_Camera_Base 9
+    2300048: IR_Camera_Lens
+    2300050: IR_Camera_Lens 1
+    2300052: IR_Camera_Lens 10
+    2300054: IR_Camera_Lens 11
+    2300056: IR_Camera_Lens 12
+    2300058: IR_Camera_Lens 13
+    2300060: IR_Camera_Lens 14
+    2300062: IR_Camera_Lens 15
+    2300064: IR_Camera_Lens 16
+    2300066: IR_Camera_Lens 17
+    2300068: IR_Camera_Lens 18
+    2300070: IR_Camera_Lens 19
+    2300072: IR_Camera_Lens 2
+    2300074: IR_Camera_Lens 20
+    2300076: IR_Camera_Lens 21
+    2300078: IR_Camera_Lens 22
+    2300080: IR_Camera_Lens 23
+    2300082: IR_Camera_Lens 3
+    2300084: IR_Camera_Lens 4
+    2300086: IR_Camera_Lens 5
+    2300088: IR_Camera_Lens 6
+    2300090: IR_Camera_Lens 7
+    2300092: IR_Camera_Lens 8
+    2300094: IR_Camera_Lens 9
+    2300096: IR_Camera_Lens_Base
+    2300098: IR_Camera_Lens_Base 1
+    2300100: IR_Camera_Lens_Base 10
+    2300102: IR_Camera_Lens_Base 11
+    2300104: IR_Camera_Lens_Base 12
+    2300106: IR_Camera_Lens_Base 13
+    2300108: IR_Camera_Lens_Base 14
+    2300110: IR_Camera_Lens_Base 15
+    2300112: IR_Camera_Lens_Base 16
+    2300114: IR_Camera_Lens_Base 17
+    2300116: IR_Camera_Lens_Base 18
+    2300118: IR_Camera_Lens_Base 19
+    2300120: IR_Camera_Lens_Base 2
+    2300122: IR_Camera_Lens_Base 20
+    2300124: IR_Camera_Lens_Base 21
+    2300126: IR_Camera_Lens_Base 22
+    2300128: IR_Camera_Lens_Base 23
+    2300130: IR_Camera_Lens_Base 3
+    2300132: IR_Camera_Lens_Base 4
+    2300134: IR_Camera_Lens_Base 5
+    2300136: IR_Camera_Lens_Base 6
+    2300138: IR_Camera_Lens_Base 7
+    2300140: IR_Camera_Lens_Base 8
+    2300142: IR_Camera_Lens_Base 9
+    2300144: IR_Camera_Mount_Camera_Base
+    2300146: IR_Camera_Mount_Camera_Base 1
+    2300148: IR_Camera_Mount_Camera_Base 10
+    2300150: IR_Camera_Mount_Camera_Base 11
+    2300152: IR_Camera_Mount_Camera_Base 12
+    2300154: IR_Camera_Mount_Camera_Base 13
+    2300156: IR_Camera_Mount_Camera_Base 14
+    2300158: IR_Camera_Mount_Camera_Base 15
+    2300160: IR_Camera_Mount_Camera_Base 16
+    2300162: IR_Camera_Mount_Camera_Base 17
+    2300164: IR_Camera_Mount_Camera_Base 18
+    2300166: IR_Camera_Mount_Camera_Base 19
+    2300168: IR_Camera_Mount_Camera_Base 2
+    2300170: IR_Camera_Mount_Camera_Base 20
+    2300172: IR_Camera_Mount_Camera_Base 21
+    2300174: IR_Camera_Mount_Camera_Base 22
+    2300176: IR_Camera_Mount_Camera_Base 23
+    2300178: IR_Camera_Mount_Camera_Base 3
+    2300180: IR_Camera_Mount_Camera_Base 4
+    2300182: IR_Camera_Mount_Camera_Base 5
+    2300184: IR_Camera_Mount_Camera_Base 6
+    2300186: IR_Camera_Mount_Camera_Base 7
+    2300188: IR_Camera_Mount_Camera_Base 8
+    2300190: IR_Camera_Mount_Camera_Base 9
+    2300192: IR_Camera_Mount_Camera_Base_Cylinder
+    2300194: IR_Camera_Mount_Camera_Base_Cylinder 1
+    2300196: IR_Camera_Mount_Camera_Base_Cylinder 10
+    2300198: IR_Camera_Mount_Camera_Base_Cylinder 11
+    2300200: IR_Camera_Mount_Camera_Base_Cylinder 12
+    2300202: IR_Camera_Mount_Camera_Base_Cylinder 13
+    2300204: IR_Camera_Mount_Camera_Base_Cylinder 14
+    2300206: IR_Camera_Mount_Camera_Base_Cylinder 15
+    2300208: IR_Camera_Mount_Camera_Base_Cylinder 16
+    2300210: IR_Camera_Mount_Camera_Base_Cylinder 17
+    2300212: IR_Camera_Mount_Camera_Base_Cylinder 18
+    2300214: IR_Camera_Mount_Camera_Base_Cylinder 19
+    2300216: IR_Camera_Mount_Camera_Base_Cylinder 2
+    2300218: IR_Camera_Mount_Camera_Base_Cylinder 20
+    2300220: IR_Camera_Mount_Camera_Base_Cylinder 21
+    2300222: IR_Camera_Mount_Camera_Base_Cylinder 22
+    2300224: IR_Camera_Mount_Camera_Base_Cylinder 23
+    2300226: IR_Camera_Mount_Camera_Base_Cylinder 3
+    2300228: IR_Camera_Mount_Camera_Base_Cylinder 4
+    2300230: IR_Camera_Mount_Camera_Base_Cylinder 5
+    2300232: IR_Camera_Mount_Camera_Base_Cylinder 6
+    2300234: IR_Camera_Mount_Camera_Base_Cylinder 7
+    2300236: IR_Camera_Mount_Camera_Base_Cylinder 8
+    2300238: IR_Camera_Mount_Camera_Base_Cylinder 9
+    2300240: IR_Camera_Mount_Camera_Base_Socket1
+    2300242: IR_Camera_Mount_Camera_Base_Socket1 1
+    2300244: IR_Camera_Mount_Camera_Base_Socket1 10
+    2300246: IR_Camera_Mount_Camera_Base_Socket1 11
+    2300248: IR_Camera_Mount_Camera_Base_Socket1 12
+    2300250: IR_Camera_Mount_Camera_Base_Socket1 13
+    2300252: IR_Camera_Mount_Camera_Base_Socket1 14
+    2300254: IR_Camera_Mount_Camera_Base_Socket1 15
+    2300256: IR_Camera_Mount_Camera_Base_Socket1 16
+    2300258: IR_Camera_Mount_Camera_Base_Socket1 17
+    2300260: IR_Camera_Mount_Camera_Base_Socket1 18
+    2300262: IR_Camera_Mount_Camera_Base_Socket1 19
+    2300264: IR_Camera_Mount_Camera_Base_Socket1 2
+    2300266: IR_Camera_Mount_Camera_Base_Socket1 20
+    2300268: IR_Camera_Mount_Camera_Base_Socket1 21
+    2300270: IR_Camera_Mount_Camera_Base_Socket1 22
+    2300272: IR_Camera_Mount_Camera_Base_Socket1 23
+    2300274: IR_Camera_Mount_Camera_Base_Socket1 3
+    2300276: IR_Camera_Mount_Camera_Base_Socket1 4
+    2300278: IR_Camera_Mount_Camera_Base_Socket1 5
+    2300280: IR_Camera_Mount_Camera_Base_Socket1 6
+    2300282: IR_Camera_Mount_Camera_Base_Socket1 7
+    2300284: IR_Camera_Mount_Camera_Base_Socket1 8
+    2300286: IR_Camera_Mount_Camera_Base_Socket1 9
+    2300288: IR_Camera_Mount_Camera_Base_Socket2
+    2300290: IR_Camera_Mount_Camera_Base_Socket2 1
+    2300292: IR_Camera_Mount_Camera_Base_Socket2 10
+    2300294: IR_Camera_Mount_Camera_Base_Socket2 11
+    2300296: IR_Camera_Mount_Camera_Base_Socket2 12
+    2300298: IR_Camera_Mount_Camera_Base_Socket2 13
+    2300300: IR_Camera_Mount_Camera_Base_Socket2 14
+    2300302: IR_Camera_Mount_Camera_Base_Socket2 15
+    2300304: IR_Camera_Mount_Camera_Base_Socket2 16
+    2300306: IR_Camera_Mount_Camera_Base_Socket2 17
+    2300308: IR_Camera_Mount_Camera_Base_Socket2 18
+    2300310: IR_Camera_Mount_Camera_Base_Socket2 19
+    2300312: IR_Camera_Mount_Camera_Base_Socket2 2
+    2300314: IR_Camera_Mount_Camera_Base_Socket2 20
+    2300316: IR_Camera_Mount_Camera_Base_Socket2 21
+    2300318: IR_Camera_Mount_Camera_Base_Socket2 22
+    2300320: IR_Camera_Mount_Camera_Base_Socket2 23
+    2300322: IR_Camera_Mount_Camera_Base_Socket2 3
+    2300324: IR_Camera_Mount_Camera_Base_Socket2 4
+    2300326: IR_Camera_Mount_Camera_Base_Socket2 5
+    2300328: IR_Camera_Mount_Camera_Base_Socket2 6
+    2300330: IR_Camera_Mount_Camera_Base_Socket2 7
+    2300332: IR_Camera_Mount_Camera_Base_Socket2 8
+    2300334: IR_Camera_Mount_Camera_Base_Socket2 9
+    2300336: IR_Camera_Mount_Camera_Base_Socket_Hinge
+    2300338: IR_Camera_Mount_Camera_Base_Socket_Hinge 1
+    2300340: IR_Camera_Mount_Camera_Base_Socket_Hinge 10
+    2300342: IR_Camera_Mount_Camera_Base_Socket_Hinge 11
+    2300344: IR_Camera_Mount_Camera_Base_Socket_Hinge 12
+    2300346: IR_Camera_Mount_Camera_Base_Socket_Hinge 13
+    2300348: IR_Camera_Mount_Camera_Base_Socket_Hinge 14
+    2300350: IR_Camera_Mount_Camera_Base_Socket_Hinge 15
+    2300352: IR_Camera_Mount_Camera_Base_Socket_Hinge 16
+    2300354: IR_Camera_Mount_Camera_Base_Socket_Hinge 17
+    2300356: IR_Camera_Mount_Camera_Base_Socket_Hinge 18
+    2300358: IR_Camera_Mount_Camera_Base_Socket_Hinge 19
+    2300360: IR_Camera_Mount_Camera_Base_Socket_Hinge 2
+    2300362: IR_Camera_Mount_Camera_Base_Socket_Hinge 20
+    2300364: IR_Camera_Mount_Camera_Base_Socket_Hinge 21
+    2300366: IR_Camera_Mount_Camera_Base_Socket_Hinge 22
+    2300368: IR_Camera_Mount_Camera_Base_Socket_Hinge 23
+    2300370: IR_Camera_Mount_Camera_Base_Socket_Hinge 3
+    2300372: IR_Camera_Mount_Camera_Base_Socket_Hinge 4
+    2300374: IR_Camera_Mount_Camera_Base_Socket_Hinge 5
+    2300376: IR_Camera_Mount_Camera_Base_Socket_Hinge 6
+    2300378: IR_Camera_Mount_Camera_Base_Socket_Hinge 7
+    2300380: IR_Camera_Mount_Camera_Base_Socket_Hinge 8
+    2300382: IR_Camera_Mount_Camera_Base_Socket_Hinge 9
+    2300384: IR_Camera_Mount_Camera_Base_Tightness_Handle
+    2300386: IR_Camera_Mount_Camera_Base_Tightness_Handle 1
+    2300388: IR_Camera_Mount_Camera_Base_Tightness_Handle 10
+    2300390: IR_Camera_Mount_Camera_Base_Tightness_Handle 11
+    2300392: IR_Camera_Mount_Camera_Base_Tightness_Handle 12
+    2300394: IR_Camera_Mount_Camera_Base_Tightness_Handle 13
+    2300396: IR_Camera_Mount_Camera_Base_Tightness_Handle 14
+    2300398: IR_Camera_Mount_Camera_Base_Tightness_Handle 15
+    2300400: IR_Camera_Mount_Camera_Base_Tightness_Handle 16
+    2300402: IR_Camera_Mount_Camera_Base_Tightness_Handle 17
+    2300404: IR_Camera_Mount_Camera_Base_Tightness_Handle 18
+    2300406: IR_Camera_Mount_Camera_Base_Tightness_Handle 19
+    2300408: IR_Camera_Mount_Camera_Base_Tightness_Handle 2
+    2300410: IR_Camera_Mount_Camera_Base_Tightness_Handle 20
+    2300412: IR_Camera_Mount_Camera_Base_Tightness_Handle 21
+    2300414: IR_Camera_Mount_Camera_Base_Tightness_Handle 22
+    2300416: IR_Camera_Mount_Camera_Base_Tightness_Handle 23
+    2300418: IR_Camera_Mount_Camera_Base_Tightness_Handle 3
+    2300420: IR_Camera_Mount_Camera_Base_Tightness_Handle 4
+    2300422: IR_Camera_Mount_Camera_Base_Tightness_Handle 5
+    2300424: IR_Camera_Mount_Camera_Base_Tightness_Handle 6
+    2300426: IR_Camera_Mount_Camera_Base_Tightness_Handle 7
+    2300428: IR_Camera_Mount_Camera_Base_Tightness_Handle 8
+    2300430: IR_Camera_Mount_Camera_Base_Tightness_Handle 9
+    2300432: IR_Camera_Mount_Camera_Clamp_Base
+    2300434: IR_Camera_Mount_Camera_Clamp_Base 1
+    2300436: IR_Camera_Mount_Camera_Clamp_Base 10
+    2300438: IR_Camera_Mount_Camera_Clamp_Base 11
+    2300440: IR_Camera_Mount_Camera_Clamp_Base 12
+    2300442: IR_Camera_Mount_Camera_Clamp_Base 13
+    2300444: IR_Camera_Mount_Camera_Clamp_Base 14
+    2300446: IR_Camera_Mount_Camera_Clamp_Base 15
+    2300448: IR_Camera_Mount_Camera_Clamp_Base 16
+    2300450: IR_Camera_Mount_Camera_Clamp_Base 17
+    2300452: IR_Camera_Mount_Camera_Clamp_Base 18
+    2300454: IR_Camera_Mount_Camera_Clamp_Base 19
+    2300456: IR_Camera_Mount_Camera_Clamp_Base 2
+    2300458: IR_Camera_Mount_Camera_Clamp_Base 20
+    2300460: IR_Camera_Mount_Camera_Clamp_Base 21
+    2300462: IR_Camera_Mount_Camera_Clamp_Base 22
+    2300464: IR_Camera_Mount_Camera_Clamp_Base 23
+    2300466: IR_Camera_Mount_Camera_Clamp_Base 3
+    2300468: IR_Camera_Mount_Camera_Clamp_Base 4
+    2300470: IR_Camera_Mount_Camera_Clamp_Base 5
+    2300472: IR_Camera_Mount_Camera_Clamp_Base 6
+    2300474: IR_Camera_Mount_Camera_Clamp_Base 7
+    2300476: IR_Camera_Mount_Camera_Clamp_Base 8
+    2300478: IR_Camera_Mount_Camera_Clamp_Base 9
+    2300480: IR_Camera_Mount_Camera_Clamp_Bottom
+    2300482: IR_Camera_Mount_Camera_Clamp_Bottom 1
+    2300484: IR_Camera_Mount_Camera_Clamp_Bottom 10
+    2300486: IR_Camera_Mount_Camera_Clamp_Bottom 11
+    2300488: IR_Camera_Mount_Camera_Clamp_Bottom 12
+    2300490: IR_Camera_Mount_Camera_Clamp_Bottom 13
+    2300492: IR_Camera_Mount_Camera_Clamp_Bottom 14
+    2300494: IR_Camera_Mount_Camera_Clamp_Bottom 15
+    2300496: IR_Camera_Mount_Camera_Clamp_Bottom 16
+    2300498: IR_Camera_Mount_Camera_Clamp_Bottom 17
+    2300500: IR_Camera_Mount_Camera_Clamp_Bottom 18
+    2300502: IR_Camera_Mount_Camera_Clamp_Bottom 19
+    2300504: IR_Camera_Mount_Camera_Clamp_Bottom 2
+    2300506: IR_Camera_Mount_Camera_Clamp_Bottom 20
+    2300508: IR_Camera_Mount_Camera_Clamp_Bottom 21
+    2300510: IR_Camera_Mount_Camera_Clamp_Bottom 22
+    2300512: IR_Camera_Mount_Camera_Clamp_Bottom 23
+    2300514: IR_Camera_Mount_Camera_Clamp_Bottom 3
+    2300516: IR_Camera_Mount_Camera_Clamp_Bottom 4
+    2300518: IR_Camera_Mount_Camera_Clamp_Bottom 5
+    2300520: IR_Camera_Mount_Camera_Clamp_Bottom 6
+    2300522: IR_Camera_Mount_Camera_Clamp_Bottom 7
+    2300524: IR_Camera_Mount_Camera_Clamp_Bottom 8
+    2300526: IR_Camera_Mount_Camera_Clamp_Bottom 9
+    2300528: IR_Camera_Mount_Camera_Clamp_Handle
+    2300530: IR_Camera_Mount_Camera_Clamp_Handle 1
+    2300532: IR_Camera_Mount_Camera_Clamp_Handle 10
+    2300534: IR_Camera_Mount_Camera_Clamp_Handle 11
+    2300536: IR_Camera_Mount_Camera_Clamp_Handle 12
+    2300538: IR_Camera_Mount_Camera_Clamp_Handle 13
+    2300540: IR_Camera_Mount_Camera_Clamp_Handle 14
+    2300542: IR_Camera_Mount_Camera_Clamp_Handle 15
+    2300544: IR_Camera_Mount_Camera_Clamp_Handle 16
+    2300546: IR_Camera_Mount_Camera_Clamp_Handle 17
+    2300548: IR_Camera_Mount_Camera_Clamp_Handle 18
+    2300550: IR_Camera_Mount_Camera_Clamp_Handle 19
+    2300552: IR_Camera_Mount_Camera_Clamp_Handle 2
+    2300554: IR_Camera_Mount_Camera_Clamp_Handle 20
+    2300556: IR_Camera_Mount_Camera_Clamp_Handle 21
+    2300558: IR_Camera_Mount_Camera_Clamp_Handle 22
+    2300560: IR_Camera_Mount_Camera_Clamp_Handle 23
+    2300562: IR_Camera_Mount_Camera_Clamp_Handle 3
+    2300564: IR_Camera_Mount_Camera_Clamp_Handle 4
+    2300566: IR_Camera_Mount_Camera_Clamp_Handle 5
+    2300568: IR_Camera_Mount_Camera_Clamp_Handle 6
+    2300570: IR_Camera_Mount_Camera_Clamp_Handle 7
+    2300572: IR_Camera_Mount_Camera_Clamp_Handle 8
+    2300574: IR_Camera_Mount_Camera_Clamp_Handle 9
+    2300576: IR_Camera_Mount_Camera_Clamp_Pole
+    2300578: IR_Camera_Mount_Camera_Clamp_Pole1
+    2300580: IR_Camera_Mount_Camera_Clamp_Pole10
+    2300582: IR_Camera_Mount_Camera_Clamp_Pole11
+    2300584: IR_Camera_Mount_Camera_Clamp_Pole12
+    2300586: IR_Camera_Mount_Camera_Clamp_Pole13
+    2300588: IR_Camera_Mount_Camera_Clamp_Pole14
+    2300590: IR_Camera_Mount_Camera_Clamp_Pole15
+    2300592: IR_Camera_Mount_Camera_Clamp_Pole16
+    2300594: IR_Camera_Mount_Camera_Clamp_Pole17
+    2300596: IR_Camera_Mount_Camera_Clamp_Pole18
+    2300598: IR_Camera_Mount_Camera_Clamp_Pole19
+    2300600: IR_Camera_Mount_Camera_Clamp_Pole2
+    2300602: IR_Camera_Mount_Camera_Clamp_Pole20
+    2300604: IR_Camera_Mount_Camera_Clamp_Pole21
+    2300606: IR_Camera_Mount_Camera_Clamp_Pole22
+    2300608: IR_Camera_Mount_Camera_Clamp_Pole23
+    2300610: IR_Camera_Mount_Camera_Clamp_Pole3
+    2300612: IR_Camera_Mount_Camera_Clamp_Pole4
+    2300614: IR_Camera_Mount_Camera_Clamp_Pole5
+    2300616: IR_Camera_Mount_Camera_Clamp_Pole6
+    2300618: IR_Camera_Mount_Camera_Clamp_Pole7
+    2300620: IR_Camera_Mount_Camera_Clamp_Pole8
+    2300622: IR_Camera_Mount_Camera_Clamp_Pole9
+    2300624: IR_Camera_Mount_Camera_Clamp_Top
+    2300626: IR_Camera_Mount_Camera_Clamp_Top 1
+    2300628: IR_Camera_Mount_Camera_Clamp_Top 10
+    2300630: IR_Camera_Mount_Camera_Clamp_Top 11
+    2300632: IR_Camera_Mount_Camera_Clamp_Top 12
+    2300634: IR_Camera_Mount_Camera_Clamp_Top 13
+    2300636: IR_Camera_Mount_Camera_Clamp_Top 14
+    2300638: IR_Camera_Mount_Camera_Clamp_Top 15
+    2300640: IR_Camera_Mount_Camera_Clamp_Top 16
+    2300642: IR_Camera_Mount_Camera_Clamp_Top 17
+    2300644: IR_Camera_Mount_Camera_Clamp_Top 18
+    2300646: IR_Camera_Mount_Camera_Clamp_Top 19
+    2300648: IR_Camera_Mount_Camera_Clamp_Top 2
+    2300650: IR_Camera_Mount_Camera_Clamp_Top 20
+    2300652: IR_Camera_Mount_Camera_Clamp_Top 21
+    2300654: IR_Camera_Mount_Camera_Clamp_Top 22
+    2300656: IR_Camera_Mount_Camera_Clamp_Top 23
+    2300658: IR_Camera_Mount_Camera_Clamp_Top 3
+    2300660: IR_Camera_Mount_Camera_Clamp_Top 4
+    2300662: IR_Camera_Mount_Camera_Clamp_Top 5
+    2300664: IR_Camera_Mount_Camera_Clamp_Top 6
+    2300666: IR_Camera_Mount_Camera_Clamp_Top 7
+    2300668: IR_Camera_Mount_Camera_Clamp_Top 8
+    2300670: IR_Camera_Mount_Camera_Clamp_Top 9
+    2300672: IR_Camera_Mount_Camera_Mid_Arm
+    2300674: IR_Camera_Mount_Camera_Mid_Arm 1
+    2300676: IR_Camera_Mount_Camera_Mid_Arm 10
+    2300678: IR_Camera_Mount_Camera_Mid_Arm 11
+    2300680: IR_Camera_Mount_Camera_Mid_Arm 12
+    2300682: IR_Camera_Mount_Camera_Mid_Arm 13
+    2300684: IR_Camera_Mount_Camera_Mid_Arm 14
+    2300686: IR_Camera_Mount_Camera_Mid_Arm 15
+    2300688: IR_Camera_Mount_Camera_Mid_Arm 16
+    2300690: IR_Camera_Mount_Camera_Mid_Arm 17
+    2300692: IR_Camera_Mount_Camera_Mid_Arm 18
+    2300694: IR_Camera_Mount_Camera_Mid_Arm 19
+    2300696: IR_Camera_Mount_Camera_Mid_Arm 2
+    2300698: IR_Camera_Mount_Camera_Mid_Arm 20
+    2300700: IR_Camera_Mount_Camera_Mid_Arm 21
+    2300702: IR_Camera_Mount_Camera_Mid_Arm 22
+    2300704: IR_Camera_Mount_Camera_Mid_Arm 23
+    2300706: IR_Camera_Mount_Camera_Mid_Arm 3
+    2300708: IR_Camera_Mount_Camera_Mid_Arm 4
+    2300710: IR_Camera_Mount_Camera_Mid_Arm 5
+    2300712: IR_Camera_Mount_Camera_Mid_Arm 6
+    2300714: IR_Camera_Mount_Camera_Mid_Arm 7
+    2300716: IR_Camera_Mount_Camera_Mid_Arm 8
+    2300718: IR_Camera_Mount_Camera_Mid_Arm 9
+    2300720: IR_Camera_Mount_Camera_Mid_Hinge
+    2300722: IR_Camera_Mount_Camera_Mid_Hinge 1
+    2300724: IR_Camera_Mount_Camera_Mid_Hinge 10
+    2300726: IR_Camera_Mount_Camera_Mid_Hinge 11
+    2300728: IR_Camera_Mount_Camera_Mid_Hinge 12
+    2300730: IR_Camera_Mount_Camera_Mid_Hinge 13
+    2300732: IR_Camera_Mount_Camera_Mid_Hinge 14
+    2300734: IR_Camera_Mount_Camera_Mid_Hinge 15
+    2300736: IR_Camera_Mount_Camera_Mid_Hinge 16
+    2300738: IR_Camera_Mount_Camera_Mid_Hinge 17
+    2300740: IR_Camera_Mount_Camera_Mid_Hinge 18
+    2300742: IR_Camera_Mount_Camera_Mid_Hinge 19
+    2300744: IR_Camera_Mount_Camera_Mid_Hinge 2
+    2300746: IR_Camera_Mount_Camera_Mid_Hinge 20
+    2300748: IR_Camera_Mount_Camera_Mid_Hinge 21
+    2300750: IR_Camera_Mount_Camera_Mid_Hinge 22
+    2300752: IR_Camera_Mount_Camera_Mid_Hinge 23
+    2300754: IR_Camera_Mount_Camera_Mid_Hinge 3
+    2300756: IR_Camera_Mount_Camera_Mid_Hinge 4
+    2300758: IR_Camera_Mount_Camera_Mid_Hinge 5
+    2300760: IR_Camera_Mount_Camera_Mid_Hinge 6
+    2300762: IR_Camera_Mount_Camera_Mid_Hinge 7
+    2300764: IR_Camera_Mount_Camera_Mid_Hinge 8
+    2300766: IR_Camera_Mount_Camera_Mid_Hinge 9
+    2300768: IR_Camera_Mount_Camera_Mid_Tightness_Handle
+    2300770: IR_Camera_Mount_Camera_Mid_Tightness_Handle 1
+    2300772: IR_Camera_Mount_Camera_Mid_Tightness_Handle 10
+    2300774: IR_Camera_Mount_Camera_Mid_Tightness_Handle 11
+    2300776: IR_Camera_Mount_Camera_Mid_Tightness_Handle 12
+    2300778: IR_Camera_Mount_Camera_Mid_Tightness_Handle 13
+    2300780: IR_Camera_Mount_Camera_Mid_Tightness_Handle 14
+    2300782: IR_Camera_Mount_Camera_Mid_Tightness_Handle 15
+    2300784: IR_Camera_Mount_Camera_Mid_Tightness_Handle 16
+    2300786: IR_Camera_Mount_Camera_Mid_Tightness_Handle 17
+    2300788: IR_Camera_Mount_Camera_Mid_Tightness_Handle 18
+    2300790: IR_Camera_Mount_Camera_Mid_Tightness_Handle 19
+    2300792: IR_Camera_Mount_Camera_Mid_Tightness_Handle 2
+    2300794: IR_Camera_Mount_Camera_Mid_Tightness_Handle 20
+    2300796: IR_Camera_Mount_Camera_Mid_Tightness_Handle 21
+    2300798: IR_Camera_Mount_Camera_Mid_Tightness_Handle 22
+    2300800: IR_Camera_Mount_Camera_Mid_Tightness_Handle 23
+    2300802: IR_Camera_Mount_Camera_Mid_Tightness_Handle 3
+    2300804: IR_Camera_Mount_Camera_Mid_Tightness_Handle 4
+    2300806: IR_Camera_Mount_Camera_Mid_Tightness_Handle 5
+    2300808: IR_Camera_Mount_Camera_Mid_Tightness_Handle 6
+    2300810: IR_Camera_Mount_Camera_Mid_Tightness_Handle 7
+    2300812: IR_Camera_Mount_Camera_Mid_Tightness_Handle 8
+    2300814: IR_Camera_Mount_Camera_Mid_Tightness_Handle 9
+    2300816: IR_Camera_Mount_Camera_Mid_Tightness_Handle1
+    2300818: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 1
+    2300820: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 10
+    2300822: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 11
+    2300824: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 12
+    2300826: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 13
+    2300828: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 14
+    2300830: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 15
+    2300832: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 16
+    2300834: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 17
+    2300836: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 18
+    2300838: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 19
+    2300840: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 2
+    2300842: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 20
+    2300844: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 21
+    2300846: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 22
+    2300848: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 23
+    2300850: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 3
+    2300852: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 4
+    2300854: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 5
+    2300856: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 6
+    2300858: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 7
+    2300860: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 8
+    2300862: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 9
+    3300000: IR_Camera_Base
+    3300002: IR_Camera_Base 1
+    3300004: IR_Camera_Base 10
+    3300006: IR_Camera_Base 11
+    3300008: IR_Camera_Base 12
+    3300010: IR_Camera_Base 13
+    3300012: IR_Camera_Base 14
+    3300014: IR_Camera_Base 15
+    3300016: IR_Camera_Base 16
+    3300018: IR_Camera_Base 17
+    3300020: IR_Camera_Base 18
+    3300022: IR_Camera_Base 19
+    3300024: IR_Camera_Base 2
+    3300026: IR_Camera_Base 20
+    3300028: IR_Camera_Base 21
+    3300030: IR_Camera_Base 22
+    3300032: IR_Camera_Base 23
+    3300034: IR_Camera_Base 3
+    3300036: IR_Camera_Base 4
+    3300038: IR_Camera_Base 5
+    3300040: IR_Camera_Base 6
+    3300042: IR_Camera_Base 7
+    3300044: IR_Camera_Base 8
+    3300046: IR_Camera_Base 9
+    3300048: IR_Camera_Lens
+    3300050: IR_Camera_Lens 1
+    3300052: IR_Camera_Lens 10
+    3300054: IR_Camera_Lens 11
+    3300056: IR_Camera_Lens 12
+    3300058: IR_Camera_Lens 13
+    3300060: IR_Camera_Lens 14
+    3300062: IR_Camera_Lens 15
+    3300064: IR_Camera_Lens 16
+    3300066: IR_Camera_Lens 17
+    3300068: IR_Camera_Lens 18
+    3300070: IR_Camera_Lens 19
+    3300072: IR_Camera_Lens 2
+    3300074: IR_Camera_Lens 20
+    3300076: IR_Camera_Lens 21
+    3300078: IR_Camera_Lens 22
+    3300080: IR_Camera_Lens 23
+    3300082: IR_Camera_Lens 3
+    3300084: IR_Camera_Lens 4
+    3300086: IR_Camera_Lens 5
+    3300088: IR_Camera_Lens 6
+    3300090: IR_Camera_Lens 7
+    3300092: IR_Camera_Lens 8
+    3300094: IR_Camera_Lens 9
+    3300096: IR_Camera_Lens_Base
+    3300098: IR_Camera_Lens_Base 1
+    3300100: IR_Camera_Lens_Base 10
+    3300102: IR_Camera_Lens_Base 11
+    3300104: IR_Camera_Lens_Base 12
+    3300106: IR_Camera_Lens_Base 13
+    3300108: IR_Camera_Lens_Base 14
+    3300110: IR_Camera_Lens_Base 15
+    3300112: IR_Camera_Lens_Base 16
+    3300114: IR_Camera_Lens_Base 17
+    3300116: IR_Camera_Lens_Base 18
+    3300118: IR_Camera_Lens_Base 19
+    3300120: IR_Camera_Lens_Base 2
+    3300122: IR_Camera_Lens_Base 20
+    3300124: IR_Camera_Lens_Base 21
+    3300126: IR_Camera_Lens_Base 22
+    3300128: IR_Camera_Lens_Base 23
+    3300130: IR_Camera_Lens_Base 3
+    3300132: IR_Camera_Lens_Base 4
+    3300134: IR_Camera_Lens_Base 5
+    3300136: IR_Camera_Lens_Base 6
+    3300138: IR_Camera_Lens_Base 7
+    3300140: IR_Camera_Lens_Base 8
+    3300142: IR_Camera_Lens_Base 9
+    3300144: IR_Camera_Mount_Camera_Base
+    3300146: IR_Camera_Mount_Camera_Base 1
+    3300148: IR_Camera_Mount_Camera_Base 10
+    3300150: IR_Camera_Mount_Camera_Base 11
+    3300152: IR_Camera_Mount_Camera_Base 12
+    3300154: IR_Camera_Mount_Camera_Base 13
+    3300156: IR_Camera_Mount_Camera_Base 14
+    3300158: IR_Camera_Mount_Camera_Base 15
+    3300160: IR_Camera_Mount_Camera_Base 16
+    3300162: IR_Camera_Mount_Camera_Base 17
+    3300164: IR_Camera_Mount_Camera_Base 18
+    3300166: IR_Camera_Mount_Camera_Base 19
+    3300168: IR_Camera_Mount_Camera_Base 2
+    3300170: IR_Camera_Mount_Camera_Base 20
+    3300172: IR_Camera_Mount_Camera_Base 21
+    3300174: IR_Camera_Mount_Camera_Base 22
+    3300176: IR_Camera_Mount_Camera_Base 23
+    3300178: IR_Camera_Mount_Camera_Base 3
+    3300180: IR_Camera_Mount_Camera_Base 4
+    3300182: IR_Camera_Mount_Camera_Base 5
+    3300184: IR_Camera_Mount_Camera_Base 6
+    3300186: IR_Camera_Mount_Camera_Base 7
+    3300188: IR_Camera_Mount_Camera_Base 8
+    3300190: IR_Camera_Mount_Camera_Base 9
+    3300192: IR_Camera_Mount_Camera_Base_Cylinder
+    3300194: IR_Camera_Mount_Camera_Base_Cylinder 1
+    3300196: IR_Camera_Mount_Camera_Base_Cylinder 10
+    3300198: IR_Camera_Mount_Camera_Base_Cylinder 11
+    3300200: IR_Camera_Mount_Camera_Base_Cylinder 12
+    3300202: IR_Camera_Mount_Camera_Base_Cylinder 13
+    3300204: IR_Camera_Mount_Camera_Base_Cylinder 14
+    3300206: IR_Camera_Mount_Camera_Base_Cylinder 15
+    3300208: IR_Camera_Mount_Camera_Base_Cylinder 16
+    3300210: IR_Camera_Mount_Camera_Base_Cylinder 17
+    3300212: IR_Camera_Mount_Camera_Base_Cylinder 18
+    3300214: IR_Camera_Mount_Camera_Base_Cylinder 19
+    3300216: IR_Camera_Mount_Camera_Base_Cylinder 2
+    3300218: IR_Camera_Mount_Camera_Base_Cylinder 20
+    3300220: IR_Camera_Mount_Camera_Base_Cylinder 21
+    3300222: IR_Camera_Mount_Camera_Base_Cylinder 22
+    3300224: IR_Camera_Mount_Camera_Base_Cylinder 23
+    3300226: IR_Camera_Mount_Camera_Base_Cylinder 3
+    3300228: IR_Camera_Mount_Camera_Base_Cylinder 4
+    3300230: IR_Camera_Mount_Camera_Base_Cylinder 5
+    3300232: IR_Camera_Mount_Camera_Base_Cylinder 6
+    3300234: IR_Camera_Mount_Camera_Base_Cylinder 7
+    3300236: IR_Camera_Mount_Camera_Base_Cylinder 8
+    3300238: IR_Camera_Mount_Camera_Base_Cylinder 9
+    3300240: IR_Camera_Mount_Camera_Base_Socket1
+    3300242: IR_Camera_Mount_Camera_Base_Socket1 1
+    3300244: IR_Camera_Mount_Camera_Base_Socket1 10
+    3300246: IR_Camera_Mount_Camera_Base_Socket1 11
+    3300248: IR_Camera_Mount_Camera_Base_Socket1 12
+    3300250: IR_Camera_Mount_Camera_Base_Socket1 13
+    3300252: IR_Camera_Mount_Camera_Base_Socket1 14
+    3300254: IR_Camera_Mount_Camera_Base_Socket1 15
+    3300256: IR_Camera_Mount_Camera_Base_Socket1 16
+    3300258: IR_Camera_Mount_Camera_Base_Socket1 17
+    3300260: IR_Camera_Mount_Camera_Base_Socket1 18
+    3300262: IR_Camera_Mount_Camera_Base_Socket1 19
+    3300264: IR_Camera_Mount_Camera_Base_Socket1 2
+    3300266: IR_Camera_Mount_Camera_Base_Socket1 20
+    3300268: IR_Camera_Mount_Camera_Base_Socket1 21
+    3300270: IR_Camera_Mount_Camera_Base_Socket1 22
+    3300272: IR_Camera_Mount_Camera_Base_Socket1 23
+    3300274: IR_Camera_Mount_Camera_Base_Socket1 3
+    3300276: IR_Camera_Mount_Camera_Base_Socket1 4
+    3300278: IR_Camera_Mount_Camera_Base_Socket1 5
+    3300280: IR_Camera_Mount_Camera_Base_Socket1 6
+    3300282: IR_Camera_Mount_Camera_Base_Socket1 7
+    3300284: IR_Camera_Mount_Camera_Base_Socket1 8
+    3300286: IR_Camera_Mount_Camera_Base_Socket1 9
+    3300288: IR_Camera_Mount_Camera_Base_Socket2
+    3300290: IR_Camera_Mount_Camera_Base_Socket2 1
+    3300292: IR_Camera_Mount_Camera_Base_Socket2 10
+    3300294: IR_Camera_Mount_Camera_Base_Socket2 11
+    3300296: IR_Camera_Mount_Camera_Base_Socket2 12
+    3300298: IR_Camera_Mount_Camera_Base_Socket2 13
+    3300300: IR_Camera_Mount_Camera_Base_Socket2 14
+    3300302: IR_Camera_Mount_Camera_Base_Socket2 15
+    3300304: IR_Camera_Mount_Camera_Base_Socket2 16
+    3300306: IR_Camera_Mount_Camera_Base_Socket2 17
+    3300308: IR_Camera_Mount_Camera_Base_Socket2 18
+    3300310: IR_Camera_Mount_Camera_Base_Socket2 19
+    3300312: IR_Camera_Mount_Camera_Base_Socket2 2
+    3300314: IR_Camera_Mount_Camera_Base_Socket2 20
+    3300316: IR_Camera_Mount_Camera_Base_Socket2 21
+    3300318: IR_Camera_Mount_Camera_Base_Socket2 22
+    3300320: IR_Camera_Mount_Camera_Base_Socket2 23
+    3300322: IR_Camera_Mount_Camera_Base_Socket2 3
+    3300324: IR_Camera_Mount_Camera_Base_Socket2 4
+    3300326: IR_Camera_Mount_Camera_Base_Socket2 5
+    3300328: IR_Camera_Mount_Camera_Base_Socket2 6
+    3300330: IR_Camera_Mount_Camera_Base_Socket2 7
+    3300332: IR_Camera_Mount_Camera_Base_Socket2 8
+    3300334: IR_Camera_Mount_Camera_Base_Socket2 9
+    3300336: IR_Camera_Mount_Camera_Base_Socket_Hinge
+    3300338: IR_Camera_Mount_Camera_Base_Socket_Hinge 1
+    3300340: IR_Camera_Mount_Camera_Base_Socket_Hinge 10
+    3300342: IR_Camera_Mount_Camera_Base_Socket_Hinge 11
+    3300344: IR_Camera_Mount_Camera_Base_Socket_Hinge 12
+    3300346: IR_Camera_Mount_Camera_Base_Socket_Hinge 13
+    3300348: IR_Camera_Mount_Camera_Base_Socket_Hinge 14
+    3300350: IR_Camera_Mount_Camera_Base_Socket_Hinge 15
+    3300352: IR_Camera_Mount_Camera_Base_Socket_Hinge 16
+    3300354: IR_Camera_Mount_Camera_Base_Socket_Hinge 17
+    3300356: IR_Camera_Mount_Camera_Base_Socket_Hinge 18
+    3300358: IR_Camera_Mount_Camera_Base_Socket_Hinge 19
+    3300360: IR_Camera_Mount_Camera_Base_Socket_Hinge 2
+    3300362: IR_Camera_Mount_Camera_Base_Socket_Hinge 20
+    3300364: IR_Camera_Mount_Camera_Base_Socket_Hinge 21
+    3300366: IR_Camera_Mount_Camera_Base_Socket_Hinge 22
+    3300368: IR_Camera_Mount_Camera_Base_Socket_Hinge 23
+    3300370: IR_Camera_Mount_Camera_Base_Socket_Hinge 3
+    3300372: IR_Camera_Mount_Camera_Base_Socket_Hinge 4
+    3300374: IR_Camera_Mount_Camera_Base_Socket_Hinge 5
+    3300376: IR_Camera_Mount_Camera_Base_Socket_Hinge 6
+    3300378: IR_Camera_Mount_Camera_Base_Socket_Hinge 7
+    3300380: IR_Camera_Mount_Camera_Base_Socket_Hinge 8
+    3300382: IR_Camera_Mount_Camera_Base_Socket_Hinge 9
+    3300384: IR_Camera_Mount_Camera_Base_Tightness_Handle
+    3300386: IR_Camera_Mount_Camera_Base_Tightness_Handle 1
+    3300388: IR_Camera_Mount_Camera_Base_Tightness_Handle 10
+    3300390: IR_Camera_Mount_Camera_Base_Tightness_Handle 11
+    3300392: IR_Camera_Mount_Camera_Base_Tightness_Handle 12
+    3300394: IR_Camera_Mount_Camera_Base_Tightness_Handle 13
+    3300396: IR_Camera_Mount_Camera_Base_Tightness_Handle 14
+    3300398: IR_Camera_Mount_Camera_Base_Tightness_Handle 15
+    3300400: IR_Camera_Mount_Camera_Base_Tightness_Handle 16
+    3300402: IR_Camera_Mount_Camera_Base_Tightness_Handle 17
+    3300404: IR_Camera_Mount_Camera_Base_Tightness_Handle 18
+    3300406: IR_Camera_Mount_Camera_Base_Tightness_Handle 19
+    3300408: IR_Camera_Mount_Camera_Base_Tightness_Handle 2
+    3300410: IR_Camera_Mount_Camera_Base_Tightness_Handle 20
+    3300412: IR_Camera_Mount_Camera_Base_Tightness_Handle 21
+    3300414: IR_Camera_Mount_Camera_Base_Tightness_Handle 22
+    3300416: IR_Camera_Mount_Camera_Base_Tightness_Handle 23
+    3300418: IR_Camera_Mount_Camera_Base_Tightness_Handle 3
+    3300420: IR_Camera_Mount_Camera_Base_Tightness_Handle 4
+    3300422: IR_Camera_Mount_Camera_Base_Tightness_Handle 5
+    3300424: IR_Camera_Mount_Camera_Base_Tightness_Handle 6
+    3300426: IR_Camera_Mount_Camera_Base_Tightness_Handle 7
+    3300428: IR_Camera_Mount_Camera_Base_Tightness_Handle 8
+    3300430: IR_Camera_Mount_Camera_Base_Tightness_Handle 9
+    3300432: IR_Camera_Mount_Camera_Clamp_Base
+    3300434: IR_Camera_Mount_Camera_Clamp_Base 1
+    3300436: IR_Camera_Mount_Camera_Clamp_Base 10
+    3300438: IR_Camera_Mount_Camera_Clamp_Base 11
+    3300440: IR_Camera_Mount_Camera_Clamp_Base 12
+    3300442: IR_Camera_Mount_Camera_Clamp_Base 13
+    3300444: IR_Camera_Mount_Camera_Clamp_Base 14
+    3300446: IR_Camera_Mount_Camera_Clamp_Base 15
+    3300448: IR_Camera_Mount_Camera_Clamp_Base 16
+    3300450: IR_Camera_Mount_Camera_Clamp_Base 17
+    3300452: IR_Camera_Mount_Camera_Clamp_Base 18
+    3300454: IR_Camera_Mount_Camera_Clamp_Base 19
+    3300456: IR_Camera_Mount_Camera_Clamp_Base 2
+    3300458: IR_Camera_Mount_Camera_Clamp_Base 20
+    3300460: IR_Camera_Mount_Camera_Clamp_Base 21
+    3300462: IR_Camera_Mount_Camera_Clamp_Base 22
+    3300464: IR_Camera_Mount_Camera_Clamp_Base 23
+    3300466: IR_Camera_Mount_Camera_Clamp_Base 3
+    3300468: IR_Camera_Mount_Camera_Clamp_Base 4
+    3300470: IR_Camera_Mount_Camera_Clamp_Base 5
+    3300472: IR_Camera_Mount_Camera_Clamp_Base 6
+    3300474: IR_Camera_Mount_Camera_Clamp_Base 7
+    3300476: IR_Camera_Mount_Camera_Clamp_Base 8
+    3300478: IR_Camera_Mount_Camera_Clamp_Base 9
+    3300480: IR_Camera_Mount_Camera_Clamp_Bottom
+    3300482: IR_Camera_Mount_Camera_Clamp_Bottom 1
+    3300484: IR_Camera_Mount_Camera_Clamp_Bottom 10
+    3300486: IR_Camera_Mount_Camera_Clamp_Bottom 11
+    3300488: IR_Camera_Mount_Camera_Clamp_Bottom 12
+    3300490: IR_Camera_Mount_Camera_Clamp_Bottom 13
+    3300492: IR_Camera_Mount_Camera_Clamp_Bottom 14
+    3300494: IR_Camera_Mount_Camera_Clamp_Bottom 15
+    3300496: IR_Camera_Mount_Camera_Clamp_Bottom 16
+    3300498: IR_Camera_Mount_Camera_Clamp_Bottom 17
+    3300500: IR_Camera_Mount_Camera_Clamp_Bottom 18
+    3300502: IR_Camera_Mount_Camera_Clamp_Bottom 19
+    3300504: IR_Camera_Mount_Camera_Clamp_Bottom 2
+    3300506: IR_Camera_Mount_Camera_Clamp_Bottom 20
+    3300508: IR_Camera_Mount_Camera_Clamp_Bottom 21
+    3300510: IR_Camera_Mount_Camera_Clamp_Bottom 22
+    3300512: IR_Camera_Mount_Camera_Clamp_Bottom 23
+    3300514: IR_Camera_Mount_Camera_Clamp_Bottom 3
+    3300516: IR_Camera_Mount_Camera_Clamp_Bottom 4
+    3300518: IR_Camera_Mount_Camera_Clamp_Bottom 5
+    3300520: IR_Camera_Mount_Camera_Clamp_Bottom 6
+    3300522: IR_Camera_Mount_Camera_Clamp_Bottom 7
+    3300524: IR_Camera_Mount_Camera_Clamp_Bottom 8
+    3300526: IR_Camera_Mount_Camera_Clamp_Bottom 9
+    3300528: IR_Camera_Mount_Camera_Clamp_Handle
+    3300530: IR_Camera_Mount_Camera_Clamp_Handle 1
+    3300532: IR_Camera_Mount_Camera_Clamp_Handle 10
+    3300534: IR_Camera_Mount_Camera_Clamp_Handle 11
+    3300536: IR_Camera_Mount_Camera_Clamp_Handle 12
+    3300538: IR_Camera_Mount_Camera_Clamp_Handle 13
+    3300540: IR_Camera_Mount_Camera_Clamp_Handle 14
+    3300542: IR_Camera_Mount_Camera_Clamp_Handle 15
+    3300544: IR_Camera_Mount_Camera_Clamp_Handle 16
+    3300546: IR_Camera_Mount_Camera_Clamp_Handle 17
+    3300548: IR_Camera_Mount_Camera_Clamp_Handle 18
+    3300550: IR_Camera_Mount_Camera_Clamp_Handle 19
+    3300552: IR_Camera_Mount_Camera_Clamp_Handle 2
+    3300554: IR_Camera_Mount_Camera_Clamp_Handle 20
+    3300556: IR_Camera_Mount_Camera_Clamp_Handle 21
+    3300558: IR_Camera_Mount_Camera_Clamp_Handle 22
+    3300560: IR_Camera_Mount_Camera_Clamp_Handle 23
+    3300562: IR_Camera_Mount_Camera_Clamp_Handle 3
+    3300564: IR_Camera_Mount_Camera_Clamp_Handle 4
+    3300566: IR_Camera_Mount_Camera_Clamp_Handle 5
+    3300568: IR_Camera_Mount_Camera_Clamp_Handle 6
+    3300570: IR_Camera_Mount_Camera_Clamp_Handle 7
+    3300572: IR_Camera_Mount_Camera_Clamp_Handle 8
+    3300574: IR_Camera_Mount_Camera_Clamp_Handle 9
+    3300576: IR_Camera_Mount_Camera_Clamp_Pole
+    3300578: IR_Camera_Mount_Camera_Clamp_Pole1
+    3300580: IR_Camera_Mount_Camera_Clamp_Pole10
+    3300582: IR_Camera_Mount_Camera_Clamp_Pole11
+    3300584: IR_Camera_Mount_Camera_Clamp_Pole12
+    3300586: IR_Camera_Mount_Camera_Clamp_Pole13
+    3300588: IR_Camera_Mount_Camera_Clamp_Pole14
+    3300590: IR_Camera_Mount_Camera_Clamp_Pole15
+    3300592: IR_Camera_Mount_Camera_Clamp_Pole16
+    3300594: IR_Camera_Mount_Camera_Clamp_Pole17
+    3300596: IR_Camera_Mount_Camera_Clamp_Pole18
+    3300598: IR_Camera_Mount_Camera_Clamp_Pole19
+    3300600: IR_Camera_Mount_Camera_Clamp_Pole2
+    3300602: IR_Camera_Mount_Camera_Clamp_Pole20
+    3300604: IR_Camera_Mount_Camera_Clamp_Pole21
+    3300606: IR_Camera_Mount_Camera_Clamp_Pole22
+    3300608: IR_Camera_Mount_Camera_Clamp_Pole23
+    3300610: IR_Camera_Mount_Camera_Clamp_Pole3
+    3300612: IR_Camera_Mount_Camera_Clamp_Pole4
+    3300614: IR_Camera_Mount_Camera_Clamp_Pole5
+    3300616: IR_Camera_Mount_Camera_Clamp_Pole6
+    3300618: IR_Camera_Mount_Camera_Clamp_Pole7
+    3300620: IR_Camera_Mount_Camera_Clamp_Pole8
+    3300622: IR_Camera_Mount_Camera_Clamp_Pole9
+    3300624: IR_Camera_Mount_Camera_Clamp_Top
+    3300626: IR_Camera_Mount_Camera_Clamp_Top 1
+    3300628: IR_Camera_Mount_Camera_Clamp_Top 10
+    3300630: IR_Camera_Mount_Camera_Clamp_Top 11
+    3300632: IR_Camera_Mount_Camera_Clamp_Top 12
+    3300634: IR_Camera_Mount_Camera_Clamp_Top 13
+    3300636: IR_Camera_Mount_Camera_Clamp_Top 14
+    3300638: IR_Camera_Mount_Camera_Clamp_Top 15
+    3300640: IR_Camera_Mount_Camera_Clamp_Top 16
+    3300642: IR_Camera_Mount_Camera_Clamp_Top 17
+    3300644: IR_Camera_Mount_Camera_Clamp_Top 18
+    3300646: IR_Camera_Mount_Camera_Clamp_Top 19
+    3300648: IR_Camera_Mount_Camera_Clamp_Top 2
+    3300650: IR_Camera_Mount_Camera_Clamp_Top 20
+    3300652: IR_Camera_Mount_Camera_Clamp_Top 21
+    3300654: IR_Camera_Mount_Camera_Clamp_Top 22
+    3300656: IR_Camera_Mount_Camera_Clamp_Top 23
+    3300658: IR_Camera_Mount_Camera_Clamp_Top 3
+    3300660: IR_Camera_Mount_Camera_Clamp_Top 4
+    3300662: IR_Camera_Mount_Camera_Clamp_Top 5
+    3300664: IR_Camera_Mount_Camera_Clamp_Top 6
+    3300666: IR_Camera_Mount_Camera_Clamp_Top 7
+    3300668: IR_Camera_Mount_Camera_Clamp_Top 8
+    3300670: IR_Camera_Mount_Camera_Clamp_Top 9
+    3300672: IR_Camera_Mount_Camera_Mid_Arm
+    3300674: IR_Camera_Mount_Camera_Mid_Arm 1
+    3300676: IR_Camera_Mount_Camera_Mid_Arm 10
+    3300678: IR_Camera_Mount_Camera_Mid_Arm 11
+    3300680: IR_Camera_Mount_Camera_Mid_Arm 12
+    3300682: IR_Camera_Mount_Camera_Mid_Arm 13
+    3300684: IR_Camera_Mount_Camera_Mid_Arm 14
+    3300686: IR_Camera_Mount_Camera_Mid_Arm 15
+    3300688: IR_Camera_Mount_Camera_Mid_Arm 16
+    3300690: IR_Camera_Mount_Camera_Mid_Arm 17
+    3300692: IR_Camera_Mount_Camera_Mid_Arm 18
+    3300694: IR_Camera_Mount_Camera_Mid_Arm 19
+    3300696: IR_Camera_Mount_Camera_Mid_Arm 2
+    3300698: IR_Camera_Mount_Camera_Mid_Arm 20
+    3300700: IR_Camera_Mount_Camera_Mid_Arm 21
+    3300702: IR_Camera_Mount_Camera_Mid_Arm 22
+    3300704: IR_Camera_Mount_Camera_Mid_Arm 23
+    3300706: IR_Camera_Mount_Camera_Mid_Arm 3
+    3300708: IR_Camera_Mount_Camera_Mid_Arm 4
+    3300710: IR_Camera_Mount_Camera_Mid_Arm 5
+    3300712: IR_Camera_Mount_Camera_Mid_Arm 6
+    3300714: IR_Camera_Mount_Camera_Mid_Arm 7
+    3300716: IR_Camera_Mount_Camera_Mid_Arm 8
+    3300718: IR_Camera_Mount_Camera_Mid_Arm 9
+    3300720: IR_Camera_Mount_Camera_Mid_Hinge
+    3300722: IR_Camera_Mount_Camera_Mid_Hinge 1
+    3300724: IR_Camera_Mount_Camera_Mid_Hinge 10
+    3300726: IR_Camera_Mount_Camera_Mid_Hinge 11
+    3300728: IR_Camera_Mount_Camera_Mid_Hinge 12
+    3300730: IR_Camera_Mount_Camera_Mid_Hinge 13
+    3300732: IR_Camera_Mount_Camera_Mid_Hinge 14
+    3300734: IR_Camera_Mount_Camera_Mid_Hinge 15
+    3300736: IR_Camera_Mount_Camera_Mid_Hinge 16
+    3300738: IR_Camera_Mount_Camera_Mid_Hinge 17
+    3300740: IR_Camera_Mount_Camera_Mid_Hinge 18
+    3300742: IR_Camera_Mount_Camera_Mid_Hinge 19
+    3300744: IR_Camera_Mount_Camera_Mid_Hinge 2
+    3300746: IR_Camera_Mount_Camera_Mid_Hinge 20
+    3300748: IR_Camera_Mount_Camera_Mid_Hinge 21
+    3300750: IR_Camera_Mount_Camera_Mid_Hinge 22
+    3300752: IR_Camera_Mount_Camera_Mid_Hinge 23
+    3300754: IR_Camera_Mount_Camera_Mid_Hinge 3
+    3300756: IR_Camera_Mount_Camera_Mid_Hinge 4
+    3300758: IR_Camera_Mount_Camera_Mid_Hinge 5
+    3300760: IR_Camera_Mount_Camera_Mid_Hinge 6
+    3300762: IR_Camera_Mount_Camera_Mid_Hinge 7
+    3300764: IR_Camera_Mount_Camera_Mid_Hinge 8
+    3300766: IR_Camera_Mount_Camera_Mid_Hinge 9
+    3300768: IR_Camera_Mount_Camera_Mid_Tightness_Handle
+    3300770: IR_Camera_Mount_Camera_Mid_Tightness_Handle 1
+    3300772: IR_Camera_Mount_Camera_Mid_Tightness_Handle 10
+    3300774: IR_Camera_Mount_Camera_Mid_Tightness_Handle 11
+    3300776: IR_Camera_Mount_Camera_Mid_Tightness_Handle 12
+    3300778: IR_Camera_Mount_Camera_Mid_Tightness_Handle 13
+    3300780: IR_Camera_Mount_Camera_Mid_Tightness_Handle 14
+    3300782: IR_Camera_Mount_Camera_Mid_Tightness_Handle 15
+    3300784: IR_Camera_Mount_Camera_Mid_Tightness_Handle 16
+    3300786: IR_Camera_Mount_Camera_Mid_Tightness_Handle 17
+    3300788: IR_Camera_Mount_Camera_Mid_Tightness_Handle 18
+    3300790: IR_Camera_Mount_Camera_Mid_Tightness_Handle 19
+    3300792: IR_Camera_Mount_Camera_Mid_Tightness_Handle 2
+    3300794: IR_Camera_Mount_Camera_Mid_Tightness_Handle 20
+    3300796: IR_Camera_Mount_Camera_Mid_Tightness_Handle 21
+    3300798: IR_Camera_Mount_Camera_Mid_Tightness_Handle 22
+    3300800: IR_Camera_Mount_Camera_Mid_Tightness_Handle 23
+    3300802: IR_Camera_Mount_Camera_Mid_Tightness_Handle 3
+    3300804: IR_Camera_Mount_Camera_Mid_Tightness_Handle 4
+    3300806: IR_Camera_Mount_Camera_Mid_Tightness_Handle 5
+    3300808: IR_Camera_Mount_Camera_Mid_Tightness_Handle 6
+    3300810: IR_Camera_Mount_Camera_Mid_Tightness_Handle 7
+    3300812: IR_Camera_Mount_Camera_Mid_Tightness_Handle 8
+    3300814: IR_Camera_Mount_Camera_Mid_Tightness_Handle 9
+    3300816: IR_Camera_Mount_Camera_Mid_Tightness_Handle1
+    3300818: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 1
+    3300820: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 10
+    3300822: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 11
+    3300824: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 12
+    3300826: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 13
+    3300828: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 14
+    3300830: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 15
+    3300832: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 16
+    3300834: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 17
+    3300836: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 18
+    3300838: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 19
+    3300840: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 2
+    3300842: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 20
+    3300844: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 21
+    3300846: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 22
+    3300848: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 23
+    3300850: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 3
+    3300852: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 4
+    3300854: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 5
+    3300856: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 6
+    3300858: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 7
+    3300860: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 8
+    3300862: IR_Camera_Mount_Camera_Mid_Tightness_Handle1 9
+    4300000: IR_Camera_Mount_Camera_Clamp_Pole1
+    4300002: IR_Camera_Mount_Camera_Base_Cylinder
+    4300004: IR_Camera_Mount_Camera_Mid_Hinge
+    4300006: IR_Camera_Mount_Camera_Base_Socket_Hinge
+    4300008: IR_Camera_Lens
+    4300010: IR_Camera_Base
+    4300012: IR_Camera_Lens_Base
+    4300014: IR_Camera_Mount_Camera_Base
+    4300016: IR_Camera_Mount_Camera_Base_Socket2
+    4300018: IR_Camera_Mount_Camera_Base_Socket1
+    4300020: IR_Camera_Mount_Camera_Base_Tightness_Handle
+    4300022: IR_Camera_Mount_Camera_Mid_Tightness_Handle1
+    4300024: IR_Camera_Mount_Camera_Mid_Arm
+    4300026: IR_Camera_Mount_Camera_Mid_Tightness_Handle
+    4300028: IR_Camera_Mount_Camera_Clamp_Base
+    4300030: IR_Camera_Mount_Camera_Clamp_Top
+    4300032: IR_Camera_Mount_Camera_Clamp_Bottom
+    4300034: IR_Camera_Mount_Camera_Clamp_Handle
+    4300036: IR_Camera_Mount_Camera_Clamp_Pole2
+    4300038: IR_Camera_Mount_Camera_Base_Cylinder
+    4300040: IR_Camera_Mount_Camera_Mid_Hinge
+    4300042: IR_Camera_Mount_Camera_Base_Socket_Hinge
+    4300044: IR_Camera_Lens
+    4300046: IR_Camera_Base
+    4300048: IR_Camera_Lens_Base
+    4300050: IR_Camera_Mount_Camera_Base
+    4300052: IR_Camera_Mount_Camera_Base_Socket2
+    4300054: IR_Camera_Mount_Camera_Base_Socket1
+    4300056: IR_Camera_Mount_Camera_Base_Tightness_Handle
+    4300058: IR_Camera_Mount_Camera_Mid_Tightness_Handle1
+    4300060: IR_Camera_Mount_Camera_Mid_Arm
+    4300062: IR_Camera_Mount_Camera_Mid_Tightness_Handle
+    4300064: IR_Camera_Mount_Camera_Clamp_Base
+    4300066: IR_Camera_Mount_Camera_Clamp_Top
+    4300068: IR_Camera_Mount_Camera_Clamp_Bottom
+    4300070: IR_Camera_Mount_Camera_Clamp_Handle
+    4300072: IR_Camera_Mount_Camera_Clamp_Pole3
+    4300074: IR_Camera_Mount_Camera_Base_Cylinder
+    4300076: IR_Camera_Mount_Camera_Mid_Hinge
+    4300078: IR_Camera_Mount_Camera_Base_Socket_Hinge
+    4300080: IR_Camera_Lens
+    4300082: IR_Camera_Base
+    4300084: IR_Camera_Lens_Base
+    4300086: IR_Camera_Mount_Camera_Base
+    4300088: IR_Camera_Mount_Camera_Base_Socket2
+    4300090: IR_Camera_Mount_Camera_Base_Socket1
+    4300092: IR_Camera_Mount_Camera_Base_Tightness_Handle
+    4300094: IR_Camera_Mount_Camera_Mid_Tightness_Handle1
+    4300096: IR_Camera_Mount_Camera_Mid_Arm
+    4300098: IR_Camera_Mount_Camera_Mid_Tightness_Handle
+    4300100: IR_Camera_Mount_Camera_Clamp_Base
+    4300102: IR_Camera_Mount_Camera_Clamp_Top
+    4300104: IR_Camera_Mount_Camera_Clamp_Bottom
+    4300106: IR_Camera_Mount_Camera_Clamp_Handle
+    4300108: IR_Camera_Mount_Camera_Clamp_Pole4
+    4300110: IR_Camera_Mount_Camera_Base_Cylinder
+    4300112: IR_Camera_Mount_Camera_Mid_Hinge
+    4300114: IR_Camera_Mount_Camera_Base_Socket_Hinge
+    4300116: IR_Camera_Lens
+    4300118: IR_Camera_Base
+    4300120: IR_Camera_Lens_Base
+    4300122: IR_Camera_Mount_Camera_Base
+    4300124: IR_Camera_Mount_Camera_Base_Socket2
+    4300126: IR_Camera_Mount_Camera_Base_Socket1
+    4300128: IR_Camera_Mount_Camera_Base_Tightness_Handle
+    4300130: IR_Camera_Mount_Camera_Mid_Tightness_Handle1
+    4300132: IR_Camera_Mount_Camera_Mid_Arm
+    4300134: IR_Camera_Mount_Camera_Mid_Tightness_Handle
+    4300136: IR_Camera_Mount_Camera_Clamp_Base
+    4300138: IR_Camera_Mount_Camera_Clamp_Top
+    4300140: IR_Camera_Mount_Camera_Clamp_Bottom
+    4300142: IR_Camera_Mount_Camera_Clamp_Handle
+    4300144: IR_Camera_Mount_Camera_Clamp_Pole5
+    4300146: IR_Camera_Mount_Camera_Base_Cylinder
+    4300148: IR_Camera_Mount_Camera_Mid_Hinge
+    4300150: IR_Camera_Mount_Camera_Base_Socket_Hinge
+    4300152: IR_Camera_Lens
+    4300154: IR_Camera_Base
+    4300156: IR_Camera_Lens_Base
+    4300158: IR_Camera_Mount_Camera_Base
+    4300160: IR_Camera_Mount_Camera_Base_Socket2
+    4300162: IR_Camera_Mount_Camera_Base_Socket1
+    4300164: IR_Camera_Mount_Camera_Base_Tightness_Handle
+    4300166: IR_Camera_Mount_Camera_Mid_Tightness_Handle1
+    4300168: IR_Camera_Mount_Camera_Mid_Arm
+    4300170: IR_Camera_Mount_Camera_Mid_Tightness_Handle
+    4300172: IR_Camera_Mount_Camera_Clamp_Base
+    4300174: IR_Camera_Mount_Camera_Clamp_Top
+    4300176: IR_Camera_Mount_Camera_Clamp_Bottom
+    4300178: IR_Camera_Mount_Camera_Clamp_Handle
+    4300180: IR_Camera_Mount_Camera_Clamp_Pole6
+    4300182: IR_Camera_Mount_Camera_Base_Cylinder
+    4300184: IR_Camera_Mount_Camera_Mid_Hinge
+    4300186: IR_Camera_Mount_Camera_Base_Socket_Hinge
+    4300188: IR_Camera_Lens
+    4300190: IR_Camera_Base
+    4300192: IR_Camera_Lens_Base
+    4300194: IR_Camera_Mount_Camera_Base
+    4300196: IR_Camera_Mount_Camera_Base_Socket2
+    4300198: IR_Camera_Mount_Camera_Base_Socket1
+    4300200: IR_Camera_Mount_Camera_Base_Tightness_Handle
+    4300202: IR_Camera_Mount_Camera_Mid_Tightness_Handle1
+    4300204: IR_Camera_Mount_Camera_Mid_Arm
+    4300206: IR_Camera_Mount_Camera_Mid_Tightness_Handle
+    4300208: IR_Camera_Mount_Camera_Clamp_Base
+    4300210: IR_Camera_Mount_Camera_Clamp_Top
+    4300212: IR_Camera_Mount_Camera_Clamp_Bottom
+    4300214: IR_Camera_Mount_Camera_Clamp_Handle
+    4300216: IR_Camera_Mount_Camera_Clamp_Pole7
+    4300218: IR_Camera_Mount_Camera_Base_Cylinder
+    4300220: IR_Camera_Mount_Camera_Mid_Hinge
+    4300222: IR_Camera_Mount_Camera_Base_Socket_Hinge
+    4300224: IR_Camera_Lens
+    4300226: IR_Camera_Base
+    4300228: IR_Camera_Lens_Base
+    4300230: IR_Camera_Mount_Camera_Base
+    4300232: IR_Camera_Mount_Camera_Base_Socket2
+    4300234: IR_Camera_Mount_Camera_Base_Socket1
+    4300236: IR_Camera_Mount_Camera_Base_Tightness_Handle
+    4300238: IR_Camera_Mount_Camera_Mid_Tightness_Handle1
+    4300240: IR_Camera_Mount_Camera_Mid_Arm
+    4300242: IR_Camera_Mount_Camera_Mid_Tightness_Handle
+    4300244: IR_Camera_Mount_Camera_Clamp_Base
+    4300246: IR_Camera_Mount_Camera_Clamp_Top
+    4300248: IR_Camera_Mount_Camera_Clamp_Bottom
+    4300250: IR_Camera_Mount_Camera_Clamp_Handle
+    4300252: IR_Camera_Mount_Camera_Clamp_Pole8
+    4300254: IR_Camera_Mount_Camera_Base_Cylinder
+    4300256: IR_Camera_Mount_Camera_Mid_Hinge
+    4300258: IR_Camera_Mount_Camera_Base_Socket_Hinge
+    4300260: IR_Camera_Lens
+    4300262: IR_Camera_Base
+    4300264: IR_Camera_Lens_Base
+    4300266: IR_Camera_Mount_Camera_Base
+    4300268: IR_Camera_Mount_Camera_Base_Socket2
+    4300270: IR_Camera_Mount_Camera_Base_Socket1
+    4300272: IR_Camera_Mount_Camera_Base_Tightness_Handle
+    4300274: IR_Camera_Mount_Camera_Mid_Tightness_Handle1
+    4300276: IR_Camera_Mount_Camera_Mid_Arm
+    4300278: IR_Camera_Mount_Camera_Mid_Tightness_Handle
+    4300280: IR_Camera_Mount_Camera_Clamp_Base
+    4300282: IR_Camera_Mount_Camera_Clamp_Top
+    4300284: IR_Camera_Mount_Camera_Clamp_Bottom
+    4300286: IR_Camera_Mount_Camera_Clamp_Handle
+    4300288: IR_Camera_Mount_Camera_Clamp_Pole9
+    4300290: IR_Camera_Mount_Camera_Base_Cylinder
+    4300292: IR_Camera_Mount_Camera_Mid_Hinge
+    4300294: IR_Camera_Mount_Camera_Base_Socket_Hinge
+    4300296: IR_Camera_Lens
+    4300298: IR_Camera_Base
+    4300300: IR_Camera_Lens_Base
+    4300302: IR_Camera_Mount_Camera_Base
+    4300304: IR_Camera_Mount_Camera_Base_Socket2
+    4300306: IR_Camera_Mount_Camera_Base_Socket1
+    4300308: IR_Camera_Mount_Camera_Base_Tightness_Handle
+    4300310: IR_Camera_Mount_Camera_Mid_Tightness_Handle1
+    4300312: IR_Camera_Mount_Camera_Mid_Arm
+    4300314: IR_Camera_Mount_Camera_Mid_Tightness_Handle
+    4300316: IR_Camera_Mount_Camera_Clamp_Base
+    4300318: IR_Camera_Mount_Camera_Clamp_Top
+    4300320: IR_Camera_Mount_Camera_Clamp_Bottom
+    4300322: IR_Camera_Mount_Camera_Clamp_Handle
+    4300324: IR_Camera_Mount_Camera_Clamp_Pole10
+    4300326: IR_Camera_Mount_Camera_Base_Cylinder
+    4300328: IR_Camera_Mount_Camera_Mid_Hinge
+    4300330: IR_Camera_Mount_Camera_Base_Socket_Hinge
+    4300332: IR_Camera_Lens
+    4300334: IR_Camera_Base
+    4300336: IR_Camera_Lens_Base
+    4300338: IR_Camera_Mount_Camera_Base
+    4300340: IR_Camera_Mount_Camera_Base_Socket2
+    4300342: IR_Camera_Mount_Camera_Base_Socket1
+    4300344: IR_Camera_Mount_Camera_Base_Tightness_Handle
+    4300346: IR_Camera_Mount_Camera_Mid_Tightness_Handle1
+    4300348: IR_Camera_Mount_Camera_Mid_Arm
+    4300350: IR_Camera_Mount_Camera_Mid_Tightness_Handle
+    4300352: IR_Camera_Mount_Camera_Clamp_Base
+    4300354: IR_Camera_Mount_Camera_Clamp_Top
+    4300356: IR_Camera_Mount_Camera_Clamp_Bottom
+    4300358: IR_Camera_Mount_Camera_Clamp_Handle
+    4300360: IR_Camera_Mount_Camera_Clamp_Pole11
+    4300362: IR_Camera_Mount_Camera_Base_Cylinder
+    4300364: IR_Camera_Mount_Camera_Mid_Hinge
+    4300366: IR_Camera_Mount_Camera_Base_Socket_Hinge
+    4300368: IR_Camera_Lens
+    4300370: IR_Camera_Base
+    4300372: IR_Camera_Lens_Base
+    4300374: IR_Camera_Mount_Camera_Base
+    4300376: IR_Camera_Mount_Camera_Base_Socket2
+    4300378: IR_Camera_Mount_Camera_Base_Socket1
+    4300380: IR_Camera_Mount_Camera_Base_Tightness_Handle
+    4300382: IR_Camera_Mount_Camera_Mid_Tightness_Handle1
+    4300384: IR_Camera_Mount_Camera_Mid_Arm
+    4300386: IR_Camera_Mount_Camera_Mid_Tightness_Handle
+    4300388: IR_Camera_Mount_Camera_Clamp_Base
+    4300390: IR_Camera_Mount_Camera_Clamp_Top
+    4300392: IR_Camera_Mount_Camera_Clamp_Bottom
+    4300394: IR_Camera_Mount_Camera_Clamp_Handle
+    4300396: IR_Camera_Mount_Camera_Clamp_Pole12
+    4300398: IR_Camera_Mount_Camera_Base_Cylinder
+    4300400: IR_Camera_Mount_Camera_Mid_Hinge
+    4300402: IR_Camera_Mount_Camera_Base_Socket_Hinge
+    4300404: IR_Camera_Lens
+    4300406: IR_Camera_Base
+    4300408: IR_Camera_Lens_Base
+    4300410: IR_Camera_Mount_Camera_Base
+    4300412: IR_Camera_Mount_Camera_Base_Socket2
+    4300414: IR_Camera_Mount_Camera_Base_Socket1
+    4300416: IR_Camera_Mount_Camera_Base_Tightness_Handle
+    4300418: IR_Camera_Mount_Camera_Mid_Tightness_Handle1
+    4300420: IR_Camera_Mount_Camera_Mid_Arm
+    4300422: IR_Camera_Mount_Camera_Mid_Tightness_Handle
+    4300424: IR_Camera_Mount_Camera_Clamp_Base
+    4300426: IR_Camera_Mount_Camera_Clamp_Top
+    4300428: IR_Camera_Mount_Camera_Clamp_Bottom
+    4300430: IR_Camera_Mount_Camera_Clamp_Handle
+    4300432: IR_Camera_Mount_Camera_Clamp_Pole13
+    4300434: IR_Camera_Mount_Camera_Base_Cylinder
+    4300436: IR_Camera_Mount_Camera_Mid_Hinge
+    4300438: IR_Camera_Mount_Camera_Base_Socket_Hinge
+    4300440: IR_Camera_Lens
+    4300442: IR_Camera_Base
+    4300444: IR_Camera_Lens_Base
+    4300446: IR_Camera_Mount_Camera_Base
+    4300448: IR_Camera_Mount_Camera_Base_Socket2
+    4300450: IR_Camera_Mount_Camera_Base_Socket1
+    4300452: IR_Camera_Mount_Camera_Base_Tightness_Handle
+    4300454: IR_Camera_Mount_Camera_Mid_Tightness_Handle1
+    4300456: IR_Camera_Mount_Camera_Mid_Arm
+    4300458: IR_Camera_Mount_Camera_Mid_Tightness_Handle
+    4300460: IR_Camera_Mount_Camera_Clamp_Base
+    4300462: IR_Camera_Mount_Camera_Clamp_Top
+    4300464: IR_Camera_Mount_Camera_Clamp_Bottom
+    4300466: IR_Camera_Mount_Camera_Clamp_Handle
+    4300468: IR_Camera_Mount_Camera_Clamp_Pole14
+    4300470: IR_Camera_Mount_Camera_Base_Cylinder
+    4300472: IR_Camera_Mount_Camera_Mid_Hinge
+    4300474: IR_Camera_Mount_Camera_Base_Socket_Hinge
+    4300476: IR_Camera_Lens
+    4300478: IR_Camera_Base
+    4300480: IR_Camera_Lens_Base
+    4300482: IR_Camera_Mount_Camera_Base
+    4300484: IR_Camera_Mount_Camera_Base_Socket2
+    4300486: IR_Camera_Mount_Camera_Base_Socket1
+    4300488: IR_Camera_Mount_Camera_Base_Tightness_Handle
+    4300490: IR_Camera_Mount_Camera_Mid_Tightness_Handle1
+    4300492: IR_Camera_Mount_Camera_Mid_Arm
+    4300494: IR_Camera_Mount_Camera_Mid_Tightness_Handle
+    4300496: IR_Camera_Mount_Camera_Clamp_Base
+    4300498: IR_Camera_Mount_Camera_Clamp_Top
+    4300500: IR_Camera_Mount_Camera_Clamp_Bottom
+    4300502: IR_Camera_Mount_Camera_Clamp_Handle
+    4300504: IR_Camera_Mount_Camera_Clamp_Pole15
+    4300506: IR_Camera_Mount_Camera_Base_Cylinder
+    4300508: IR_Camera_Mount_Camera_Mid_Hinge
+    4300510: IR_Camera_Mount_Camera_Base_Socket_Hinge
+    4300512: IR_Camera_Lens
+    4300514: IR_Camera_Base
+    4300516: IR_Camera_Lens_Base
+    4300518: IR_Camera_Mount_Camera_Base
+    4300520: IR_Camera_Mount_Camera_Base_Socket2
+    4300522: IR_Camera_Mount_Camera_Base_Socket1
+    4300524: IR_Camera_Mount_Camera_Base_Tightness_Handle
+    4300526: IR_Camera_Mount_Camera_Mid_Tightness_Handle1
+    4300528: IR_Camera_Mount_Camera_Mid_Arm
+    4300530: IR_Camera_Mount_Camera_Mid_Tightness_Handle
+    4300532: IR_Camera_Mount_Camera_Clamp_Base
+    4300534: IR_Camera_Mount_Camera_Clamp_Top
+    4300536: IR_Camera_Mount_Camera_Clamp_Bottom
+    4300538: IR_Camera_Mount_Camera_Clamp_Handle
+    4300540: IR_Camera_Mount_Camera_Clamp_Pole16
+    4300542: IR_Camera_Mount_Camera_Base_Cylinder
+    4300544: IR_Camera_Mount_Camera_Mid_Hinge
+    4300546: IR_Camera_Mount_Camera_Base_Socket_Hinge
+    4300548: IR_Camera_Lens
+    4300550: IR_Camera_Base
+    4300552: IR_Camera_Lens_Base
+    4300554: IR_Camera_Mount_Camera_Base
+    4300556: IR_Camera_Mount_Camera_Base_Socket2
+    4300558: IR_Camera_Mount_Camera_Base_Socket1
+    4300560: IR_Camera_Mount_Camera_Base_Tightness_Handle
+    4300562: IR_Camera_Mount_Camera_Mid_Tightness_Handle1
+    4300564: IR_Camera_Mount_Camera_Mid_Arm
+    4300566: IR_Camera_Mount_Camera_Mid_Tightness_Handle
+    4300568: IR_Camera_Mount_Camera_Clamp_Base
+    4300570: IR_Camera_Mount_Camera_Clamp_Top
+    4300572: IR_Camera_Mount_Camera_Clamp_Bottom
+    4300574: IR_Camera_Mount_Camera_Clamp_Handle
+    4300576: IR_Camera_Mount_Camera_Clamp_Pole17
+    4300578: IR_Camera_Mount_Camera_Base_Cylinder
+    4300580: IR_Camera_Mount_Camera_Mid_Hinge
+    4300582: IR_Camera_Mount_Camera_Base_Socket_Hinge
+    4300584: IR_Camera_Lens
+    4300586: IR_Camera_Base
+    4300588: IR_Camera_Lens_Base
+    4300590: IR_Camera_Mount_Camera_Base
+    4300592: IR_Camera_Mount_Camera_Base_Socket2
+    4300594: IR_Camera_Mount_Camera_Base_Socket1
+    4300596: IR_Camera_Mount_Camera_Base_Tightness_Handle
+    4300598: IR_Camera_Mount_Camera_Mid_Tightness_Handle1
+    4300600: IR_Camera_Mount_Camera_Mid_Arm
+    4300602: IR_Camera_Mount_Camera_Mid_Tightness_Handle
+    4300604: IR_Camera_Mount_Camera_Clamp_Base
+    4300606: IR_Camera_Mount_Camera_Clamp_Top
+    4300608: IR_Camera_Mount_Camera_Clamp_Bottom
+    4300610: IR_Camera_Mount_Camera_Clamp_Handle
+    4300612: IR_Camera_Mount_Camera_Clamp_Pole18
+    4300614: IR_Camera_Mount_Camera_Base_Cylinder
+    4300616: IR_Camera_Mount_Camera_Mid_Hinge
+    4300618: IR_Camera_Mount_Camera_Base_Socket_Hinge
+    4300620: IR_Camera_Lens
+    4300622: IR_Camera_Base
+    4300624: IR_Camera_Lens_Base
+    4300626: IR_Camera_Mount_Camera_Base
+    4300628: IR_Camera_Mount_Camera_Base_Socket2
+    4300630: IR_Camera_Mount_Camera_Base_Socket1
+    4300632: IR_Camera_Mount_Camera_Base_Tightness_Handle
+    4300634: IR_Camera_Mount_Camera_Mid_Tightness_Handle1
+    4300636: IR_Camera_Mount_Camera_Mid_Arm
+    4300638: IR_Camera_Mount_Camera_Mid_Tightness_Handle
+    4300640: IR_Camera_Mount_Camera_Clamp_Base
+    4300642: IR_Camera_Mount_Camera_Clamp_Top
+    4300644: IR_Camera_Mount_Camera_Clamp_Bottom
+    4300646: IR_Camera_Mount_Camera_Clamp_Handle
+    4300648: IR_Camera_Mount_Camera_Clamp_Pole19
+    4300650: IR_Camera_Mount_Camera_Base_Cylinder
+    4300652: IR_Camera_Mount_Camera_Mid_Hinge
+    4300654: IR_Camera_Mount_Camera_Base_Socket_Hinge
+    4300656: IR_Camera_Lens
+    4300658: IR_Camera_Base
+    4300660: IR_Camera_Lens_Base
+    4300662: IR_Camera_Mount_Camera_Base
+    4300664: IR_Camera_Mount_Camera_Base_Socket2
+    4300666: IR_Camera_Mount_Camera_Base_Socket1
+    4300668: IR_Camera_Mount_Camera_Base_Tightness_Handle
+    4300670: IR_Camera_Mount_Camera_Mid_Tightness_Handle1
+    4300672: IR_Camera_Mount_Camera_Mid_Arm
+    4300674: IR_Camera_Mount_Camera_Mid_Tightness_Handle
+    4300676: IR_Camera_Mount_Camera_Clamp_Base
+    4300678: IR_Camera_Mount_Camera_Clamp_Top
+    4300680: IR_Camera_Mount_Camera_Clamp_Bottom
+    4300682: IR_Camera_Mount_Camera_Clamp_Handle
+    4300684: IR_Camera_Mount_Camera_Clamp_Pole
+    4300686: IR_Camera_Mount_Camera_Base_Cylinder
+    4300688: IR_Camera_Mount_Camera_Mid_Hinge
+    4300690: IR_Camera_Mount_Camera_Base_Socket_Hinge
+    4300692: IR_Camera_Lens
+    4300694: IR_Camera_Base
+    4300696: IR_Camera_Lens_Base
+    4300698: IR_Camera_Mount_Camera_Base
+    4300700: IR_Camera_Mount_Camera_Base_Socket2
+    4300702: IR_Camera_Mount_Camera_Base_Socket1
+    4300704: IR_Camera_Mount_Camera_Base_Tightness_Handle
+    4300706: IR_Camera_Mount_Camera_Mid_Tightness_Handle1
+    4300708: IR_Camera_Mount_Camera_Mid_Arm
+    4300710: IR_Camera_Mount_Camera_Mid_Tightness_Handle
+    4300712: IR_Camera_Mount_Camera_Clamp_Base
+    4300714: IR_Camera_Mount_Camera_Clamp_Top
+    4300716: IR_Camera_Mount_Camera_Clamp_Bottom
+    4300718: IR_Camera_Mount_Camera_Clamp_Handle
+    4300720: IR_Camera_Mount_Camera_Clamp_Pole20
+    4300722: IR_Camera_Mount_Camera_Base_Cylinder
+    4300724: IR_Camera_Mount_Camera_Mid_Hinge
+    4300726: IR_Camera_Mount_Camera_Base_Socket_Hinge
+    4300728: IR_Camera_Lens
+    4300730: IR_Camera_Base
+    4300732: IR_Camera_Lens_Base
+    4300734: IR_Camera_Mount_Camera_Base
+    4300736: IR_Camera_Mount_Camera_Base_Socket2
+    4300738: IR_Camera_Mount_Camera_Base_Socket1
+    4300740: IR_Camera_Mount_Camera_Base_Tightness_Handle
+    4300742: IR_Camera_Mount_Camera_Mid_Tightness_Handle1
+    4300744: IR_Camera_Mount_Camera_Mid_Arm
+    4300746: IR_Camera_Mount_Camera_Mid_Tightness_Handle
+    4300748: IR_Camera_Mount_Camera_Clamp_Base
+    4300750: IR_Camera_Mount_Camera_Clamp_Top
+    4300752: IR_Camera_Mount_Camera_Clamp_Bottom
+    4300754: IR_Camera_Mount_Camera_Clamp_Handle
+    4300756: IR_Camera_Mount_Camera_Clamp_Pole21
+    4300758: IR_Camera_Mount_Camera_Base_Cylinder
+    4300760: IR_Camera_Mount_Camera_Mid_Hinge
+    4300762: IR_Camera_Mount_Camera_Base_Socket_Hinge
+    4300764: IR_Camera_Lens
+    4300766: IR_Camera_Base
+    4300768: IR_Camera_Lens_Base
+    4300770: IR_Camera_Mount_Camera_Base
+    4300772: IR_Camera_Mount_Camera_Base_Socket2
+    4300774: IR_Camera_Mount_Camera_Base_Socket1
+    4300776: IR_Camera_Mount_Camera_Base_Tightness_Handle
+    4300778: IR_Camera_Mount_Camera_Mid_Tightness_Handle1
+    4300780: IR_Camera_Mount_Camera_Mid_Arm
+    4300782: IR_Camera_Mount_Camera_Mid_Tightness_Handle
+    4300784: IR_Camera_Mount_Camera_Clamp_Base
+    4300786: IR_Camera_Mount_Camera_Clamp_Top
+    4300788: IR_Camera_Mount_Camera_Clamp_Bottom
+    4300790: IR_Camera_Mount_Camera_Clamp_Handle
+    4300792: IR_Camera_Mount_Camera_Clamp_Pole22
+    4300794: IR_Camera_Mount_Camera_Base_Cylinder
+    4300796: IR_Camera_Mount_Camera_Mid_Hinge
+    4300798: IR_Camera_Mount_Camera_Base_Socket_Hinge
+    4300800: IR_Camera_Lens
+    4300802: IR_Camera_Base
+    4300804: IR_Camera_Lens_Base
+    4300806: IR_Camera_Mount_Camera_Base
+    4300808: IR_Camera_Mount_Camera_Base_Socket2
+    4300810: IR_Camera_Mount_Camera_Base_Socket1
+    4300812: IR_Camera_Mount_Camera_Base_Tightness_Handle
+    4300814: IR_Camera_Mount_Camera_Mid_Tightness_Handle1
+    4300816: IR_Camera_Mount_Camera_Mid_Arm
+    4300818: IR_Camera_Mount_Camera_Mid_Tightness_Handle
+    4300820: IR_Camera_Mount_Camera_Clamp_Base
+    4300822: IR_Camera_Mount_Camera_Clamp_Top
+    4300824: IR_Camera_Mount_Camera_Clamp_Bottom
+    4300826: IR_Camera_Mount_Camera_Clamp_Handle
+    4300828: IR_Camera_Mount_Camera_Clamp_Pole23
+    4300830: IR_Camera_Mount_Camera_Base_Cylinder
+    4300832: IR_Camera_Mount_Camera_Mid_Hinge
+    4300834: IR_Camera_Mount_Camera_Base_Socket_Hinge
+    4300836: IR_Camera_Lens
+    4300838: IR_Camera_Base
+    4300840: IR_Camera_Lens_Base
+    4300842: IR_Camera_Mount_Camera_Base
+    4300844: IR_Camera_Mount_Camera_Base_Socket2
+    4300846: IR_Camera_Mount_Camera_Base_Socket1
+    4300848: IR_Camera_Mount_Camera_Base_Tightness_Handle
+    4300850: IR_Camera_Mount_Camera_Mid_Tightness_Handle1
+    4300852: IR_Camera_Mount_Camera_Mid_Arm
+    4300854: IR_Camera_Mount_Camera_Mid_Tightness_Handle
+    4300856: IR_Camera_Mount_Camera_Clamp_Base
+    4300858: IR_Camera_Mount_Camera_Clamp_Top
+    4300860: IR_Camera_Mount_Camera_Clamp_Bottom
+    4300862: IR_Camera_Mount_Camera_Clamp_Handle
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

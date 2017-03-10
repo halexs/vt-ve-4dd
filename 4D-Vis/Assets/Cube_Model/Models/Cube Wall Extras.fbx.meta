@@ -1,0 +1,575 @@
+fileFormatVersion: 2
+guid: 9058058399c90154d9680f00ba2c8026
+timeCreated: 1474430959
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: AV3102_Video_and_Audio
+    100002: Cable_Pass_Group
+    100004: Cable_Pass_Group1
+    100006: Cable_Pass_Group2
+    100008: Cable_Pass_Lid
+    100010: Cable_Pass_Lid 1
+    100012: Cable_Pass_Lid 2
+    100014: Cable_Pass_Metal_Plate
+    100016: Cable_Pass_Metal_Plate 1
+    100018: Cable_Pass_Sign
+    100020: Cable_Pass_Sign 1
+    100022: Cable_Pass_Sign 2
+    100024: Chain_Hoist_Control
+    100026: Chain_Hoist_Control_Pipe
+    100028: //RootNode
+    100030: Elevator_Power_Box
+    100032: Elevator_Power_Box_Handle
+    100034: Elevator_power_control_box
+    100036: Elevator_power_control_box1
+    100038: Elevator_power_control_box2
+    100040: Elevator_Wall_Pipe
+    100042: Entrance_Door_Metal_Panel
+    100044: Entrance_Door_Metal_Panel_Group
+    100046: Entrance_Door_Metal_Panel_Handle
+    100048: Entrance_Door_Pipe
+    100050: Exit_Sign
+    100052: Exit_Sign1
+    100054: Fire_Alarm_Base
+    100056: Fire_Alarm_Base 1
+    100058: Fire_Alarm_Base 2
+    100060: Fire_Alarm_Case
+    100062: Fire_Alarm_Case 1
+    100064: Fire_Alarm_Case 2
+    100066: Fire_Alarm_Group
+    100068: Fire_Alarm_Group1
+    100070: Fire_Alarm_Group2
+    100072: Fire_Alarm_Handle
+    100074: Fire_Alarm_Handle 1
+    100076: Fire_Alarm_Handle 2
+    100078: Ladder_shaft_gate_outline
+    100080: Ladder_shaft_gate_wire
+    100082: Light_Swith_Control_Panel
+    100084: Low_Ethernet_Outlet
+    100086: Low_Ethernet_Outlet1
+    100088: Low_Ethernet_Outlet2
+    100090: Low_Ethernet_Outlet3
+    100092: Low_Ethernet_Outlet4
+    100094: Low_Ethernet_Outlet5
+    100096: Low_Ethernet_Outlet6
+    100098: Low_Ethernet_Outlet7
+    100100: Low_Power_Outlet
+    100102: Low_Power_Outlet1
+    100104: Low_Power_Outlet10
+    100106: Low_Power_Outlet2
+    100108: Low_Power_Outlet3
+    100110: Low_Power_Outlet4
+    100112: Low_Power_Outlet5
+    100114: Low_Power_Outlet6
+    100116: Low_Power_Outlet7
+    100118: Low_Power_Outlet8
+    100120: Low_Power_Outlet9
+    100122: Outlet_183_184
+    100124: Power_Outlet_Box
+    100126: Power_Outlet_Box_Pipe
+    100128: R4CA_20
+    100130: Room_Number_Labels
+    100132: Room_Number_Labels1
+    100134: Room_Number_Labels2
+    100136: Room_Number_Labels3
+    100138: Room_Number_Labels4
+    100140: Room_Number_Labels5
+    100142: Room_Number_Labels6
+    100144: Screw
+    100146: Screw 1
+    100148: Screw1
+    100150: Screw1 1
+    100152: Screw2
+    100154: Screw2 1
+    100156: Screw3
+    100158: Screw3 1
+    100160: Small_Utility_Box
+    100162: Small_Utility_Box_Pipe
+    100164: TwentyNine_Control_Box
+    100166: TwentyNine_Control_Box_Pipe
+    100168: TwentyNine_Control_Box_Pipe1
+    100170: Under_SideWall
+    100172: Under_SideWall1
+    100174: Under_SideWall2
+    100176: Under_SideWall3
+    100178: Utility_Box
+    100180: Utility_Box10
+    100182: Utility_Box11
+    100184: Utility_Box12
+    100186: Utility_Box5
+    100188: Utility_Box9
+    100190: Utility_Box_Group
+    100192: Utility_Box_Screw
+    100194: Utility_Box_Screw1
+    100196: Wall_Bottom_Lining_1
+    100198: Wall_Bottom_Lining_2
+    100200: Wall_Bottom_Lining_3
+    100202: Wall_Bottom_Lining_4
+    100204: Wall_Bottom_Lining_5
+    100206: Wall_Shelf_1
+    100208: Wall_Shelf_2
+    100210: Wall_Shelf_3
+    400000: AV3102_Video_and_Audio
+    400002: Cable_Pass_Group
+    400004: Cable_Pass_Group1
+    400006: Cable_Pass_Group2
+    400008: Cable_Pass_Lid
+    400010: Cable_Pass_Lid 1
+    400012: Cable_Pass_Lid 2
+    400014: Cable_Pass_Metal_Plate
+    400016: Cable_Pass_Metal_Plate 1
+    400018: Cable_Pass_Sign
+    400020: Cable_Pass_Sign 1
+    400022: Cable_Pass_Sign 2
+    400024: Chain_Hoist_Control
+    400026: Chain_Hoist_Control_Pipe
+    400028: //RootNode
+    400030: Elevator_Power_Box
+    400032: Elevator_Power_Box_Handle
+    400034: Elevator_power_control_box
+    400036: Elevator_power_control_box1
+    400038: Elevator_power_control_box2
+    400040: Elevator_Wall_Pipe
+    400042: Entrance_Door_Metal_Panel
+    400044: Entrance_Door_Metal_Panel_Group
+    400046: Entrance_Door_Metal_Panel_Handle
+    400048: Entrance_Door_Pipe
+    400050: Exit_Sign
+    400052: Exit_Sign1
+    400054: Fire_Alarm_Base
+    400056: Fire_Alarm_Base 1
+    400058: Fire_Alarm_Base 2
+    400060: Fire_Alarm_Case
+    400062: Fire_Alarm_Case 1
+    400064: Fire_Alarm_Case 2
+    400066: Fire_Alarm_Group
+    400068: Fire_Alarm_Group1
+    400070: Fire_Alarm_Group2
+    400072: Fire_Alarm_Handle
+    400074: Fire_Alarm_Handle 1
+    400076: Fire_Alarm_Handle 2
+    400078: Ladder_shaft_gate_outline
+    400080: Ladder_shaft_gate_wire
+    400082: Light_Swith_Control_Panel
+    400084: Low_Ethernet_Outlet
+    400086: Low_Ethernet_Outlet1
+    400088: Low_Ethernet_Outlet2
+    400090: Low_Ethernet_Outlet3
+    400092: Low_Ethernet_Outlet4
+    400094: Low_Ethernet_Outlet5
+    400096: Low_Ethernet_Outlet6
+    400098: Low_Ethernet_Outlet7
+    400100: Low_Power_Outlet
+    400102: Low_Power_Outlet1
+    400104: Low_Power_Outlet10
+    400106: Low_Power_Outlet2
+    400108: Low_Power_Outlet3
+    400110: Low_Power_Outlet4
+    400112: Low_Power_Outlet5
+    400114: Low_Power_Outlet6
+    400116: Low_Power_Outlet7
+    400118: Low_Power_Outlet8
+    400120: Low_Power_Outlet9
+    400122: Outlet_183_184
+    400124: Power_Outlet_Box
+    400126: Power_Outlet_Box_Pipe
+    400128: R4CA_20
+    400130: Room_Number_Labels
+    400132: Room_Number_Labels1
+    400134: Room_Number_Labels2
+    400136: Room_Number_Labels3
+    400138: Room_Number_Labels4
+    400140: Room_Number_Labels5
+    400142: Room_Number_Labels6
+    400144: Screw
+    400146: Screw 1
+    400148: Screw1
+    400150: Screw1 1
+    400152: Screw2
+    400154: Screw2 1
+    400156: Screw3
+    400158: Screw3 1
+    400160: Small_Utility_Box
+    400162: Small_Utility_Box_Pipe
+    400164: TwentyNine_Control_Box
+    400166: TwentyNine_Control_Box_Pipe
+    400168: TwentyNine_Control_Box_Pipe1
+    400170: Under_SideWall
+    400172: Under_SideWall1
+    400174: Under_SideWall2
+    400176: Under_SideWall3
+    400178: Utility_Box
+    400180: Utility_Box10
+    400182: Utility_Box11
+    400184: Utility_Box12
+    400186: Utility_Box5
+    400188: Utility_Box9
+    400190: Utility_Box_Group
+    400192: Utility_Box_Screw
+    400194: Utility_Box_Screw1
+    400196: Wall_Bottom_Lining_1
+    400198: Wall_Bottom_Lining_2
+    400200: Wall_Bottom_Lining_3
+    400202: Wall_Bottom_Lining_4
+    400204: Wall_Bottom_Lining_5
+    400206: Wall_Shelf_1
+    400208: Wall_Shelf_2
+    400210: Wall_Shelf_3
+    2300000: AV3102_Video_and_Audio
+    2300002: Cable_Pass_Lid
+    2300004: Cable_Pass_Lid 1
+    2300006: Cable_Pass_Lid 2
+    2300008: Cable_Pass_Metal_Plate
+    2300010: Cable_Pass_Metal_Plate 1
+    2300012: Cable_Pass_Sign
+    2300014: Cable_Pass_Sign 1
+    2300016: Cable_Pass_Sign 2
+    2300018: Chain_Hoist_Control
+    2300020: Chain_Hoist_Control_Pipe
+    2300022: Elevator_Power_Box
+    2300024: Elevator_Power_Box_Handle
+    2300026: Elevator_power_control_box
+    2300028: Elevator_power_control_box1
+    2300030: Elevator_power_control_box2
+    2300032: Elevator_Wall_Pipe
+    2300034: Entrance_Door_Metal_Panel
+    2300036: Entrance_Door_Metal_Panel_Handle
+    2300038: Entrance_Door_Pipe
+    2300040: Exit_Sign
+    2300042: Exit_Sign1
+    2300044: Fire_Alarm_Base
+    2300046: Fire_Alarm_Base 1
+    2300048: Fire_Alarm_Base 2
+    2300050: Fire_Alarm_Case
+    2300052: Fire_Alarm_Case 1
+    2300054: Fire_Alarm_Case 2
+    2300056: Fire_Alarm_Handle
+    2300058: Fire_Alarm_Handle 1
+    2300060: Fire_Alarm_Handle 2
+    2300062: Ladder_shaft_gate_outline
+    2300064: Ladder_shaft_gate_wire
+    2300066: Light_Swith_Control_Panel
+    2300068: Low_Ethernet_Outlet
+    2300070: Low_Ethernet_Outlet1
+    2300072: Low_Ethernet_Outlet2
+    2300074: Low_Ethernet_Outlet3
+    2300076: Low_Ethernet_Outlet4
+    2300078: Low_Ethernet_Outlet5
+    2300080: Low_Ethernet_Outlet6
+    2300082: Low_Ethernet_Outlet7
+    2300084: Low_Power_Outlet
+    2300086: Low_Power_Outlet1
+    2300088: Low_Power_Outlet10
+    2300090: Low_Power_Outlet2
+    2300092: Low_Power_Outlet3
+    2300094: Low_Power_Outlet4
+    2300096: Low_Power_Outlet5
+    2300098: Low_Power_Outlet6
+    2300100: Low_Power_Outlet7
+    2300102: Low_Power_Outlet8
+    2300104: Low_Power_Outlet9
+    2300106: Outlet_183_184
+    2300108: Power_Outlet_Box
+    2300110: Power_Outlet_Box_Pipe
+    2300112: R4CA_20
+    2300114: Room_Number_Labels
+    2300116: Room_Number_Labels1
+    2300118: Room_Number_Labels2
+    2300120: Room_Number_Labels3
+    2300122: Room_Number_Labels4
+    2300124: Room_Number_Labels5
+    2300126: Room_Number_Labels6
+    2300128: Screw
+    2300130: Screw 1
+    2300132: Screw1
+    2300134: Screw1 1
+    2300136: Screw2
+    2300138: Screw2 1
+    2300140: Screw3
+    2300142: Screw3 1
+    2300144: Small_Utility_Box
+    2300146: Small_Utility_Box_Pipe
+    2300148: TwentyNine_Control_Box
+    2300150: TwentyNine_Control_Box_Pipe
+    2300152: TwentyNine_Control_Box_Pipe1
+    2300154: Under_SideWall
+    2300156: Under_SideWall1
+    2300158: Under_SideWall2
+    2300160: Under_SideWall3
+    2300162: Utility_Box
+    2300164: Utility_Box10
+    2300166: Utility_Box11
+    2300168: Utility_Box12
+    2300170: Utility_Box5
+    2300172: Utility_Box9
+    2300174: Utility_Box_Screw
+    2300176: Utility_Box_Screw1
+    2300178: Wall_Bottom_Lining_1
+    2300180: Wall_Bottom_Lining_2
+    2300182: Wall_Bottom_Lining_3
+    2300184: Wall_Bottom_Lining_4
+    2300186: Wall_Bottom_Lining_5
+    2300188: Wall_Shelf_1
+    2300190: Wall_Shelf_2
+    2300192: Wall_Shelf_3
+    3300000: AV3102_Video_and_Audio
+    3300002: Cable_Pass_Lid
+    3300004: Cable_Pass_Lid 1
+    3300006: Cable_Pass_Lid 2
+    3300008: Cable_Pass_Metal_Plate
+    3300010: Cable_Pass_Metal_Plate 1
+    3300012: Cable_Pass_Sign
+    3300014: Cable_Pass_Sign 1
+    3300016: Cable_Pass_Sign 2
+    3300018: Chain_Hoist_Control
+    3300020: Chain_Hoist_Control_Pipe
+    3300022: Elevator_Power_Box
+    3300024: Elevator_Power_Box_Handle
+    3300026: Elevator_power_control_box
+    3300028: Elevator_power_control_box1
+    3300030: Elevator_power_control_box2
+    3300032: Elevator_Wall_Pipe
+    3300034: Entrance_Door_Metal_Panel
+    3300036: Entrance_Door_Metal_Panel_Handle
+    3300038: Entrance_Door_Pipe
+    3300040: Exit_Sign
+    3300042: Exit_Sign1
+    3300044: Fire_Alarm_Base
+    3300046: Fire_Alarm_Base 1
+    3300048: Fire_Alarm_Base 2
+    3300050: Fire_Alarm_Case
+    3300052: Fire_Alarm_Case 1
+    3300054: Fire_Alarm_Case 2
+    3300056: Fire_Alarm_Handle
+    3300058: Fire_Alarm_Handle 1
+    3300060: Fire_Alarm_Handle 2
+    3300062: Ladder_shaft_gate_outline
+    3300064: Ladder_shaft_gate_wire
+    3300066: Light_Swith_Control_Panel
+    3300068: Low_Ethernet_Outlet
+    3300070: Low_Ethernet_Outlet1
+    3300072: Low_Ethernet_Outlet2
+    3300074: Low_Ethernet_Outlet3
+    3300076: Low_Ethernet_Outlet4
+    3300078: Low_Ethernet_Outlet5
+    3300080: Low_Ethernet_Outlet6
+    3300082: Low_Ethernet_Outlet7
+    3300084: Low_Power_Outlet
+    3300086: Low_Power_Outlet1
+    3300088: Low_Power_Outlet10
+    3300090: Low_Power_Outlet2
+    3300092: Low_Power_Outlet3
+    3300094: Low_Power_Outlet4
+    3300096: Low_Power_Outlet5
+    3300098: Low_Power_Outlet6
+    3300100: Low_Power_Outlet7
+    3300102: Low_Power_Outlet8
+    3300104: Low_Power_Outlet9
+    3300106: Outlet_183_184
+    3300108: Power_Outlet_Box
+    3300110: Power_Outlet_Box_Pipe
+    3300112: R4CA_20
+    3300114: Room_Number_Labels
+    3300116: Room_Number_Labels1
+    3300118: Room_Number_Labels2
+    3300120: Room_Number_Labels3
+    3300122: Room_Number_Labels4
+    3300124: Room_Number_Labels5
+    3300126: Room_Number_Labels6
+    3300128: Screw
+    3300130: Screw 1
+    3300132: Screw1
+    3300134: Screw1 1
+    3300136: Screw2
+    3300138: Screw2 1
+    3300140: Screw3
+    3300142: Screw3 1
+    3300144: Small_Utility_Box
+    3300146: Small_Utility_Box_Pipe
+    3300148: TwentyNine_Control_Box
+    3300150: TwentyNine_Control_Box_Pipe
+    3300152: TwentyNine_Control_Box_Pipe1
+    3300154: Under_SideWall
+    3300156: Under_SideWall1
+    3300158: Under_SideWall2
+    3300160: Under_SideWall3
+    3300162: Utility_Box
+    3300164: Utility_Box10
+    3300166: Utility_Box11
+    3300168: Utility_Box12
+    3300170: Utility_Box5
+    3300172: Utility_Box9
+    3300174: Utility_Box_Screw
+    3300176: Utility_Box_Screw1
+    3300178: Wall_Bottom_Lining_1
+    3300180: Wall_Bottom_Lining_2
+    3300182: Wall_Bottom_Lining_3
+    3300184: Wall_Bottom_Lining_4
+    3300186: Wall_Bottom_Lining_5
+    3300188: Wall_Shelf_1
+    3300190: Wall_Shelf_2
+    3300192: Wall_Shelf_3
+    4300000: Under_SideWall
+    4300002: Under_SideWall1
+    4300004: Under_SideWall2
+    4300006: Under_SideWall3
+    4300008: Room_Number_Labels2
+    4300010: Room_Number_Labels1
+    4300012: Room_Number_Labels
+    4300014: Exit_Sign
+    4300016: Wall_Shelf_2
+    4300018: Wall_Bottom_Lining_5
+    4300020: Wall_Bottom_Lining_4
+    4300022: Wall_Bottom_Lining_3
+    4300024: Wall_Bottom_Lining_2
+    4300026: Wall_Bottom_Lining_1
+    4300028: Wall_Shelf_1
+    4300030: Exit_Sign1
+    4300032: Room_Number_Labels5
+    4300034: Elevator_Power_Box
+    4300036: Elevator_Power_Box_Handle
+    4300038: Wall_Shelf_3
+    4300040: Elevator_power_control_box
+    4300042: Elevator_power_control_box1
+    4300044: Elevator_power_control_box2
+    4300046: Elevator_Wall_Pipe
+    4300048: Ladder_shaft_gate_outline
+    4300050: Ladder_shaft_gate_wire
+    4300052: Entrance_Door_Pipe
+    4300054: Room_Number_Labels3
+    4300056: Room_Number_Labels4
+    4300058: Entrance_Door_Metal_Panel_Handle
+    4300060: Entrance_Door_Metal_Panel
+    4300062: Cable_Pass_Lid
+    4300064: Cable_Pass_Metal_Plate
+    4300066: Screw2
+    4300068: Screw3
+    4300070: Screw
+    4300072: Screw1
+    4300074: Cable_Pass_Sign
+    4300076: Cable_Pass_Lid
+    4300078: Cable_Pass_Metal_Plate
+    4300080: Screw2
+    4300082: Screw3
+    4300084: Screw
+    4300086: Screw1
+    4300088: Cable_Pass_Sign
+    4300090: Cable_Pass_Lid
+    4300092: Cable_Pass_Sign
+    4300094: Light_Swith_Control_Panel
+    4300096: Room_Number_Labels6
+    4300098: TwentyNine_Control_Box_Pipe
+    4300100: TwentyNine_Control_Box_Pipe1
+    4300102: Chain_Hoist_Control_Pipe
+    4300104: Small_Utility_Box_Pipe
+    4300106: Power_Outlet_Box_Pipe
+    4300108: Low_Ethernet_Outlet
+    4300110: Low_Power_Outlet
+    4300112: Low_Power_Outlet1
+    4300114: Low_Power_Outlet2
+    4300116: Low_Ethernet_Outlet1
+    4300118: Low_Power_Outlet3
+    4300120: Low_Ethernet_Outlet2
+    4300122: Low_Power_Outlet4
+    4300124: Low_Ethernet_Outlet3
+    4300126: Low_Power_Outlet5
+    4300128: Low_Ethernet_Outlet4
+    4300130: Low_Power_Outlet6
+    4300132: Low_Power_Outlet7
+    4300134: Low_Ethernet_Outlet5
+    4300136: Low_Power_Outlet8
+    4300138: Low_Ethernet_Outlet6
+    4300140: Low_Power_Outlet9
+    4300142: Low_Power_Outlet10
+    4300144: Low_Ethernet_Outlet7
+    4300146: Utility_Box
+    4300148: Utility_Box_Screw1
+    4300150: Utility_Box_Screw
+    4300152: Small_Utility_Box
+    4300154: TwentyNine_Control_Box
+    4300156: Chain_Hoist_Control
+    4300158: Outlet_183_184
+    4300160: Utility_Box5
+    4300162: Power_Outlet_Box
+    4300164: R4CA_20
+    4300166: AV3102_Video_and_Audio
+    4300168: Utility_Box9
+    4300170: Utility_Box10
+    4300172: Utility_Box11
+    4300174: Utility_Box12
+    4300176: Fire_Alarm_Base
+    4300178: Fire_Alarm_Handle
+    4300180: Fire_Alarm_Case
+    4300182: Fire_Alarm_Base
+    4300184: Fire_Alarm_Handle
+    4300186: Fire_Alarm_Case
+    4300188: Fire_Alarm_Base
+    4300190: Fire_Alarm_Handle
+    4300192: Fire_Alarm_Case
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

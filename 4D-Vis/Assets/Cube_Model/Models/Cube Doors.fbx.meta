@@ -1,0 +1,589 @@
+fileFormatVersion: 2
+guid: 424dfd42d2fc586468b5e8eb0237d7e4
+timeCreated: 1469710639
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cube_Double_Doors1
+    100004: Cube_Double_Doors2
+    100006: Door
+    100008: Door 1
+    100010: Door1
+    100012: Door1 1
+    100014: Door_Bottom_Lining
+    100016: Door_Bottom_Lining 1
+    100018: Door_Bottom_Lining1
+    100020: Door_Bottom_Lining1 1
+    100022: Door_Frame
+    100024: Door_Frame 1
+    100026: Door_Handle
+    100028: Door_Handle 1
+    100030: Door_Handle1
+    100032: Door_Handle1 1
+    100034: Door_Hinge_1
+    100036: Door_Hinge_1 1
+    100038: Door_Hinge_2
+    100040: Door_Hinge_2 1
+    100042: Door_Hinge_3
+    100044: Door_Hinge_3 1
+    100046: Door_Lock
+    100048: Door_Lock 1
+    100050: Door_Opener
+    100052: Door_Opener 1
+    100054: Door_Opener1
+    100056: Door_Opener1 1
+    100058: Door_Opener2
+    100060: Door_Opener2 1
+    100062: Door_Opener_Group
+    100064: Door_Opener_Group 1
+    100066: Doors
+    100068: Double_Door_Frame_2
+    100070: Double_Door_Frame_2 1
+    100072: Double_Door_Frame_3
+    100074: Double_Door_Frame_3 1
+    100076: Double_Door_Frame_3 2
+    100078: Elevator_Door_Frame
+    100080: Elevator_Door_Frame 1
+    100082: Elevator_Door_Frame 2
+    100084: Elevator_Door_Frame 3
+    100086: Elevator_Door_Frame 4
+    100088: Elevator_Door_Group
+    100090: Elevator_Door_Group1
+    100092: Elevator_Door_Group2
+    100094: Elevator_Door_Group3
+    100096: Elevator_Door_Group4
+    100098: Elevator_Door_Left_Door
+    100100: Elevator_Door_Left_Door 1
+    100102: Elevator_Door_Left_Door 2
+    100104: Elevator_Door_Left_Door 3
+    100106: Elevator_Door_Left_Door 4
+    100108: Elevator_Door_Right_Door
+    100110: Elevator_Door_Right_Door 1
+    100112: Elevator_Door_Right_Door 2
+    100114: Elevator_Door_Right_Door 3
+    100116: Elevator_Door_Right_Door 4
+    100118: Handle_Bolt_1
+    100120: Handle_Bolt_1 1
+    100122: Handle_Bolt_2
+    100124: Handle_Bolt_2 1
+    100126: Handle_Bolt_3
+    100128: Handle_Bolt_3 1
+    100130: Handle_Bolt_4
+    100132: Handle_Bolt_4 1
+    100134: Hine_Plate_1
+    100136: Hine_Plate_1 1
+    100138: Hine_Plate_2
+    100140: Hine_Plate_2 1
+    100142: Hine_Plate_3
+    100144: Hine_Plate_3 1
+    100146: Hine_Plate_4
+    100148: Hine_Plate_4 1
+    100150: Hine_Plate_5
+    100152: Hine_Plate_5 1
+    100154: Hine_Plate_6
+    100156: Hine_Plate_6 1
+    100158: Opener_Arm_1
+    100160: Opener_Arm_1 1
+    100162: Opener_Arm_2
+    100164: Opener_Arm_2 1
+    100166: Opener_Arm_3
+    100168: Opener_Arm_3 1
+    100170: Opener_Arm_4
+    100172: Opener_Arm_4 1
+    100174: Opener_Arm_5
+    100176: Opener_Arm_5 1
+    100178: Opener_Arm_6
+    100180: Opener_Arm_6 1
+    100182: Opener_Arm_Hinge
+    100184: Opener_Arm_Hinge 1
+    100186: Opener_Arm_Hinge1
+    100188: Opener_Arm_Hinge1 1
+    100190: Opener_Arm_Hinge2
+    100192: Opener_Arm_Hinge2 1
+    100194: Push_Handle
+    100196: Push_Handle 1
+    100198: Push_Handle 2
+    100200: Single_Door
+    100202: Single_Door 1
+    100204: Single_Door 2
+    100206: Single_Door1
+    100208: Solid_Push_Door
+    100210: Solid_Push_Door 1
+    100212: Solid_Push_Door_Group
+    100214: Solid_Push_Door_Group1
+    100216: Window_Door_Bottom
+    100218: Window_Door_Bottom 1
+    100220: Window_Door_Bottom 2
+    100222: Windowed_Door_Base
+    100224: Windowed_Push_Door
+    400000: //RootNode
+    400002: Cube_Double_Doors1
+    400004: Cube_Double_Doors2
+    400006: Door
+    400008: Door 1
+    400010: Door1
+    400012: Door1 1
+    400014: Door_Bottom_Lining
+    400016: Door_Bottom_Lining 1
+    400018: Door_Bottom_Lining1
+    400020: Door_Bottom_Lining1 1
+    400022: Door_Frame
+    400024: Door_Frame 1
+    400026: Door_Handle
+    400028: Door_Handle 1
+    400030: Door_Handle1
+    400032: Door_Handle1 1
+    400034: Door_Hinge_1
+    400036: Door_Hinge_1 1
+    400038: Door_Hinge_2
+    400040: Door_Hinge_2 1
+    400042: Door_Hinge_3
+    400044: Door_Hinge_3 1
+    400046: Door_Lock
+    400048: Door_Lock 1
+    400050: Door_Opener
+    400052: Door_Opener 1
+    400054: Door_Opener1
+    400056: Door_Opener1 1
+    400058: Door_Opener2
+    400060: Door_Opener2 1
+    400062: Door_Opener_Group
+    400064: Door_Opener_Group 1
+    400066: Doors
+    400068: Double_Door_Frame_2
+    400070: Double_Door_Frame_2 1
+    400072: Double_Door_Frame_3
+    400074: Double_Door_Frame_3 1
+    400076: Double_Door_Frame_3 2
+    400078: Elevator_Door_Frame
+    400080: Elevator_Door_Frame 1
+    400082: Elevator_Door_Frame 2
+    400084: Elevator_Door_Frame 3
+    400086: Elevator_Door_Frame 4
+    400088: Elevator_Door_Group
+    400090: Elevator_Door_Group1
+    400092: Elevator_Door_Group2
+    400094: Elevator_Door_Group3
+    400096: Elevator_Door_Group4
+    400098: Elevator_Door_Left_Door
+    400100: Elevator_Door_Left_Door 1
+    400102: Elevator_Door_Left_Door 2
+    400104: Elevator_Door_Left_Door 3
+    400106: Elevator_Door_Left_Door 4
+    400108: Elevator_Door_Right_Door
+    400110: Elevator_Door_Right_Door 1
+    400112: Elevator_Door_Right_Door 2
+    400114: Elevator_Door_Right_Door 3
+    400116: Elevator_Door_Right_Door 4
+    400118: Handle_Bolt_1
+    400120: Handle_Bolt_1 1
+    400122: Handle_Bolt_2
+    400124: Handle_Bolt_2 1
+    400126: Handle_Bolt_3
+    400128: Handle_Bolt_3 1
+    400130: Handle_Bolt_4
+    400132: Handle_Bolt_4 1
+    400134: Hine_Plate_1
+    400136: Hine_Plate_1 1
+    400138: Hine_Plate_2
+    400140: Hine_Plate_2 1
+    400142: Hine_Plate_3
+    400144: Hine_Plate_3 1
+    400146: Hine_Plate_4
+    400148: Hine_Plate_4 1
+    400150: Hine_Plate_5
+    400152: Hine_Plate_5 1
+    400154: Hine_Plate_6
+    400156: Hine_Plate_6 1
+    400158: Opener_Arm_1
+    400160: Opener_Arm_1 1
+    400162: Opener_Arm_2
+    400164: Opener_Arm_2 1
+    400166: Opener_Arm_3
+    400168: Opener_Arm_3 1
+    400170: Opener_Arm_4
+    400172: Opener_Arm_4 1
+    400174: Opener_Arm_5
+    400176: Opener_Arm_5 1
+    400178: Opener_Arm_6
+    400180: Opener_Arm_6 1
+    400182: Opener_Arm_Hinge
+    400184: Opener_Arm_Hinge 1
+    400186: Opener_Arm_Hinge1
+    400188: Opener_Arm_Hinge1 1
+    400190: Opener_Arm_Hinge2
+    400192: Opener_Arm_Hinge2 1
+    400194: Push_Handle
+    400196: Push_Handle 1
+    400198: Push_Handle 2
+    400200: Single_Door
+    400202: Single_Door 1
+    400204: Single_Door 2
+    400206: Single_Door1
+    400208: Solid_Push_Door
+    400210: Solid_Push_Door 1
+    400212: Solid_Push_Door_Group
+    400214: Solid_Push_Door_Group1
+    400216: Window_Door_Bottom
+    400218: Window_Door_Bottom 1
+    400220: Window_Door_Bottom 2
+    400222: Windowed_Door_Base
+    400224: Windowed_Push_Door
+    2300000: Door
+    2300002: Door 1
+    2300004: Door1
+    2300006: Door1 1
+    2300008: Door_Bottom_Lining
+    2300010: Door_Bottom_Lining 1
+    2300012: Door_Bottom_Lining1
+    2300014: Door_Bottom_Lining1 1
+    2300016: Door_Frame
+    2300018: Door_Frame 1
+    2300020: Door_Handle
+    2300022: Door_Handle 1
+    2300024: Door_Handle1
+    2300026: Door_Handle1 1
+    2300028: Door_Hinge_1
+    2300030: Door_Hinge_1 1
+    2300032: Door_Hinge_2
+    2300034: Door_Hinge_2 1
+    2300036: Door_Hinge_3
+    2300038: Door_Hinge_3 1
+    2300040: Door_Lock
+    2300042: Door_Lock 1
+    2300044: Door_Opener
+    2300046: Door_Opener 1
+    2300048: Door_Opener1
+    2300050: Door_Opener1 1
+    2300052: Door_Opener2
+    2300054: Door_Opener2 1
+    2300056: Double_Door_Frame_2
+    2300058: Double_Door_Frame_2 1
+    2300060: Double_Door_Frame_3
+    2300062: Double_Door_Frame_3 1
+    2300064: Double_Door_Frame_3 2
+    2300066: Elevator_Door_Frame
+    2300068: Elevator_Door_Frame 1
+    2300070: Elevator_Door_Frame 2
+    2300072: Elevator_Door_Frame 3
+    2300074: Elevator_Door_Frame 4
+    2300076: Elevator_Door_Left_Door
+    2300078: Elevator_Door_Left_Door 1
+    2300080: Elevator_Door_Left_Door 2
+    2300082: Elevator_Door_Left_Door 3
+    2300084: Elevator_Door_Left_Door 4
+    2300086: Elevator_Door_Right_Door
+    2300088: Elevator_Door_Right_Door 1
+    2300090: Elevator_Door_Right_Door 2
+    2300092: Elevator_Door_Right_Door 3
+    2300094: Elevator_Door_Right_Door 4
+    2300096: Handle_Bolt_1
+    2300098: Handle_Bolt_1 1
+    2300100: Handle_Bolt_2
+    2300102: Handle_Bolt_2 1
+    2300104: Handle_Bolt_3
+    2300106: Handle_Bolt_3 1
+    2300108: Handle_Bolt_4
+    2300110: Handle_Bolt_4 1
+    2300112: Hine_Plate_1
+    2300114: Hine_Plate_1 1
+    2300116: Hine_Plate_2
+    2300118: Hine_Plate_2 1
+    2300120: Hine_Plate_3
+    2300122: Hine_Plate_3 1
+    2300124: Hine_Plate_4
+    2300126: Hine_Plate_4 1
+    2300128: Hine_Plate_5
+    2300130: Hine_Plate_5 1
+    2300132: Hine_Plate_6
+    2300134: Hine_Plate_6 1
+    2300136: Opener_Arm_1
+    2300138: Opener_Arm_1 1
+    2300140: Opener_Arm_2
+    2300142: Opener_Arm_2 1
+    2300144: Opener_Arm_3
+    2300146: Opener_Arm_3 1
+    2300148: Opener_Arm_4
+    2300150: Opener_Arm_4 1
+    2300152: Opener_Arm_5
+    2300154: Opener_Arm_5 1
+    2300156: Opener_Arm_6
+    2300158: Opener_Arm_6 1
+    2300160: Opener_Arm_Hinge
+    2300162: Opener_Arm_Hinge 1
+    2300164: Opener_Arm_Hinge1
+    2300166: Opener_Arm_Hinge1 1
+    2300168: Opener_Arm_Hinge2
+    2300170: Opener_Arm_Hinge2 1
+    2300172: Push_Handle
+    2300174: Push_Handle 1
+    2300176: Push_Handle 2
+    2300178: Single_Door 1
+    2300180: Single_Door 2
+    2300182: Solid_Push_Door
+    2300184: Solid_Push_Door 1
+    2300186: Window_Door_Bottom
+    2300188: Window_Door_Bottom 1
+    2300190: Window_Door_Bottom 2
+    2300192: Windowed_Door_Base
+    3300000: Door
+    3300002: Door 1
+    3300004: Door1
+    3300006: Door1 1
+    3300008: Door_Bottom_Lining
+    3300010: Door_Bottom_Lining 1
+    3300012: Door_Bottom_Lining1
+    3300014: Door_Bottom_Lining1 1
+    3300016: Door_Frame
+    3300018: Door_Frame 1
+    3300020: Door_Handle
+    3300022: Door_Handle 1
+    3300024: Door_Handle1
+    3300026: Door_Handle1 1
+    3300028: Door_Hinge_1
+    3300030: Door_Hinge_1 1
+    3300032: Door_Hinge_2
+    3300034: Door_Hinge_2 1
+    3300036: Door_Hinge_3
+    3300038: Door_Hinge_3 1
+    3300040: Door_Lock
+    3300042: Door_Lock 1
+    3300044: Door_Opener
+    3300046: Door_Opener 1
+    3300048: Door_Opener1
+    3300050: Door_Opener1 1
+    3300052: Door_Opener2
+    3300054: Door_Opener2 1
+    3300056: Double_Door_Frame_2
+    3300058: Double_Door_Frame_2 1
+    3300060: Double_Door_Frame_3
+    3300062: Double_Door_Frame_3 1
+    3300064: Double_Door_Frame_3 2
+    3300066: Elevator_Door_Frame
+    3300068: Elevator_Door_Frame 1
+    3300070: Elevator_Door_Frame 2
+    3300072: Elevator_Door_Frame 3
+    3300074: Elevator_Door_Frame 4
+    3300076: Elevator_Door_Left_Door
+    3300078: Elevator_Door_Left_Door 1
+    3300080: Elevator_Door_Left_Door 2
+    3300082: Elevator_Door_Left_Door 3
+    3300084: Elevator_Door_Left_Door 4
+    3300086: Elevator_Door_Right_Door
+    3300088: Elevator_Door_Right_Door 1
+    3300090: Elevator_Door_Right_Door 2
+    3300092: Elevator_Door_Right_Door 3
+    3300094: Elevator_Door_Right_Door 4
+    3300096: Handle_Bolt_1
+    3300098: Handle_Bolt_1 1
+    3300100: Handle_Bolt_2
+    3300102: Handle_Bolt_2 1
+    3300104: Handle_Bolt_3
+    3300106: Handle_Bolt_3 1
+    3300108: Handle_Bolt_4
+    3300110: Handle_Bolt_4 1
+    3300112: Hine_Plate_1
+    3300114: Hine_Plate_1 1
+    3300116: Hine_Plate_2
+    3300118: Hine_Plate_2 1
+    3300120: Hine_Plate_3
+    3300122: Hine_Plate_3 1
+    3300124: Hine_Plate_4
+    3300126: Hine_Plate_4 1
+    3300128: Hine_Plate_5
+    3300130: Hine_Plate_5 1
+    3300132: Hine_Plate_6
+    3300134: Hine_Plate_6 1
+    3300136: Opener_Arm_1
+    3300138: Opener_Arm_1 1
+    3300140: Opener_Arm_2
+    3300142: Opener_Arm_2 1
+    3300144: Opener_Arm_3
+    3300146: Opener_Arm_3 1
+    3300148: Opener_Arm_4
+    3300150: Opener_Arm_4 1
+    3300152: Opener_Arm_5
+    3300154: Opener_Arm_5 1
+    3300156: Opener_Arm_6
+    3300158: Opener_Arm_6 1
+    3300160: Opener_Arm_Hinge
+    3300162: Opener_Arm_Hinge 1
+    3300164: Opener_Arm_Hinge1
+    3300166: Opener_Arm_Hinge1 1
+    3300168: Opener_Arm_Hinge2
+    3300170: Opener_Arm_Hinge2 1
+    3300172: Push_Handle
+    3300174: Push_Handle 1
+    3300176: Push_Handle 2
+    3300178: Single_Door 1
+    3300180: Single_Door 2
+    3300182: Solid_Push_Door
+    3300184: Solid_Push_Door 1
+    3300186: Window_Door_Bottom
+    3300188: Window_Door_Bottom 1
+    3300190: Window_Door_Bottom 2
+    3300192: Windowed_Door_Base
+    4300000: Door_Hinge_1
+    4300002: Hine_Plate_1
+    4300004: Hine_Plate_2
+    4300006: Door_Hinge_2
+    4300008: Hine_Plate_3
+    4300010: Hine_Plate_4
+    4300012: Door_Hinge_3
+    4300014: Hine_Plate_5
+    4300016: Hine_Plate_6
+    4300018: Door_Lock
+    4300020: Door_Handle
+    4300022: Door_Handle1
+    4300024: Door_Frame
+    4300026: Single_Door
+    4300028: Door_Hinge_1
+    4300030: Hine_Plate_1
+    4300032: Hine_Plate_2
+    4300034: Door_Hinge_2
+    4300036: Hine_Plate_3
+    4300038: Hine_Plate_4
+    4300040: Door_Hinge_3
+    4300042: Hine_Plate_5
+    4300044: Hine_Plate_6
+    4300046: Door_Lock
+    4300048: Door_Handle
+    4300050: Door_Handle1
+    4300052: Door_Frame
+    4300054: Single_Door
+    4300056: Door_Opener
+    4300058: Opener_Arm_1
+    4300060: Opener_Arm_2
+    4300062: Opener_Arm_Hinge
+    4300064: Door
+    4300066: Handle_Bolt_1
+    4300068: Handle_Bolt_2
+    4300070: Door_Bottom_Lining
+    4300072: Door_Opener1
+    4300074: Opener_Arm_3
+    4300076: Opener_Arm_4
+    4300078: Opener_Arm_Hinge1
+    4300080: Door1
+    4300082: Handle_Bolt_3
+    4300084: Handle_Bolt_4
+    4300086: Door_Bottom_Lining1
+    4300088: Double_Door_Frame_2
+    4300090: Door_Opener
+    4300092: Opener_Arm_1
+    4300094: Opener_Arm_2
+    4300096: Opener_Arm_Hinge
+    4300098: Door
+    4300100: Handle_Bolt_1
+    4300102: Handle_Bolt_2
+    4300104: Door_Bottom_Lining
+    4300106: Door_Opener1
+    4300108: Opener_Arm_3
+    4300110: Opener_Arm_4
+    4300112: Opener_Arm_Hinge1
+    4300114: Door1
+    4300116: Handle_Bolt_3
+    4300118: Handle_Bolt_4
+    4300120: Door_Bottom_Lining1
+    4300122: Double_Door_Frame_2
+    4300124: Push_Handle
+    4300126: Window_Door_Bottom
+    4300128: Double_Door_Frame_3
+    4300130: Solid_Push_Door
+    4300132: Door_Opener2
+    4300134: Opener_Arm_5
+    4300136: Opener_Arm_6
+    4300138: Opener_Arm_Hinge2
+    4300140: Push_Handle
+    4300142: Window_Door_Bottom
+    4300144: Double_Door_Frame_3
+    4300146: Solid_Push_Door
+    4300148: Door_Opener2
+    4300150: Opener_Arm_5
+    4300152: Opener_Arm_6
+    4300154: Opener_Arm_Hinge2
+    4300156: Windowed_Door_Base
+    4300158: Push_Handle
+    4300160: Window_Door_Bottom
+    4300162: Double_Door_Frame_3
+    4300164: Elevator_Door_Frame
+    4300166: Elevator_Door_Right_Door
+    4300168: Elevator_Door_Left_Door
+    4300170: Elevator_Door_Frame
+    4300172: Elevator_Door_Right_Door
+    4300174: Elevator_Door_Left_Door
+    4300176: Elevator_Door_Frame
+    4300178: Elevator_Door_Right_Door
+    4300180: Elevator_Door_Left_Door
+    4300182: Elevator_Door_Frame
+    4300184: Elevator_Door_Right_Door
+    4300186: Elevator_Door_Left_Door
+    4300188: Elevator_Door_Frame
+    4300190: Elevator_Door_Right_Door
+    4300192: Elevator_Door_Left_Door
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
