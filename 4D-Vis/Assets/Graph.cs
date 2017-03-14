@@ -37,6 +37,7 @@ public class Graph : MonoBehaviour {
 
 			GameObject point = GameObject.Instantiate(datapoint_prefab, transform.position, transform.rotation);
 			point.transform.position = new Vector3 (x, y, z);
+			// todo point.render4d(t)
 		}
 	}
 }
