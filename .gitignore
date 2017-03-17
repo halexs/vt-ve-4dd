@@ -1,5 +1,7 @@
-*.meta
-*metadata*
-4D-Vis/Library/*
-4D-Vis/Assembly/*
-*.userprefs
+#*.meta
+#*metadata*
+#4D-Vis/Library/*
+#4D-Vis/Assembly/*
+#*.userprefs
+#4D-Vis/Temp/*
+!/4D-Vis/Assets
