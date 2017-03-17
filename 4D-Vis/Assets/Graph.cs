@@ -1,5 +1,4 @@
-
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using System.IO;
@@ -40,6 +39,25 @@ public class Graph : MonoBehaviour {
 			DataPoint point = GameObject.Instantiate(datapoint_prefab, transform.position, transform.rotation);
 			point.setPosition (new Vector3 (x, y, z));
 			point.setT (t);
+
+			/*
+			 * Change nothing
+			//Scale size by the 4th dimension. Add a new vector to the previous position vector to the localScale
+			//point.transform.localScale += new Vector3(t,t,t);
+			//To change the length, we can simply change either x, y, or z
+			//point.transform.localScale += new Vector3(t,0,0);
+
+			//To change the color, change the r,g, or b values
+			//To change transparency, change the opacity value between 0 to 1
+			float rvalue, gvalue, bvalue, opacity;
+			//Color newColor = new Color (rvalue, gvalue, bvalue, opacity);
+			Color newColor = new Color (200f, 123F, 213F, 1);
+			MeshRenderer gORenderer = point.GetComponent<MeshRenderer> ();
+			Material newMat = new Material (new Shader ());
+			newMat.color = newColor;
+			gORenderer.material = newMat; */
 		}
 	}
+
 }
+

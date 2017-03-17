@@ -1,5 +1,5 @@
 *.meta
 *metadata*
-*/Library
-*/Assembly
+4D-Vis/Library/*
+4D-Vis/Assembly/*
 *.userprefs
