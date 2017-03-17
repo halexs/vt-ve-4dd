@@ -4,9 +4,10 @@ using UnityEngine;
 using System.IO;
 
 public class Graph : MonoBehaviour {
+	
 	//Accepts file with lines in the form x,y,z,t
 	public string csv_file_path;
-	public GameObject datapoint_prefab;
+	public DataPoint datapoint_prefab;
 	public int meh;
 
 
@@ -25,7 +26,7 @@ public class Graph : MonoBehaviour {
 
 			for (int j = 0; j < 4; j++) {
 				data [i,j] = float.Parse (axes_raw [j]);
-				Debug.Log (data [i,j]);
+
 			}
 		}
 
@@ -35,9 +36,9 @@ public class Graph : MonoBehaviour {
 			float z = data [i, 2];
 			float t = data [i, 3];
 
-			GameObject point = GameObject.Instantiate(datapoint_prefab, transform.position, transform.rotation);
-			point.transform.position = new Vector3 (x, y, z);
-
+			DataPoint point = GameObject.Instantiate(datapoint_prefab, transform.position, transform.rotation);
+			point.setPosition (new Vector3 (x, y, z));
+			point.setT (t);
 
 			/*
 			 * Change nothing
