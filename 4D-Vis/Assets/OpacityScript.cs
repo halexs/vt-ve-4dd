@@ -15,8 +15,9 @@ public class OpacityScript : DataPoint {
 	}
 
 	public override void setT(float t) {
-		//Currently sets the color to blue. Should change this whenever
-		//GetComponent<Renderer> ().material.color = t;
+		//Currently sets the opacity to anything based on the t value.
+		//Might need to sanitize the inputs to make sure the range is between 0-1
+		gameObject.GetComponent<Renderer> ().material.color = new Color(1.0f, 1.0f, 1.0f, t);
 
 	}
 }
