@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class ScaleScript : DataPoint {
-
+	public float scale = 1f;
 	// Use this for initialization
 	void Start () {
 		
@@ -15,6 +15,8 @@ public class ScaleScript : DataPoint {
 	}
 
 	public override void setT(float t) {
-		transform.localScale += (new Vector3 (1.0f, 0f, 0f));
+		t *= scale;
+		transform.localScale += (new Vector3 (t, t, t));
+
 	}
 }
