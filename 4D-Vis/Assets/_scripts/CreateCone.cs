@@ -2,6 +2,7 @@
 using UnityEditor;
 using System.Collections;
 
+//Cone rendering source:----------------------------------
 // an Editor method to create a cone primitive (so far no end caps)
 // the top center is placed at (0/0/0)
 // the bottom center is placed at (0/0/length)
@@ -10,9 +11,11 @@ using System.Collections;
 // note the resulting mesh will be created as an asset in Assets/Editor
 // Author: Wolfram Kresse
 //http://wiki.unity3d.com/index.php?title=CreateCone
+//----------------------------------------------------------
 
 //Modified by Nathaniel Lahn to dynamically create custimizable instances at runtime as
-//opposed to a single mesh in editor
+//opposed to a single mesh in editor. Additionally, modified to render multiple cones
+//approximately equidistant around a sphere.
 public class CreateCone : DataPoint {
 
 	public int numVertices = 1000;
@@ -187,7 +190,7 @@ public class CreateCone : DataPoint {
 	}
 
 	public override void setT(float t){
-		int numPoints = (int)t;
+		int numPoints = (int)(t*50) + 4;
 		Vector3[] point_set = points (numPoints);
 		foreach (Vector3 v in point_set) {
 			createCone (v);

@@ -46,7 +46,7 @@ public class Graph : MonoBehaviour {
 			float y = data [i, 1];
 			float z = data [i, 2];
 			float t = data [i, 3];
-			Debug.Log (t);
+
 
 			DataPoint point = GameObject.Instantiate(datapoint_prefab, transform.position, transform.rotation);
 			point.setPosition (new Vector3 (x, y, z));
@@ -76,8 +76,7 @@ public class Graph : MonoBehaviour {
 					max = val;
 				}
 			}
-			Debug.Log(j + " range: " + mins[j] + " " + maxes[j]);
-			Debug.Log(j + " observed range: " + min + " " + max);
+	
 			for (int i = 0; i < length; i++) {
 				float val = data [i, j];
 				float scaled = (val - min) / (max - min) * (maxes [j] - mins [j]) + mins [j];

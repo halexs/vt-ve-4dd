@@ -33,6 +33,6 @@ public class OpacityScript : DataPoint {
 		//int min = 0x00FF00;
 		//int max = 0xFF0000
 		gameObject.GetComponent<Renderer> ().material.color = new Color(1.0f, 1.0f, 1.0f, t);
-
+		Debug.Log ("T:" + t);
 	}
 }

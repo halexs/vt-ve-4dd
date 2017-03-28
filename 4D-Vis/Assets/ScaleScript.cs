@@ -15,8 +15,9 @@ public class ScaleScript : DataPoint {
 	}
 
 	public override void setT(float t) {
-		t *= scale;
-		transform.localScale += (new Vector3 (t, t, t));
+		//t *= scale;
 
+		t = t*t+0.1f;
+		transform.localScale += (new Vector3 (t, t, t));
 	}
 }

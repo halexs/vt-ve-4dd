@@ -13,7 +13,7 @@ public class Movement : DataPoint {
 	
 	// Update is called once per frame
 	void Update () {
-		transform.Rotate (Time.deltaTime*t, 0, 0);
+		transform.Rotate (Time.deltaTime*t*200 + 1, 0, 0);
 	}
 
 	public override void setT(float t) {
