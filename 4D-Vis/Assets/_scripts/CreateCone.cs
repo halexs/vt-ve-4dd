@@ -21,7 +21,7 @@ public class CreateCone : DataPoint {
 	public int numVertices = 1000;
 	public float radiusTop = .1f;
 	public float radiusBottom = 0f;
-	public float length = 1f;
+	public float length = .2f;
 	public float openingAngle = 0f; // if >0, create a cone with this angle by setting radiusTop to 0, and adjust radiusBottom according to length;
 	public bool outside = true;
 	public bool inside = false;

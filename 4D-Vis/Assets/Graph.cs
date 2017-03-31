@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using System.IO;
-
+using UnityStandardAssets.CrossPlatformInput;
 public class Graph : MonoBehaviour {
 	
 	//Accepts file with lines in the form x,y,z,t
@@ -47,11 +47,11 @@ public class Graph : MonoBehaviour {
 			float z = data [i, 2];
 			float t = data [i, 3];
 
-
+			transform.position = new Vector3 ((xMin + xMax) / 2, (yMin + yMax) / 2, (zMin + zMax) / 2);//rotate data around middle
 			DataPoint point = GameObject.Instantiate(datapoint_prefab, transform.position, transform.rotation);
+			point.transform.parent = transform;
 			point.setPosition (new Vector3 (x, y, z));
 			point.setT (t);
-
 		}
 	}
 
@@ -84,6 +84,14 @@ public class Graph : MonoBehaviour {
 			}
 		}
 		return normal;
+	}
+	public float spinSpeed = 2.0f;
+	void Update() {
+		float gx = CrossPlatformInputManager.GetAxis ("GamepadX")*spinSpeed;
+		float gy = CrossPlatformInputManager.GetAxis ("GamepadY")*spinSpeed;
+
+		transform.Rotate (Vector3.right, gx);
+		transform.Rotate (Vector3.up, gy);
 	}
 }
 
